@@ -1,0 +1,61 @@
+{
+    "current": [
+        {
+            "name": "Dominik Gront",
+            "status": "current",
+            "position": "Principal Investigator",
+            "photo": "lab_members/dgront.jpg"
+        },
+        {
+            "name": "Mohammad Saqib",
+            "status": "current",
+            "position": "PhD student",
+            "photo": "lab_members/msaqib.jpg"
+        },
+        {
+            "name": "Piotr Śmieja",
+            "status": "current",
+            "position": "PhD student",
+            "photo": ""
+        }
+    ],
+
+    "former": [
+        {
+            "name": "Justyna Kryś",
+            "status": "former",
+            "position": "PhD student",
+            "photo": "lab_members/jkrys.jpg"
+        },
+        {
+            "name": "Joanna Macnar",
+            "status": "former",
+            "position": "PhD student",
+            "photo": ""
+        },
+        {
+            "name": "Marcin Piwowar",
+            "status": "former",
+            "position": "MsC student",
+            "photo": ""
+        },
+        {
+            "name": "Mateusz Skłodowski",
+            "status": "former",
+            "position": "MsC student",
+            "photo": ""
+        },
+        {
+            "name": "Aleksandra Badaczewska-Dawid",
+            "status": "former",
+            "position": "PhD student",
+            "photo": ""
+        },
+        {
+            "name": "Monika Pikuzińska",
+            "status": "former",
+            "position": "MsC student",
+            "photo": ""
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+[    
+    {
+        "name": "(2023) New potentials for protein modeling",
+        "github": "https://github.com/psmieja/svd_cg_potentials.git",
+        "technologies": [
+            "python"
+        ],
+        "description": "Determining the coefficients of new knowledge-based potentials for coarse-grained protein modeling and examining possible ways of representing them with fewer parameters. The analysis was performed as part of the reasearch for my master thesis at University of Warsaw."
+    },
+
+    {
+        "name": "(2021) Slovenian dolines",
+        "github": "https://github.com/psmieja/slovenian_dolines.git",
+        "technologies": [
+            "python"
+        ],
+        "description": "Analysis of shapes, sizes and spatial distribution of solution dolines on Slovenian plateaus based on the Lidar data provided by the Slovenian Government. The existence of these solution dolines can be explained by the positive feedback loop in the set of differential equations governing the dissolution process of porous carbonate rocks. This process can be simulated on the computer clusters and comprehensive analysis of the shapes and spatial distribution of the dolines can help compare the simulation with the natural phenomenon. The analysis was performed as part of the research for my bachelor thesis at University of Warsaw"
+    },
+
+    {
+        "name": "(2021) Portfolio website",
+        "github": "https://github.com/psmieja/portfolio",
+        "website": "http://plsmi.pl/",
+        "technologies": [
+            "bootstrap",
+            "python",
+            "flask"
+        ],
+        "description": "A simple website for displaying personal projects with front-end written in Bootstrap and back-end written in Flask (Python). A list of projects is provided as a json file. The website can be further developed to include tags and filters."
+    },
+  
+    {
+        "name": "(2019) Tesla Coil (A Team Student Project)",
+        "website": "https://sites.google.com/student.uw.edu.pl/zps-tesla/strona-g%C5%82%C3%B3wna",
+        "technologies": [],
+        "description": "A working Tesla Coil built by our group as a team project at the Faculty of Physics of Warsaw University."
+    },
+
+    {
+        "name" : "(2018) TrenerPJM",
+        "github" : "https://github.com/psmieja/TrenerPJM.git",
+        "website" : "http://pjm.plsmi.pl/",
+        "technologies" : ["php", "js"],
+        "description" : "PHP/js web application created for learning Polish Sign Language (PJM). Website is responsive, with separate mobile version. Application uses video resources from (slownikpjm.uw.edu.pl). Website back-end is written in pure PHP and the front-end in vanilla JavaScript."
+    },
+    
+    {
+        "name": "(2018) AVR Calculator",
+        "github": "https://github.com/psmieja/AVR_Calculator.git",
+        "technologies": [
+            "avr",
+            "c"
+        ],
+        "description": "ATMega8-based simple calculator with four 8-segment displays and a tact switch keyboard. Project made for the microcontroller programming class at my university."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "p450atlas",
+        "photo": "",
+        "description": "",
+        "url": ""
+    },
+    {
+        "name": "Bioshell",
+        "photo": "",
+        "description": "BioShell is a general bioinformatics toolkit, focused on biomolecular structures. Its functionality covers file processing such as data filtering and file formats convertion. It handle protein sequences, sequence profiles and alignments. Structures calculations capabilities include superimpositions, crmsd calculations, alignments, Phi/Psi angles and many more.",
+        "url": ""
+    },
+    {   
+        "name": "Libra",
+        "photo": "",
+        "description": "",
+        "url": ""
+    },
+    {
+        "name": "SURPASS",
+        "photo": "",
+        "description": "Single United Residue per Pre-Averaged Secondary Structure fragment is a coarse-grained low resolution model for protein simulations. Its design has been based on the statistical analysis of structural regularities characteristic for protein systems. The SURPASS software is available free of charge to academic use on Apache 2.0 license.",
+        "url": ""
+    },
+    {
+        "name": "Visualife",
+        "photo": "",
+        "description": "VisuaLife is a Python library for making interactive data visualization in a web-browser. It's focused on visualization of biological data such as sequence alignments and macromolecular structures, but can be used to create various kinds of plots and drawing.",
+        "url": ""
+    },
+    {
+        "name": "Rosetta",
+        "photo": "",
+        "description": "Our lab, as a part of Rosetta Commons, actively participates in the development of Rosetta Macromolecular modelling toolkit. Rosetta software package has been a very successful method for protein design and modeling, docking,and many other applications!",
+        "url": ""
+    }
+]
