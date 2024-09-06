@@ -2,37 +2,37 @@
     {
         "name": "p450atlas",
         "photo": "img/projects/p450atlas.png",
-        "description": "",
-        "url": ""
+        "description": "P450 proteins, also known as cytochrome P450 enzymes, are a superfamily of heme-containing monooxygenases found in all domains of life. They play a crucial role in the metabolism of endogenous and exogenous compounds, including drugs, environmental pollutants, and dietary constituents. P450 proteins are involved in a variety of biological processes, including steroid biosynthesis, xenobiotic metabolism, and signaling pathways. P450Atlas provides an easy way to assign a family and subfamily for the user-provided P450 enzyme sequence.",
+        "url": "https://p450atlas.org/"
     },
     {
         "name": "Bioshell",
-        "photo": "",
+        "photo": "img/projects/bioshell.png",
         "description": "BioShell is a general bioinformatics toolkit, focused on biomolecular structures. Its functionality covers file processing such as data filtering and file formats convertion. It handle protein sequences, sequence profiles and alignments. Structures calculations capabilities include superimpositions, crmsd calculations, alignments, Phi/Psi angles and many more.",
-        "url": ""
+        "url": "https://bioshell.readthedocs.io/"
     },
     {   
         "name": "Libra",
-        "photo": "",
-        "description": "",
+        "photo": "img/projects/libra.png",
+        "description": "TBD",
         "url": ""
     },
     {
         "name": "SURPASS",
-        "photo": "",
+        "photo": "img/projects/surpass.gif",
         "description": "Single United Residue per Pre-Averaged Secondary Structure fragment is a coarse-grained low resolution model for protein simulations. Its design has been based on the statistical analysis of structural regularities characteristic for protein systems. The SURPASS software is available free of charge to academic use on Apache 2.0 license.",
-        "url": ""
+        "url": "https://bioshell.readthedocs.io/en/latest/doc/surpass-model-toc.html"
     },
     {
         "name": "Visualife",
-        "photo": "",
+        "photo": "img/projects/visualife.png",
         "description": "VisuaLife is a Python library for making interactive data visualization in a web-browser. It's focused on visualization of biological data such as sequence alignments and macromolecular structures, but can be used to create various kinds of plots and drawing.",
-        "url": ""
+        "url": "https://visualife.readthedocs.io/"
     },
     {
         "name": "Rosetta",
-        "photo": "",
+        "photo": "img/projects/rosetta.png",
         "description": "Our lab, as a part of Rosetta Commons, actively participates in the development of Rosetta Macromolecular modelling toolkit. Rosetta software package has been a very successful method for protein design and modeling, docking,and many other applications!",
-        "url": ""
+        "url": "https://rosettacommons.org/"
     }
 ]
