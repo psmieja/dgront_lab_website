@@ -1,9 +1,16 @@
 [
     {
-        "title": "",
-        "authors": [],
-        "journal": "",
-        "date": {"year": 2022, "month": 6, "day": 21},
-        "url": "" 
-    }
+        "title": "Test Article",
+        "authors": "Ktośtam Jakiś",
+        "journal": "SomeJournal",
+        "date": "June 2023",
+        "url": "http://asdasdasd.com" 
+    },
+    {
+        "title": "Test2 Article",
+        "authors": "Ktośtam Jakiś",
+        "journal": "SomeJournal",
+        "date": "June 2023",
+        "url": "http://asdasdasd.com" 
+    } 
 ]

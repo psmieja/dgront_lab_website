@@ -20,15 +20,13 @@ def home():
         lab_members = json.load(f)
     with open("./data/projects.json", "r") as f:
         projects = json.load(f)
-
-    for lab_member in lab_members["current"]:
-        with open(f"./media/{lab_member["photo"]}", "rb") as f:
-            lab_member_photo = base64.b64encode(f.read())
-        print(lab_member_photo)
+    with open("./data/articles.json", "r") as f:
+        articles = json.load(f)
 
     return render_template('index.html',
                            lab_members=lab_members,
                            projects=projects,
+                           articles=articles
                            )
 
 if __name__ == '__main__':
