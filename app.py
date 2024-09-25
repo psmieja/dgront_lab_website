@@ -15,6 +15,7 @@ app = Flask(__name__)
 
 
 @app.route("/")
+@app.route("/home")
 def home():
     with open("./data/lab_members.json", "r") as lab_members_file, \
          open("./data/projects.json", "r") as projects_file, \

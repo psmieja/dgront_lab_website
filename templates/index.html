@@ -1,6 +1,9 @@
 
 {% extends "base.html" %}
 
+
+
+
 {% block main %}
     <!-- ================================================================= Hero Section -->
     <section id="hero" class="hero section dark-background">
@@ -61,19 +64,22 @@
 
 
     <!--=================================================== Publications ===================================================-->
-    <section class="page-section" id="publications">
+    <section class="services section" id="publications">
       <div class="container">
-          <div class="text-center">
+          <div class="service-item text-center">
             <div class="container section-title" data-aos="fade-up">
               <h2>Recent publications</h2>
               <!-- <p>Projects developed in our group</p> -->
             </div>
               {% for article in articles %}
               <div class="citation mb-5">
+                <a href="{{ article.url }}" class="stretched-link">
                   <h3>{{ article.title }}</h3>
+                </a>
+                  <!-- <h4>{{ article.title }}</h3> -->
                   <p class="card-text mb-1">{{ articles.authors }}</p>
                   <p class="card-text mb-1">{{ article.date }}, <em>{{ article.journal }}</em></p>
-                  <a href="{{ article.url }}">{{ article.url }}</a>
+                  <!-- <a href="{{ article.url }}">{{ article.url }}</a> -->
               </div>
               {% endfor %}
           </div>
