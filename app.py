@@ -16,12 +16,13 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    with open("./data/lab_members.json", "r") as f:
-        lab_members = json.load(f)
-    with open("./data/projects.json", "r") as f:
-        projects = json.load(f)
-    with open("./data/articles.json", "r") as f:
-        articles = json.load(f)
+    with open("./data/lab_members.json", "r") as lab_members_file, \
+         open("./data/projects.json", "r") as projects_file, \
+         open("./data/articles.json", "r") as articles_file:
+        
+        lab_members = json.load(lab_members_file)
+        projects = json.load(projects_file)
+        articles = json.load(articles_file)
 
     return render_template('index.html',
                            lab_members=lab_members,
@@ -29,9 +30,16 @@ def home():
                            articles=articles
                            )
 
+@app.route("/libra")
+def libra():
+    #  return redirect("http://www.example.com", code=302)
+    return render_template('libra.html')
 
-# if __name__ == '__main__':
-    # app.run(debug=True)
+
+
 
 if __name__ == "__main__":
     app.run(port=8000, debug=True)
+
+# if __name__ == '__main__':
+    # app.run(debug=True)
