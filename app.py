@@ -23,11 +23,21 @@ def home():
         
         lab_members = json.load(lab_members_file)
         projects = json.load(projects_file)
-        articles = json.load(articles_file)
+        articles = [article for article in json.load(articles_file) if article["featured"]]
+        print(articles)
 
     return render_template('index.html',
                            lab_members=lab_members,
                            projects=projects,
+                           articles=articles
+                           )
+
+@app.route("/publications")
+def publications():
+    with open("./data/articles.json", "r") as articles_file:
+        articles = json.load(articles_file)
+
+    return render_template('publications.html',
                            articles=articles
                            )
 

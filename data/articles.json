@@ -1,16 +1,47 @@
 [
     {
         "title": "Automated Protein Secondary Structure Assignment from Cα Positions Using Neural Networks",
-        "authors": "Mohammad N. Saqib; Justyna D. Kryś; Dominik Gront",
+        "authors": [
+            {"firstname": "Mohammad N.", "surname": "Saqib"},
+            {"firstname": "Justyna D.", "surname": "Kryś"},
+            {"firstname": "Dominik", "surname": "Gront"}
+        ],
         "journal": "Biomolecules",
-        "date": "June 2022",
-        "url": "https://doi.org/10.3390/biom12060841" 
+        "year": 2022,
+        "volume": 12,
+        "number": 6,
+        "pages": "841",
+        "url": "https://doi.org/10.3390/biom12060841",
+        "keywords": [
+            "deep learning",
+            "machine learning",
+            "multi-class classifier",
+            "neural networks",
+            "protein secondary structure",
+            "protein structure prediction",
+            "protein secondary structure assignment"
+        ],
+        "featured": true
     },
     {
         "title": "In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes Cytochrome P450 Monooxygenases CYP51s with Substrates and Azoles",
-        "authors": "Olufunmilayo Olukemi Akapo; Joanna M. Macnar; Justyna D. Kryś; Puleng Rosinah Syed; Khajamohiddin Syed; Dominik Gront",
+        "authors": [
+            {"firstname": "Olufunmilayo Olukemi", "surname": "Akapo"},
+            {"firstname": "Joanna M.", "surname": "Macnar"},
+            {"firstname": "Justyna D.", "surname": "Kryś"},
+            {"firstname": "Puleng Rosinah", "surname": "Syed"},
+            {"firstname": "Khajamohiddin", "surname": "Syed"},
+            {"firstname": "Dominik", "surname": "Gront"}
+        ],
         "journal": "International Journal of Molecular Sciences",
-        "date": "July 2021",
-        "url": "https://doi.org/10.3390/ijms22157811" 
+        "year": 2021,
+        "volume": 22,
+        "number": 15,
+        "pages": "7811",
+        "url": "https://doi.org/10.3390/ijms22157811",
+        "keywords": [
+    
+        ],
+        "featured": false
     } 
 ]

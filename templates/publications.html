@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block main %}
+
+<main class="main">
+
+  <!-- Page Title -->
+  <div class="page-title dark-background">
+    <div class="container position-relative">
+      <h1>Publications</h1>
+      <p>Scientific publications authored and co-authored by the members of our lab</p>
+      <nav class="breadcrumbs">
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li class="current">Publications</li>
+        </ol>
+      </nav>
+    </div>
+  </div><!-- End Page Title -->
+
+  <!-- Service Details Section -->
+  <section id="service-details" class="service-details section">
+      <div class="container mt-5">
+          <div class="service-item text-center">
+            <!-- <div class="container section-title" data-aos="fade-up">
+              <h2>Publications from our lab</h2>
+            </div> -->
+            {% for article in articles %}
+            <div class="citation mb-5">
+                <h5 class="card-text mb-1">
+                  {{ articles.authors }}
+                  {{ article.title }}.
+                  <em>{{ article.journal }}</em>.
+                  <b>{{ article.year }}</b>,
+                  {{ article.volume }}
+                  ({{ article.volume }}),
+                  {{ article.pages }}.
+                  <a href="{{ article.url }}">{{ article.url }}</a>
+                </h5>
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+      </div>
+  </section>
+
+
+
+{% endblock %}
