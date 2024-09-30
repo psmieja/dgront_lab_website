@@ -71,22 +71,21 @@
               <h2>Recent publications</h2>
               <a href="/publications">All publications</a>
             </div>
-              {% for article in articles %}
-              <div class="citation mb-5">
-                <a href="{{ article.url }}" class="stretched-link">
-                  <h5 class="card-text mb-1">
-                    {{ articles.authors }}
-                    {{ article.title }}.
-                    <em>{{ article.journal }}</em>.
-                    <b>{{ article.year }}</b>,
-                    {{ article.volume }}
-                    ({{ article.volume }}),
-                    {{ article.pages }}.
-                    {{ article.url }}
-                  </h5>
-                </a>
-              </div>
-              {% endfor %}
+            {% for article in articles %}
+            <div class="citation mb-5">
+                <h5 class="card-text mb-1">
+                  {{ article.authors }}
+                  {{ article.title }}.
+                  <em>{{ article.journal }}</em>.
+                  <b>{{ article.year }}</b>,
+                  {{ article.volume }}
+                  ({{ article.volume }}),
+                  {{ article.pages }}.
+                  <a href="{{ article.url }}">{{ article.url }}</a>
+                </h5>
+              </a>
+            </div>
+            {% endfor %}
           </div>
       </div>
     </section>
