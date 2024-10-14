@@ -40,17 +40,22 @@ def prepare_articles(articles_file, only_featured=False):
 @app.route("/home")
 def home():
     with open("./data/lab_members.json", "r") as lab_members_file, \
+         open("./data/collaborators.json", "r") as collaborators_file, \
          open("./data/projects.json", "r") as projects_file, \
+         open("./data/news.json", "r") as news_file, \
          open("./data/articles.json", "r") as articles_file:
         
         lab_members = json.load(lab_members_file)
+        collaborators = json.load(collaborators_file)
         projects = json.load(projects_file)
         articles = prepare_articles(articles_file, only_featured=True)
-
+        news = [news_item for news_item in json.load(news_file) if news_item["featured"]]
         
     return render_template('index.html',
                            lab_members=lab_members,
+                           collaborators=collaborators,
                            projects=projects,
+                           news=news,
                            articles=articles
                            )
 
