@@ -88,16 +88,20 @@
             </div>
             {% for article in articles %}
             <div class="citation mb-5">
-                <h5 class="card-text mb-1">
-                  {{ article.authors }}
-                  {{ article.title }}.
-                  <em>{{ article.journal }}</em>.
+              <h5 class="card-text mb-1">
+                {{ article.authors }}
+                {{ article.title }}.
+                <em>{{ article.journal }}</em>.
+                {% if article.status == 'accepted' %}
+                  <b>(accepted)</b>
+                {% else %}
                   <b>{{ article.year }}</b>,
                   {{ article.volume }}
                   ({{ article.volume }}),
                   {{ article.pages }}.
                   <a href="{{ article.url }}">{{ article.url }}</a>
-                </h5>
+                {% endif %}
+              </h5>
               </a>
             </div>
             {% endfor %}
@@ -134,36 +138,7 @@
       </div>
     </section>
 
-    <!-- =================================================== Former memebers ===============================================-->
-    <section id="former-members" class="team section">
-    <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Alumni</h2>
-        <!-- <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p> -->
-      </div><!-- End Section Title -->
-      <div class="container">
-        <!-- <div class="row gy-4"> -->
-        <div class="row justify-content-center">
-
-          {% for person in lab_members.former %}
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <img src="{{ url_for('static', filename=person.photo) }}" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>{{ person.name }}</h4>
-                  <span>{{ person.position }}</span>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-          {% endfor %}
-
-        </div>
-      </div>
-
-    </section><!-- /Team Section -->
-
+    
     <!-- =================================================== Collaborators ===============================================-->
     <section id="collaborators" class="team section">
     <!-- Section Title -->

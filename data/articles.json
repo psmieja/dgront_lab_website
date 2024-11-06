@@ -1,5 +1,41 @@
 [
     {
+        "status": "accepted",
+        "title": "Exploring P450 Superfamily Diversity with P450Atlas - online tool for Automated Subfamily Assignment",
+        "authors": [
+            {"firstname": "David R.", "surname": "Nelson"},
+            {"firstname": "Khajamohiddin", "surname": "Syed"},
+            {"firstname": "Dominik", "surname": "Gront"}
+        ],
+        "journal": "Protein Science",
+        "keywords": [
+            "deep learning",
+            "machine learning",
+            "neural networks",
+            "protein secondary structure assignment"
+        ],
+        "featured": true
+    },
+    {
+        "status": "accepted",
+        "title": "deepBBQ: A Deep Learning Approach to the Protein Backbone Reconstruction",
+        "authors": [
+            {"firstname": "Justyna D.", "surname": "Kryś"},
+            {"firstname": "Maksymilian", "surname": "Głowacki"},
+            {"firstname": "Piotr", "surname": "Śmieja"},
+            {"firstname": "Dominik", "surname": "Gront"}
+        ],
+        "journal": "Biomolecules",
+        "keywords": [
+            "deep learning",
+            "machine learning",
+            "neural networks",
+            "protein secondary structure assignment"
+        ],
+        "featured": true
+    },
+    {
+        "status": "published",
         "title": "Automated Protein Secondary Structure Assignment from Cα Positions Using Neural Networks",
         "authors": [
             {"firstname": "Mohammad N.", "surname": "Saqib"},
@@ -21,9 +57,10 @@
             "protein structure prediction",
             "protein secondary structure assignment"
         ],
-        "featured": true
+        "featured": false
     },
     {
+        "status": "published",
         "title": "In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes Cytochrome P450 Monooxygenases CYP51s with Substrates and Azoles",
         "authors": [
             {"firstname": "Olufunmilayo Olukemi", "surname": "Akapo"},

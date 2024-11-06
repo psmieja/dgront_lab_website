@@ -31,11 +31,15 @@
                   {{ article.authors }}
                   {{ article.title }}.
                   <em>{{ article.journal }}</em>.
-                  <b>{{ article.year }}</b>,
-                  {{ article.volume }}
-                  ({{ article.volume }}),
-                  {{ article.pages }}.
-                  <a href="{{ article.url }}">{{ article.url }}</a>
+                  {% if article.status == 'accepted' %}
+                    <b>(accepted)</b>
+                  {% else %}
+                    <b>{{ article.year }}</b>,
+                    {{ article.volume }}
+                    ({{ article.volume }}),
+                    {{ article.pages }}.
+                    <a href="{{ article.url }}">{{ article.url }}</a>
+                  {% endif %}
                 </h5>
               </a>
             </div>

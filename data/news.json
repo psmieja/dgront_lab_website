@@ -3,18 +3,18 @@
         "title": "P450atlas website released!",
         "featured": true,
         "photo": "img/news/p450atlas.png",
-        "contents": "Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum."
+        "contents": "The 16th International Symposium Cytochrome - P450 Biodiversity & Biotechnology featured the premiere of the P450atlas website - the ultimate reference for P450 enzyme "
+    },
+    {
+        "title": "Our protein backbone reconstruction model deepBBQ published!",
+        "featured": true,
+        "photo": "img/news/deepbbq.png",
+        "contents": "The article describing our new program for protein backbone reconstruction 'deepBBQ' has just been accepted for publication in 'Biomolecules' journal."
     },
     {
         "title": "Exchange students from France",
         "featured": true,
-        "photo": "assets/img/about.jpg",
-        "contents": "Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum."
-    },
-    {
-        "title": "Exchange students from France",
-        "featured": true,
-        "photo": "assets/img/about.jpg",
-        "contents": "Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum."
+        "photo": "img/news/french_flag.png",
+        "contents": "This summer two exchange students from France have visited our lab to work on the new version of the Bioshell package."
     }
 ]
