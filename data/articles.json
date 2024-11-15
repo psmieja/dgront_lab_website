@@ -17,7 +17,7 @@
         "featured": true
     },
     {
-        "status": "accepted",
+        "status": "published",
         "title": "deepBBQ: A Deep Learning Approach to the Protein Backbone Reconstruction",
         "authors": [
             {"firstname": "Justyna D.", "surname": "Kryś"},
@@ -26,11 +26,20 @@
             {"firstname": "Dominik", "surname": "Gront"}
         ],
         "journal": "Biomolecules",
+        "year": 2024,
+        "volume": 14,
+        "number": 11,
+        "pages": "1448",
+        "url": "https://doi.org/10.3390/biom14111448",
         "keywords": [
             "deep learning",
             "machine learning",
             "neural networks",
-            "protein secondary structure assignment"
+            "atomic reconstruction",
+            "structural bioinformatics",
+            "deep learning",
+            "coarse-grained modeling",
+            "convolutional neural network"
         ],
         "featured": true
     },

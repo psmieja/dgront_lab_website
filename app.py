@@ -1,17 +1,7 @@
 from flask import Flask, render_template, url_for
 import json
-import base64
 
 app = Flask(__name__)
-
-# a workaround solution to avoid boilerplate code in templates
-# a method is made available in jinja templates that provides paths to icons
-# which are all placed in the same directory and are named consistently
-# @app.context_processor
-# def utility_processor():
-#     def icon_path(tech):
-#         return f"/static/icons/{tech}-icon.png"
-#     return dict(icon_path=icon_path)
 
 def format_author_name(author_name_dict):
     formatted_name = f"{author_name_dict['surname']}, "
@@ -67,11 +57,6 @@ def publications():
     return render_template('publications.html',
                            articles=articles
                            )
-
-# @app.route("/libra")
-# def libra():
-#     #  return redirect("http://www.example.com", code=302)
-#     return render_template('libra.html')
 
 if __name__ == "__main__":
     app.run(port=8000, debug=True)
