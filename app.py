@@ -1,4 +1,4 @@
-from flask import Flask, render_template, url_for
+from flask import Flask, render_template, url_for, send_from_directory 
 import json
 
 app = Flask(__name__)
@@ -57,6 +57,10 @@ def publications():
     return render_template('publications.html',
                            articles=articles
                            )
+
+@app.route("/uploads/<path:name>")
+def download_file(name):
+    return send_from_directory("uploads", name, as_attachment=True)
 
 if __name__ == "__main__":
     app.run(port=8000, debug=True)
