@@ -1,4 +1,3 @@
-
 TY  - JOUR
 T1  - Analysis of protein structures containing HEPES and MES molecules
 AU  - Macnar, Joanna Magdalena
@@ -11,8 +10,8 @@ DA  - 2022/09/01
 DO  - https://doi.org/10.1002/pro.4415
 T2  - Protein Science
 JF  - Protein Science
-JO  - Protein Science
-JA  - Protein Science
+JT  - Protein Science
+TA  - Protein Science
 SP  - e4415
 VL  - 31
 IS  - 9
