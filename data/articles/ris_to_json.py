@@ -6,17 +6,20 @@ import argparse
 def parse_ris(file_path):
     ris_mapping = {
         "PMID": "pmid",
+        "T1": "title",
         "TI": "title",
         "FAU": "authors",
-        "TA": "journal",
+        "TA": "jrnl",
         "JT": "journal",
+        "PY": "year",
         "DP": "year",
         "VI": "volume",
         "IP": "number",
         "PG": "pages",
         "LID": "doi",
         "AID": "doi",
-        "OT": "keywords"
+        "OT": "keywords",
+        "FT": "featured",
     }
     
     data = {}
@@ -60,6 +63,7 @@ def parse_ris(file_path):
     
     data["status"] = "published"
     return data
+
 
 def parse_author(name):
     parts = name.split(", ")

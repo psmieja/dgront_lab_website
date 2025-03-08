@@ -1,93 +1,2434 @@
 [
     {
-        "status": "accepted",
-        "title": "Exploring P450 Superfamily Diversity with P450Atlas - online tool for Automated Subfamily Assignment",
-        "authors": [
-            {"firstname": "David R.", "surname": "Nelson"},
-            {"firstname": "Khajamohiddin", "surname": "Syed"},
-            {"firstname": "Dominik", "surname": "Gront"}
+        "pmid":"32422044",
+        "volume":"60",
+        "number":"5",
+        "year":"2020",
+        "title":"Practical Considerations for Atomistic Structure Modeling with Cryo-EM Maps.",
+        "pages":"2436-2442",
+        "jrnl":"J Chem Inf Model",
+        "journal":"Journal of chemical information and modeling",
+        "authors":[
+            {
+                "firstname":"Doo Nam",
+                "surname":"Kim"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Karissa Y",
+                "surname":"Sanbonmatsu"
+            }
         ],
-        "journal": "Protein Science",
-        "keywords": [
-            "deep learning",
-            "machine learning",
-            "neural networks",
-            "protein secondary structure assignment"
-        ],
-        "featured": true
+        "url":"https://doi.org/10.1021/acs.jcim.0c00090 [doi]",
+        "status":"published"
     },
     {
-        "status": "published",
-        "title": "deepBBQ: A Deep Learning Approach to the Protein Backbone Reconstruction",
-        "authors": [
-            {"firstname": "Justyna D.", "surname": "Kryś"},
-            {"firstname": "Maksymilian", "surname": "Głowacki"},
-            {"firstname": "Piotr", "surname": "Śmieja"},
-            {"firstname": "Dominik", "surname": "Gront"}
+        "pmid":"23665897",
+        "volume":"14",
+        "number":"5",
+        "year":"2013",
+        "title":"Combining coarse-grained protein models with replica-exchange all-atom molecular",
+        "pages":"9893-905",
+        "jrnl":"Int J Mol Sci",
+        "journal":"International journal of molecular sciences",
+        "authors":[
+            {
+                "firstname":"Jacek",
+                "surname":"Wabik"
+            },
+            {
+                "firstname":"Sebastian",
+                "surname":"Kmiecik"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Maksim",
+                "surname":"Kouza"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Koliński"
+            }
         ],
-        "journal": "Biomolecules",
-        "year": 2024,
-        "volume": 14,
-        "number": 11,
-        "pages": "1448",
-        "url": "https://doi.org/10.3390/biom14111448",
-        "keywords": [
-            "deep learning",
-            "machine learning",
-            "neural networks",
+        "url":"https://doi.org/10.3390/ijms14059893 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"17510173",
+        "volume":"23",
+        "number":"14",
+        "year":"2007",
+        "title":"T-Pile--a package for thermodynamic calculations for biomolecules.",
+        "pages":"1840-2",
+        "jrnl":"Bioinformatics",
+        "journal":"Bioinformatics (Oxford, England)",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1093/bioinformatics/btm259 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"15840705",
+        "volume":"21",
+        "number":"14",
+        "year":"2005",
+        "title":"HCPM--program for hierarchical clustering of protein models.",
+        "pages":"3179-80",
+        "jrnl":"Bioinformatics",
+        "journal":"Bioinformatics (Oxford, England)",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1093/bioinformatics/bti450 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"29486120",
+        "volume":"14",
+        "number":"4",
+        "year":"2018",
+        "title":"Coarse-Grained Modeling of the Interplay between Secondary Structure Propensities",
+        "pages":"2277-2287",
+        "jrnl":"J Chem Theory Comput",
+        "journal":"Journal of chemical theory and computation",
+        "authors":[
+            {
+                "firstname":"Aleksandra E",
+                "surname":"Dawid"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1021/acs.jctc.7b01242 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"34360577",
+        "volume":"22",
+        "number":"15",
+        "year":"2021",
+        "title":"In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes",
+        "jrnl":"Int J Mol Sci",
+        "journal":"International journal of molecular sciences",
+        "authors":[
+            {
+                "firstname":"Olufunmilayo Olukemi",
+                "surname":"Akapo"
+            },
+            {
+                "firstname":"Joanna M",
+                "surname":"Macnar"
+            },
+            {
+                "firstname":"Justyna D",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Puleng Rosinah",
+                "surname":"Syed"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "keywords":[
+            "CYP51",
+            "Cryptococcus neoformans",
+            "Tremellomycetes",
+            "cytochrome P450 monooxygenases",
+            "docking",
+            "drug-resistance",
+            "sterol 14α-demethylase",
+            "web-application"
+        ],
+        "url":"https://doi.org/10.3390/ijms22157811 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"21887241",
+        "volume":"6",
+        "number":"8",
+        "year":"2011",
+        "title":"Generalized fragment picking in Rosetta: design, protocols and applications.",
+        "pages":"e23294",
+        "jrnl":"PLoS One",
+        "journal":"PloS one",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Daniel W",
+                "surname":"Kulp"
+            },
+            {
+                "firstname":"Robert M",
+                "surname":"Vernon"
+            },
+            {
+                "firstname":"Charlie E M",
+                "surname":"Strauss"
+            },
+            {
+                "firstname":"David",
+                "surname":"Baker"
+            }
+        ],
+        "url":"https://doi.org/10.1371/journal.pone.0023294 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"23086054",
+        "volume":"13",
+        "number":"4",
+        "year":"2012",
+        "title":"Assessing the accuracy of template-based structure prediction metaservers by",
+        "pages":"213-25",
+        "jrnl":"J Struct Funct Genomics",
+        "journal":"Journal of structural and functional genomics",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Marek",
+                "surname":"Grabowski"
+            },
+            {
+                "firstname":"Matthew D",
+                "surname":"Zimmerman"
+            },
+            {
+                "firstname":"John",
+                "surname":"Raynor"
+            },
+            {
+                "firstname":"Karolina L",
+                "surname":"Tkaczuk"
+            },
+            {
+                "firstname":"Wladek",
+                "surname":"Minor"
+            }
+        ],
+        "url":"https://doi.org/10.1007/s10969-012-9146-2 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"19768810",
+        "volume":"18",
+        "number":"11",
+        "year":"2009",
+        "title":"The crystal structure of the AF2331 protein from Archaeoglobus fulgidus DSM 4304",
+        "pages":"2410-9",
+        "jrnl":"Protein Sci",
+        "journal":"Protein science : a publication of the Protein Society",
+        "authors":[
+            {
+                "firstname":"Shuren",
+                "surname":"Wang"
+            },
+            {
+                "firstname":"Olga",
+                "surname":"Kirillova"
+            },
+            {
+                "firstname":"Maksymilian",
+                "surname":"Chruszcz"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Matthew D",
+                "surname":"Zimmerman"
+            },
+            {
+                "firstname":"Marcin T",
+                "surname":"Cymborowski"
+            },
+            {
+                "firstname":"Igor A",
+                "surname":"Shumilin"
+            },
+            {
+                "firstname":"Tatiana",
+                "surname":"Skarina"
+            },
+            {
+                "firstname":"Elena",
+                "surname":"Gorodichtchenskaia"
+            },
+            {
+                "firstname":"Alexei",
+                "surname":"Savchenko"
+            },
+            {
+                "firstname":"Aled M",
+                "surname":"Edwards"
+            },
+            {
+                "firstname":"Wladek",
+                "surname":"Minor"
+            }
+        ],
+        "url":"https://doi.org/10.1002/pro.251 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"39969118",
+        "featured":"True",
+        "volume":"34",
+        "number":"3",
+        "year":"2025",
+        "title":"Exploring P450 superfamily diversity with P450Atlas - Online tool for automated",
+        "pages":"e70057",
+        "jrnl":"Protein Sci",
+        "journal":"Protein science : a publication of the Protein Society",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            }
+        ],
+        "keywords":[
+            "P450 database",
+            "P450 nomenclature",
+            "cytochrome P450"
+        ],
+        "url":"https://doi.org/10.1002/pro.70057 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"39595623",
+        "volume":"14",
+        "number":"11",
+        "year":"2024",
+        "title":"deepBBQ: A Deep Learning Approach to the Protein Backbone Reconstruction.",
+        "jrnl":"Biomolecules",
+        "journal":"Biomolecules",
+        "authors":[
+            {
+                "firstname":"Justyna D",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Maksymilian",
+                "surname":"Głowacki"
+            },
+            {
+                "firstname":"Piotr",
+                "surname":"Śmieja"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "keywords":[
             "atomic reconstruction",
-            "structural bioinformatics",
-            "deep learning",
             "coarse-grained modeling",
-            "convolutional neural network"
+            "convolutional neural network",
+            "deep learning",
+            "structural bioinformatics"
         ],
-        "featured": true
+        "url":"https://doi.org/10.3390/biom14111448 [doi]",
+        "status":"published"
     },
     {
-        "status": "published",
-        "title": "Automated Protein Secondary Structure Assignment from Cα Positions Using Neural Networks",
-        "authors": [
-            {"firstname": "Mohammad N.", "surname": "Saqib"},
-            {"firstname": "Justyna D.", "surname": "Kryś"},
-            {"firstname": "Dominik", "surname": "Gront"}
+        "pmid":"17626614",
+        "volume":"7",
+        "year":"2007",
+        "title":"Type II restriction endonuclease R.Eco29kI is a member of the GIY-YIG nuclease",
+        "pages":"48",
+        "jrnl":"BMC Struct Biol",
+        "journal":"BMC structural biology",
+        "authors":[
+            {
+                "firstname":"Elena M",
+                "surname":"Ibryashkina"
+            },
+            {
+                "firstname":"Marina V",
+                "surname":"Zakharova"
+            },
+            {
+                "firstname":"Vladimir B",
+                "surname":"Baskunov"
+            },
+            {
+                "firstname":"Ekaterina S",
+                "surname":"Bogdanova"
+            },
+            {
+                "firstname":"Maxim O",
+                "surname":"Nagornykh"
+            },
+            {
+                "firstname":"Marat M",
+                "surname":"Den'mukhamedov"
+            },
+            {
+                "firstname":"Bogdan S",
+                "surname":"Melnik"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Marcin",
+                "surname":"Feder"
+            },
+            {
+                "firstname":"Alexander S",
+                "surname":"Solonin"
+            },
+            {
+                "firstname":"Janusz M",
+                "surname":"Bujnicki"
+            }
         ],
-        "journal": "Biomolecules",
-        "year": 2022,
-        "volume": 12,
-        "number": 6,
-        "pages": "841",
-        "url": "https://doi.org/10.3390/biom12060841",
-        "keywords": [
+        "url":"https://doi.org/10.1186/1472-6807-7-48 [doi]",
+        "status":"published"
+    },
+    {
+        "title":"Analysis of protein structures containing HEPES and MES molecules",
+        "year":"2022",
+        "journal":"Protein Science",
+        "jrnl":"Protein Science",
+        "authors":[
+            {
+                "firstname":"Joanna Magdalena",
+                "surname":"Macnar"
+            },
+            {
+                "firstname":"Dariusz",
+                "surname":"Brzezinski"
+            },
+            {
+                "firstname":"Maksymilian",
+                "surname":"Chruszcz"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "status":"published"
+    },
+    {
+        "pmid":"32483333",
+        "volume":"17",
+        "number":"7",
+        "year":"2020",
+        "title":"Macromolecular modeling and design in Rosetta: recent methods and frameworks.",
+        "pages":"665-680",
+        "jrnl":"Nat Methods",
+        "journal":"Nature methods",
+        "authors":[
+            {
+                "firstname":"Julia Koehler",
+                "surname":"Leman"
+            },
+            {
+                "firstname":"Brian D",
+                "surname":"Weitzner"
+            },
+            {
+                "firstname":"Steven M",
+                "surname":"Lewis"
+            },
+            {
+                "firstname":"Jared",
+                "surname":"Adolf-Bryfogle"
+            },
+            {
+                "firstname":"Nawsad",
+                "surname":"Alam"
+            },
+            {
+                "firstname":"Rebecca F",
+                "surname":"Alford"
+            },
+            {
+                "firstname":"Melanie",
+                "surname":"Aprahamian"
+            },
+            {
+                "firstname":"David",
+                "surname":"Baker"
+            },
+            {
+                "firstname":"Kyle A",
+                "surname":"Barlow"
+            },
+            {
+                "firstname":"Patrick",
+                "surname":"Barth"
+            },
+            {
+                "firstname":"Benjamin",
+                "surname":"Basanta"
+            },
+            {
+                "firstname":"Brian J",
+                "surname":"Bender"
+            },
+            {
+                "firstname":"Kristin",
+                "surname":"Blacklock"
+            },
+            {
+                "firstname":"Jaume",
+                "surname":"Bonet"
+            },
+            {
+                "firstname":"Scott E",
+                "surname":"Boyken"
+            },
+            {
+                "firstname":"Phil",
+                "surname":"Bradley"
+            },
+            {
+                "firstname":"Chris",
+                "surname":"Bystroff"
+            },
+            {
+                "firstname":"Patrick",
+                "surname":"Conway"
+            },
+            {
+                "firstname":"Seth",
+                "surname":"Cooper"
+            },
+            {
+                "firstname":"Bruno E",
+                "surname":"Correia"
+            },
+            {
+                "firstname":"Brian",
+                "surname":"Coventry"
+            },
+            {
+                "firstname":"Rhiju",
+                "surname":"Das"
+            },
+            {
+                "firstname":"René M",
+                "surname":"De Jong"
+            },
+            {
+                "firstname":"Frank",
+                "surname":"DiMaio"
+            },
+            {
+                "firstname":"Lorna",
+                "surname":"Dsilva"
+            },
+            {
+                "firstname":"Roland",
+                "surname":"Dunbrack"
+            },
+            {
+                "firstname":"Alexander S",
+                "surname":"Ford"
+            },
+            {
+                "firstname":"Brandon",
+                "surname":"Frenz"
+            },
+            {
+                "firstname":"Darwin Y",
+                "surname":"Fu"
+            },
+            {
+                "firstname":"Caleb",
+                "surname":"Geniesse"
+            },
+            {
+                "firstname":"Lukasz",
+                "surname":"Goldschmidt"
+            },
+            {
+                "firstname":"Ragul",
+                "surname":"Gowthaman"
+            },
+            {
+                "firstname":"Jeffrey J",
+                "surname":"Gray"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Sharon",
+                "surname":"Guffy"
+            },
+            {
+                "firstname":"Scott",
+                "surname":"Horowitz"
+            },
+            {
+                "firstname":"Po-Ssu",
+                "surname":"Huang"
+            },
+            {
+                "firstname":"Thomas",
+                "surname":"Huber"
+            },
+            {
+                "firstname":"Tim M",
+                "surname":"Jacobs"
+            },
+            {
+                "firstname":"Jeliazko R",
+                "surname":"Jeliazkov"
+            },
+            {
+                "firstname":"David K",
+                "surname":"Johnson"
+            },
+            {
+                "firstname":"Kalli",
+                "surname":"Kappel"
+            },
+            {
+                "firstname":"John",
+                "surname":"Karanicolas"
+            },
+            {
+                "firstname":"Hamed",
+                "surname":"Khakzad"
+            },
+            {
+                "firstname":"Karen R",
+                "surname":"Khar"
+            },
+            {
+                "firstname":"Sagar D",
+                "surname":"Khare"
+            },
+            {
+                "firstname":"Firas",
+                "surname":"Khatib"
+            },
+            {
+                "firstname":"Alisa",
+                "surname":"Khramushin"
+            },
+            {
+                "firstname":"Indigo C",
+                "surname":"King"
+            },
+            {
+                "firstname":"Robert",
+                "surname":"Kleffner"
+            },
+            {
+                "firstname":"Brian",
+                "surname":"Koepnick"
+            },
+            {
+                "firstname":"Tanja",
+                "surname":"Kortemme"
+            },
+            {
+                "firstname":"Georg",
+                "surname":"Kuenze"
+            },
+            {
+                "firstname":"Brian",
+                "surname":"Kuhlman"
+            },
+            {
+                "firstname":"Daisuke",
+                "surname":"Kuroda"
+            },
+            {
+                "firstname":"Jason W",
+                "surname":"Labonte"
+            },
+            {
+                "firstname":"Jason K",
+                "surname":"Lai"
+            },
+            {
+                "firstname":"Gideon",
+                "surname":"Lapidoth"
+            },
+            {
+                "firstname":"Andrew",
+                "surname":"Leaver-Fay"
+            },
+            {
+                "firstname":"Steffen",
+                "surname":"Lindert"
+            },
+            {
+                "firstname":"Thomas",
+                "surname":"Linsky"
+            },
+            {
+                "firstname":"Nir",
+                "surname":"London"
+            },
+            {
+                "firstname":"Joseph H",
+                "surname":"Lubin"
+            },
+            {
+                "firstname":"Sergey",
+                "surname":"Lyskov"
+            },
+            {
+                "firstname":"Jack",
+                "surname":"Maguire"
+            },
+            {
+                "firstname":"Lars",
+                "surname":"Malmström"
+            },
+            {
+                "firstname":"Enrique",
+                "surname":"Marcos"
+            },
+            {
+                "firstname":"Orly",
+                "surname":"Marcu"
+            },
+            {
+                "firstname":"Nicholas A",
+                "surname":"Marze"
+            },
+            {
+                "firstname":"Jens",
+                "surname":"Meiler"
+            },
+            {
+                "firstname":"Rocco",
+                "surname":"Moretti"
+            },
+            {
+                "firstname":"Vikram Khipple",
+                "surname":"Mulligan"
+            },
+            {
+                "firstname":"Santrupti",
+                "surname":"Nerli"
+            },
+            {
+                "firstname":"Christoffer",
+                "surname":"Norn"
+            },
+            {
+                "firstname":"Shane",
+                "surname":"Ó'Conchúir"
+            },
+            {
+                "firstname":"Noah",
+                "surname":"Ollikainen"
+            },
+            {
+                "firstname":"Sergey",
+                "surname":"Ovchinnikov"
+            },
+            {
+                "firstname":"Michael S",
+                "surname":"Pacella"
+            },
+            {
+                "firstname":"Xingjie",
+                "surname":"Pan"
+            },
+            {
+                "firstname":"Hahnbeom",
+                "surname":"Park"
+            },
+            {
+                "firstname":"Ryan E",
+                "surname":"Pavlovicz"
+            },
+            {
+                "firstname":"Manasi",
+                "surname":"Pethe"
+            },
+            {
+                "firstname":"Brian G",
+                "surname":"Pierce"
+            },
+            {
+                "firstname":"Kala Bharath",
+                "surname":"Pilla"
+            },
+            {
+                "firstname":"Barak",
+                "surname":"Raveh"
+            },
+            {
+                "firstname":"P Douglas",
+                "surname":"Renfrew"
+            },
+            {
+                "firstname":"Shourya S Roy",
+                "surname":"Burman"
+            },
+            {
+                "firstname":"Aliza",
+                "surname":"Rubenstein"
+            },
+            {
+                "firstname":"Marion F",
+                "surname":"Sauer"
+            },
+            {
+                "firstname":"Andreas",
+                "surname":"Scheck"
+            },
+            {
+                "firstname":"William",
+                "surname":"Schief"
+            },
+            {
+                "firstname":"Ora",
+                "surname":"Schueler-Furman"
+            },
+            {
+                "firstname":"Yuval",
+                "surname":"Sedan"
+            },
+            {
+                "firstname":"Alexander M",
+                "surname":"Sevy"
+            },
+            {
+                "firstname":"Nikolaos G",
+                "surname":"Sgourakis"
+            },
+            {
+                "firstname":"Lei",
+                "surname":"Shi"
+            },
+            {
+                "firstname":"Justin B",
+                "surname":"Siegel"
+            },
+            {
+                "firstname":"Daniel-Adriano",
+                "surname":"Silva"
+            },
+            {
+                "firstname":"Shannon",
+                "surname":"Smith"
+            },
+            {
+                "firstname":"Yifan",
+                "surname":"Song"
+            },
+            {
+                "firstname":"Amelie",
+                "surname":"Stein"
+            },
+            {
+                "firstname":"Maria",
+                "surname":"Szegedy"
+            },
+            {
+                "firstname":"Frank D",
+                "surname":"Teets"
+            },
+            {
+                "firstname":"Summer B",
+                "surname":"Thyme"
+            },
+            {
+                "firstname":"Ray Yu-Ruei",
+                "surname":"Wang"
+            },
+            {
+                "firstname":"Andrew",
+                "surname":"Watkins"
+            },
+            {
+                "firstname":"Lior",
+                "surname":"Zimmerman"
+            },
+            {
+                "firstname":"Richard",
+                "surname":"Bonneau"
+            }
+        ],
+        "url":"https://doi.org/10.1038/s41592-020-0848-2 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"17603876",
+        "volume":"7",
+        "year":"2007",
+        "title":"Towards the high-resolution protein structure prediction. Fast refinement of",
+        "pages":"43",
+        "jrnl":"BMC Struct Biol",
+        "journal":"BMC structural biology",
+        "authors":[
+            {
+                "firstname":"Sebastian",
+                "surname":"Kmiecik"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1186/1472-6807-7-43 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"32365137",
+        "volume":"16",
+        "number":"5",
+        "year":"2020",
+        "title":"Better together: Elements of successful scientific software development in a",
+        "pages":"e1007507",
+        "jrnl":"PLoS Comput Biol",
+        "journal":"PLoS computational biology",
+        "authors":[
+            {
+                "firstname":"Julia",
+                "surname":"Koehler Leman"
+            },
+            {
+                "firstname":"Brian D",
+                "surname":"Weitzner"
+            },
+            {
+                "firstname":"P Douglas",
+                "surname":"Renfrew"
+            },
+            {
+                "firstname":"Steven M",
+                "surname":"Lewis"
+            },
+            {
+                "firstname":"Rocco",
+                "surname":"Moretti"
+            },
+            {
+                "firstname":"Andrew M",
+                "surname":"Watkins"
+            },
+            {
+                "firstname":"Vikram Khipple",
+                "surname":"Mulligan"
+            },
+            {
+                "firstname":"Sergey",
+                "surname":"Lyskov"
+            },
+            {
+                "firstname":"Jared",
+                "surname":"Adolf-Bryfogle"
+            },
+            {
+                "firstname":"Jason W",
+                "surname":"Labonte"
+            },
+            {
+                "firstname":"Justyna",
+                "surname":"Krys"
+            },
+            {
+                "firstname":"Christopher",
+                "surname":"Bystroff"
+            },
+            {
+                "firstname":"William",
+                "surname":"Schief"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Ora",
+                "surname":"Schueler-Furman"
+            },
+            {
+                "firstname":"David",
+                "surname":"Baker"
+            },
+            {
+                "firstname":"Philip",
+                "surname":"Bradley"
+            },
+            {
+                "firstname":"Roland",
+                "surname":"Dunbrack"
+            },
+            {
+                "firstname":"Tanja",
+                "surname":"Kortemme"
+            },
+            {
+                "firstname":"Andrew",
+                "surname":"Leaver-Fay"
+            },
+            {
+                "firstname":"Charlie E M",
+                "surname":"Strauss"
+            },
+            {
+                "firstname":"Jens",
+                "surname":"Meiler"
+            },
+            {
+                "firstname":"Brian",
+                "surname":"Kuhlman"
+            },
+            {
+                "firstname":"Jeffrey J",
+                "surname":"Gray"
+            },
+            {
+                "firstname":"Richard",
+                "surname":"Bonneau"
+            }
+        ],
+        "url":"https://doi.org/10.1371/journal.pcbi.1007507 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"16479277",
+        "volume":"105",
+        "number":"6",
+        "year":"2005",
+        "title":"Exploring protein energy landscapes with hierarchical clustering.",
+        "pages":"826-830",
+        "jrnl":"Int J Quantum Chem",
+        "journal":"International journal of quantum chemistry",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Ulrich H E",
+                "surname":"Hansmann"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1002/qua.20741 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"32188163",
+        "volume":"10",
+        "number":"3",
+        "year":"2020",
+        "title":"BioShell 3.0: Library for Processing Structural Biology Data.",
+        "jrnl":"Biomolecules",
+        "journal":"Biomolecules",
+        "authors":[
+            {
+                "firstname":"Joanna M",
+                "surname":"Macnar"
+            },
+            {
+                "firstname":"Natalia A",
+                "surname":"Szulc"
+            },
+            {
+                "firstname":"Justyna D",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Aleksandra E",
+                "surname":"Badaczewska-Dawid"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "keywords":[
+            "macromolecular structure analysis",
+            "python library",
+            "software",
+            "structural bioinformatics"
+        ],
+        "url":"https://doi.org/10.3390/biom10030461 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"34845212",
+        "volume":"12",
+        "number":"1",
+        "year":"2021",
+        "title":"Ensuring scientific reproducibility in bio-macromolecular modeling via extensive,",
+        "pages":"6947",
+        "jrnl":"Nat Commun",
+        "journal":"Nature communications",
+        "authors":[
+            {
+                "firstname":"Julia",
+                "surname":"Koehler Leman"
+            },
+            {
+                "firstname":"Sergey",
+                "surname":"Lyskov"
+            },
+            {
+                "firstname":"Steven M",
+                "surname":"Lewis"
+            },
+            {
+                "firstname":"Jared",
+                "surname":"Adolf-Bryfogle"
+            },
+            {
+                "firstname":"Rebecca F",
+                "surname":"Alford"
+            },
+            {
+                "firstname":"Kyle",
+                "surname":"Barlow"
+            },
+            {
+                "firstname":"Ziv",
+                "surname":"Ben-Aharon"
+            },
+            {
+                "firstname":"Daniel",
+                "surname":"Farrell"
+            },
+            {
+                "firstname":"Jason",
+                "surname":"Fell"
+            },
+            {
+                "firstname":"William A",
+                "surname":"Hansen"
+            },
+            {
+                "firstname":"Ameya",
+                "surname":"Harmalkar"
+            },
+            {
+                "firstname":"Jeliazko",
+                "surname":"Jeliazkov"
+            },
+            {
+                "firstname":"Georg",
+                "surname":"Kuenze"
+            },
+            {
+                "firstname":"Justyna D",
+                "surname":"Krys"
+            },
+            {
+                "firstname":"Ajasja",
+                "surname":"Ljubetič"
+            },
+            {
+                "firstname":"Amanda L",
+                "surname":"Loshbaugh"
+            },
+            {
+                "firstname":"Jack",
+                "surname":"Maguire"
+            },
+            {
+                "firstname":"Rocco",
+                "surname":"Moretti"
+            },
+            {
+                "firstname":"Vikram Khipple",
+                "surname":"Mulligan"
+            },
+            {
+                "firstname":"Morgan L",
+                "surname":"Nance"
+            },
+            {
+                "firstname":"Phuong T",
+                "surname":"Nguyen"
+            },
+            {
+                "firstname":"Shane",
+                "surname":"Ó Conchúir"
+            },
+            {
+                "firstname":"Shourya S",
+                "surname":"Roy Burman"
+            },
+            {
+                "firstname":"Rituparna",
+                "surname":"Samanta"
+            },
+            {
+                "firstname":"Shannon T",
+                "surname":"Smith"
+            },
+            {
+                "firstname":"Frank",
+                "surname":"Teets"
+            },
+            {
+                "firstname":"Johanna K S",
+                "surname":"Tiemann"
+            },
+            {
+                "firstname":"Andrew",
+                "surname":"Watkins"
+            },
+            {
+                "firstname":"Hope",
+                "surname":"Woods"
+            },
+            {
+                "firstname":"Brahm J",
+                "surname":"Yachnin"
+            },
+            {
+                "firstname":"Christopher D",
+                "surname":"Bahl"
+            },
+            {
+                "firstname":"Chris",
+                "surname":"Bailey-Kellogg"
+            },
+            {
+                "firstname":"David",
+                "surname":"Baker"
+            },
+            {
+                "firstname":"Rhiju",
+                "surname":"Das"
+            },
+            {
+                "firstname":"Frank",
+                "surname":"DiMaio"
+            },
+            {
+                "firstname":"Sagar D",
+                "surname":"Khare"
+            },
+            {
+                "firstname":"Tanja",
+                "surname":"Kortemme"
+            },
+            {
+                "firstname":"Jason W",
+                "surname":"Labonte"
+            },
+            {
+                "firstname":"Kresten",
+                "surname":"Lindorff-Larsen"
+            },
+            {
+                "firstname":"Jens",
+                "surname":"Meiler"
+            },
+            {
+                "firstname":"William",
+                "surname":"Schief"
+            },
+            {
+                "firstname":"Ora",
+                "surname":"Schueler-Furman"
+            },
+            {
+                "firstname":"Justin B",
+                "surname":"Siegel"
+            },
+            {
+                "firstname":"Amelie",
+                "surname":"Stein"
+            },
+            {
+                "firstname":"Vladimir",
+                "surname":"Yarov-Yarovoy"
+            },
+            {
+                "firstname":"Brian",
+                "surname":"Kuhlman"
+            },
+            {
+                "firstname":"Andrew",
+                "surname":"Leaver-Fay"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Jeffrey J",
+                "surname":"Gray"
+            },
+            {
+                "firstname":"Richard",
+                "surname":"Bonneau"
+            }
+        ],
+        "url":"https://doi.org/10.1038/s41467-021-27222-7 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"28992694",
+        "volume":"13",
+        "number":"11",
+        "year":"2017",
+        "title":"SURPASS Low-Resolution Coarse-Grained Protein Modeling.",
+        "pages":"5766-5779",
+        "jrnl":"J Chem Theory Comput",
+        "journal":"Journal of chemical theory and computation",
+        "authors":[
+            {
+                "firstname":"Aleksandra E",
+                "surname":"Dawid"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1021/acs.jctc.7b00642 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"22693216",
+        "volume":"40",
+        "number":"Web Server issue",
+        "year":"2012",
+        "title":"BioShell Threader: protein homology detection based on sequence profiles and",
+        "pages":"W257-62",
+        "jrnl":"Nucleic Acids Res",
+        "journal":"Nucleic acids research",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Maciej",
+                "surname":"Blaszczyk"
+            },
+            {
+                "firstname":"Piotr",
+                "surname":"Wojciechowski"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1093/nar/gks555 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"33799696",
+        "volume":"26",
+        "number":"6",
+        "year":"2021",
+        "title":"In Silico Analysis of P450s and Their Role in Secondary Metabolism in the",
+        "jrnl":"Molecules",
+        "journal":"Molecules (Basel, Switzerland)",
+        "authors":[
+            {
+                "firstname":"Ntombizethu Nokuphiwa",
+                "surname":"Msomi"
+            },
+            {
+                "firstname":"Tiara",
+                "surname":"Padayachee"
+            },
+            {
+                "firstname":"Nomfundo",
+                "surname":"Nzuza"
+            },
+            {
+                "firstname":"Puleng Rosinah",
+                "surname":"Syed"
+            },
+            {
+                "firstname":"Justyna Dorota",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Wanping",
+                "surname":"Chen"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Cyanobacteria",
+            "Firmicutes",
+            "Gammaproteobacteria",
+            "Mycobacterium",
+            "Streptomyces",
+            "biosynthetic gene clusters",
+            "cytochrome P450 monooxygenases",
+            "genome data mining",
+            "lifestyle",
+            "secondary metabolism"
+        ],
+        "url":"https://doi.org/10.3390/molecules26061538 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"34073951",
+        "volume":"22",
+        "number":"11",
+        "year":"2021",
+        "title":"Ancient Bacterial Class Alphaproteobacteria Cytochrome P450 Monooxygenases Can Be",
+        "jrnl":"Int J Mol Sci",
+        "journal":"International journal of molecular sciences",
+        "authors":[
+            {
+                "firstname":"Nomfundo",
+                "surname":"Nzuza"
+            },
+            {
+                "firstname":"Tiara",
+                "surname":"Padayachee"
+            },
+            {
+                "firstname":"Puleng Rosinah",
+                "surname":"Syed"
+            },
+            {
+                "firstname":"Justyna Dorota",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Wanping",
+                "surname":"Chen"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Alphaproteobacteria",
+            "CYP125",
+            "annotation",
+            "biosynthetic gene clusters",
+            "cholesterol oxidation",
+            "cytochrome P450 monooxygenase",
+            "genome data mining"
+        ],
+        "url":"https://doi.org/10.3390/ijms22115542 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"37295157",
+        "volume":"124",
+        "year":"2023",
+        "title":"Coarse-grained potential for hydrogen bond interactions.",
+        "pages":"108507",
+        "jrnl":"J Mol Graph Model",
+        "journal":"Journal of molecular graphics & modelling",
+        "authors":[
+            {
+                "firstname":"Justyna D",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "keywords":[
+            "Coarse grain methods",
+            "Hydrogen bond",
+            "Mean field force filed",
+            "Protein modeling"
+        ],
+        "url":"https://doi.org/10.1016/j.jmgm.2023.108507 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"12833266",
+        "volume":"69",
+        "number":"3",
+        "year":"2003",
+        "title":"A simple lattice model that exhibits a protein-like cooperative all-or-none",
+        "pages":"399-405",
+        "jrnl":"Biopolymers",
+        "journal":"Biopolymers",
+        "authors":[
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Piotr",
+                "surname":"Pokarowski"
+            },
+            {
+                "firstname":"Jeffrey",
+                "surname":"Skolnick"
+            }
+        ],
+        "url":"https://doi.org/10.1002/bip.10385 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"35630316",
+        "volume":"10",
+        "number":"5",
+        "year":"2022",
+        "title":"An Unprecedented Number of Cytochrome P450s Are Involved in Secondary Metabolism",
+        "jrnl":"Microorganisms",
+        "journal":"Microorganisms",
+        "authors":[
+            {
+                "firstname":"Nsikelelo Allison",
+                "surname":"Malinga"
+            },
+            {
+                "firstname":"Nomfundo",
+                "surname":"Nzuza"
+            },
+            {
+                "firstname":"Tiara",
+                "surname":"Padayachee"
+            },
+            {
+                "firstname":"Puleng Rosinah",
+                "surname":"Syed"
+            },
+            {
+                "firstname":"Rajshekhar",
+                "surname":"Karpoormath"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Mycobacterium",
+            "Salinispora arenicola",
+            "Streptomyces",
+            "actinomycete",
+            "biosynthetic gene clusters",
+            "cytochrome P450",
+            "diversity",
+            "genome-data mining",
+            "marine",
+            "natural products",
+            "secondary metabolites"
+        ],
+        "url":"https://doi.org/10.3390/microorganisms10050871 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"34698119",
+        "volume":"43",
+        "number":"3",
+        "year":"2021",
+        "title":"Diversification of Ferredoxins across Living Organisms.",
+        "pages":"1374-1390",
+        "jrnl":"Curr Issues Mol Biol",
+        "journal":"Current issues in molecular biology",
+        "authors":[
+            {
+                "firstname":"Nomfundo",
+                "surname":"Nzuza"
+            },
+            {
+                "firstname":"Tiara",
+                "surname":"Padayachee"
+            },
+            {
+                "firstname":"Wanping",
+                "surname":"Chen"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Archaea",
+            "Bacteria",
+            "Eukarya",
+            "domains of life",
+            "evolution",
+            "ferredoxins",
+            "iron-sulfur proteins",
+            "lateral gene transfer"
+        ],
+        "url":"https://doi.org/10.3390/cimb43030098 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"18415023",
+        "volume":"22",
+        "number":"11",
+        "year":"2008",
+        "title":"Fast and accurate methods for predicting short-range constraints in protein",
+        "pages":"783-8",
+        "jrnl":"J Comput Aided Mol Des",
+        "journal":"Journal of computer-aided molecular design",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1007/s10822-008-9213-8 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"16267688",
+        "volume":"19",
+        "number":"8",
+        "year":"2005",
+        "title":"Protein structure prediction by tempering spatial constraints.",
+        "pages":"603-8",
+        "jrnl":"J Comput Aided Mol Des",
+        "journal":"Journal of computer-aided molecular design",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Ulrich H E",
+                "surname":"Hansmann"
+            }
+        ],
+        "url":"https://doi.org/10.1007/s10822-005-9016-0 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"17357607",
+        "volume":"63",
+        "number":"5",
+        "year":"2006",
+        "title":"Clustering as a supporting tool for structural drug design.",
+        "pages":"436-8",
+        "jrnl":"Acta Pol Pharm",
+        "journal":"Acta poloniae pharmaceutica",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Mateusz",
+                "surname":"Kurcinski"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "status":"published"
+    },
+    {
+        "pmid":"18227118",
+        "volume":"24",
+        "number":"4",
+        "year":"2008",
+        "title":"Utility library for structural bioinformatics.",
+        "pages":"584-5",
+        "jrnl":"Bioinformatics",
+        "journal":"Bioinformatics (Oxford, England)",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1093/bioinformatics/btm627 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"35740966",
+        "volume":"12",
+        "number":"6",
+        "year":"2022",
+        "title":"Automated Protein Secondary Structure Assignment from Cα Positions Using Neural",
+        "jrnl":"Biomolecules",
+        "journal":"Biomolecules",
+        "authors":[
+            {
+                "firstname":"Mohammad N",
+                "surname":"Saqib"
+            },
+            {
+                "firstname":"Justyna D",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "keywords":[
             "deep learning",
             "machine learning",
             "multi-class classifier",
             "neural networks",
             "protein secondary structure",
-            "protein structure prediction",
-            "protein secondary structure assignment"
+            "protein secondary structure assignment",
+            "protein structure prediction"
         ],
-        "featured": false
+        "url":"https://doi.org/10.3390/biom12060841 [doi]",
+        "status":"published"
     },
     {
-        "status": "published",
-        "title": "In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes Cytochrome P450 Monooxygenases CYP51s with Substrates and Azoles",
-        "authors": [
-            {"firstname": "Olufunmilayo Olukemi", "surname": "Akapo"},
-            {"firstname": "Joanna M.", "surname": "Macnar"},
-            {"firstname": "Justyna D.", "surname": "Kryś"},
-            {"firstname": "Puleng Rosinah", "surname": "Syed"},
-            {"firstname": "Khajamohiddin", "surname": "Syed"},
-            {"firstname": "Dominik", "surname": "Gront"}
+        "pmid":"15509604",
+        "volume":"21",
+        "number":"7",
+        "year":"2005",
+        "title":"A new approach to prediction of short-range conformational propensities in",
+        "pages":"981-7",
+        "jrnl":"Bioinformatics",
+        "journal":"Bioinformatics (Oxford, England)",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
         ],
-        "journal": "International Journal of Molecular Sciences",
-        "year": 2021,
-        "volume": 22,
-        "number": 15,
-        "pages": "7811",
-        "url": "https://doi.org/10.3390/ijms22157811",
-        "keywords": [
-    
+        "url":"https://doi.org/10.1093/bioinformatics/bti080 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"18227118",
+        "volume":"24",
+        "number":"4",
+        "year":"2008",
+        "title":"Utility library for structural bioinformatics.",
+        "pages":"584-5",
+        "jrnl":"Bioinformatics",
+        "journal":"Bioinformatics (Oxford, England)",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
         ],
-        "featured": false
-    } 
+        "url":"https://doi.org/10.1093/bioinformatics/btm627 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"35628630",
+        "volume":"23",
+        "number":"10",
+        "year":"2022",
+        "title":"Lifestyles Shape the Cytochrome P450 Repertoire of the Bacterial Phylum",
+        "jrnl":"Int J Mol Sci",
+        "journal":"International journal of molecular sciences",
+        "authors":[
+            {
+                "firstname":"Siphesihle",
+                "surname":"Msweli"
+            },
+            {
+                "firstname":"Andiswa",
+                "surname":"Chonco"
+            },
+            {
+                "firstname":"Lihle",
+                "surname":"Msweli"
+            },
+            {
+                "firstname":"Puleng Rosinah",
+                "surname":"Syed"
+            },
+            {
+                "firstname":"Rajshekhar",
+                "surname":"Karpoormath"
+            },
+            {
+                "firstname":"Wanping",
+                "surname":"Chen"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Bridget Valeria Zinhle",
+                "surname":"Nkosi"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Alphaproteobacteria",
+            "Betaproteobacteria",
+            "Deltaproteobacteria",
+            "Epsilonproteobacteria",
+            "Gammaproteobacteria",
+            "P450s",
+            "biosynthetic gene-clusters",
+            "diversity",
+            "evolution",
+            "genome-data mining",
+            "secondary metabolism"
+        ],
+        "url":"https://doi.org/10.3390/ijms23105821 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"24444459",
+        "volume":"15",
+        "year":"2014",
+        "title":"BioShell-Threading: versatile Monte Carlo package for protein 3D threading.",
+        "pages":"22",
+        "jrnl":"BMC Bioinformatics",
+        "journal":"BMC bioinformatics",
+        "authors":[
+            {
+                "firstname":"Pawel",
+                "surname":"Gniewek"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kloczkowski"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "url":"https://doi.org/10.1186/1471-2105-15-22 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"29966696",
+        "volume":"183",
+        "year":"2018",
+        "title":"Mutation goals in the vitamin D receptor predicted by computational methods.",
+        "pages":"210-220",
+        "jrnl":"J Steroid Biochem Mol Biol",
+        "journal":"The Journal of steroid biochemistry and molecular biology",
+        "authors":[
+            {
+                "firstname":"Wanda",
+                "surname":"Sicinska"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Kamil",
+                "surname":"Sicinski"
+            }
+        ],
+        "keywords":[
+            "Computational analysis",
+            "Vitamin D",
+            "Vitamin D analogs",
+            "Vitamin D receptor active sites",
+            "holoVDR crystal complexes"
+        ],
+        "url":"https://doi.org/10.1016/j.jsbmb.2018.06.016 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"22731622",
+        "volume":"19",
+        "number":"7",
+        "year":"2012",
+        "title":"Optimization of profile-to-profile alignment parameters for one-dimensional",
+        "pages":"879-86",
+        "jrnl":"J Comput Biol",
+        "journal":"Journal of computational biology : a journal of computational molecular cell",
+        "authors":[
+            {
+                "firstname":"Pawel",
+                "surname":"Gniewek"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "url":"https://doi.org/10.1089/cmb.2011.0307 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"30908037",
+        "volume":"15",
+        "number":"5",
+        "year":"2019",
+        "title":"Parallel Implementation of a Sequential Markov Chain in Monte Carlo Simulations",
+        "pages":"2797-2806",
+        "jrnl":"J Chem Theory Comput",
+        "journal":"Journal of chemical theory and computation",
+        "authors":[
+            {
+                "firstname":"Szymon",
+                "surname":"Migacz"
+            },
+            {
+                "firstname":"Kajetan",
+                "surname":"Dutka"
+            },
+            {
+                "firstname":"Przemysław",
+                "surname":"Gumienny"
+            },
+            {
+                "firstname":"Maciej",
+                "surname":"Marchwiany"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Witold R",
+                "surname":"Rudnicki"
+            }
+        ],
+        "url":"https://doi.org/10.1021/acs.jctc.8b01168 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"25701680",
+        "volume":"199",
+        "year":"2015",
+        "title":"Improving thermal stability of thermophilic L-threonine aldolase from Thermotoga",
+        "pages":"69-76",
+        "jrnl":"J Biotechnol",
+        "journal":"Journal of biotechnology",
+        "authors":[
+            {
+                "firstname":"Lukasz",
+                "surname":"Wieteska"
+            },
+            {
+                "firstname":"Maksim",
+                "surname":"Ionov"
+            },
+            {
+                "firstname":"Janusz",
+                "surname":"Szemraj"
+            },
+            {
+                "firstname":"Claudia",
+                "surname":"Feller"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "keywords":[
+            "Bioshell",
+            "Circular dichroism analysis",
+            "Mutagenesis",
+            "Stability improvement",
+            "Threonine aldolase"
+        ],
+        "url":"https://doi.org/10.1016/j.jbiotec.2015.02.013 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"35563448",
+        "volume":"23",
+        "number":"9",
+        "year":"2022",
+        "title":"Contrasting Health Effects of Bacteroidetes and Firmicutes Lies in Their Genomes:",
+        "jrnl":"Int J Mol Sci",
+        "journal":"International journal of molecular sciences",
+        "authors":[
+            {
+                "firstname":"Bridget Valeria Zinhle",
+                "surname":"Nkosi"
+            },
+            {
+                "firstname":"Tiara",
+                "surname":"Padayachee"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Bacteroidetes",
+            "Cytochrome P450 monooxygenases",
+            "Firmicutes",
+            "ferredoxins",
+            "human gut microbiome",
+            "human health",
+            "secondary metabolite gene clusters"
+        ],
+        "url":"https://doi.org/10.3390/ijms23095057 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"22486297",
+        "volume":"116",
+        "number":"23",
+        "year":"2012",
+        "title":"From coarse-grained to atomic-level characterization of protein dynamics:",
+        "pages":"7026-32",
+        "jrnl":"J Phys Chem B",
+        "journal":"The journal of physical chemistry. B",
+        "authors":[
+            {
+                "firstname":"Sebastian",
+                "surname":"Kmiecik"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Maksim",
+                "surname":"Kouza"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1021/jp301720w [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"28989052",
+        "volume":"1866",
+        "number":"1",
+        "year":"2018",
+        "title":"In silico analysis of cytochrome P450 monooxygenases in chronic granulomatous",
+        "pages":"166-177",
+        "jrnl":"Biochim Biophys Acta Proteins Proteom",
+        "journal":"Biochimica et biophysica acta. Proteins and proteomics",
+        "authors":[
+            {
+                "firstname":"Retshedisitswe Godfrey",
+                "surname":"Matowane"
+            },
+            {
+                "firstname":"Lukasz",
+                "surname":"Wieteska"
+            },
+            {
+                "firstname":"Hans Denis",
+                "surname":"Bamal"
+            },
+            {
+                "firstname":"Ipeleng Kopano Rosinah",
+                "surname":"Kgosiemang"
+            },
+            {
+                "firstname":"Mari",
+                "surname":"Van Wyk"
+            },
+            {
+                "firstname":"Nessie Agnes",
+                "surname":"Manume"
+            },
+            {
+                "firstname":"Sara Mohamed Hasaan",
+                "surname":"Abdalla"
+            },
+            {
+                "firstname":"Samson Sitheni",
+                "surname":"Mashele"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Docking",
+            "Genome data mining",
+            "Homology modeling",
+            "Mutations",
+            "P450",
+            "P450 diversity percentage"
+        ],
+        "url":"https://doi.org/10.1016/j.bbapap.2017.10.003 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"31460436",
+        "volume":"4",
+        "number":"8",
+        "year":"2019",
+        "title":"Comparison of α-Helix and β-Sheet Structure Adaptation to a Quantum Dot Geometry:",
+        "pages":"13086-13099",
+        "jrnl":"ACS Omega",
+        "journal":"ACS omega",
+        "authors":[
+            {
+                "firstname":"Katarzyna",
+                "surname":"Kopeć"
+            },
+            {
+                "firstname":"Marta",
+                "surname":"Pędziwiatr"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Olga",
+                "surname":"Sztatelman"
+            },
+            {
+                "firstname":"Jakub",
+                "surname":"Sławski"
+            },
+            {
+                "firstname":"Magdalena",
+                "surname":"Łazicka"
+            },
+            {
+                "firstname":"Remigiusz",
+                "surname":"Worch"
+            },
+            {
+                "firstname":"Katarzyna",
+                "surname":"Zawada"
+            },
+            {
+                "firstname":"Katerina",
+                "surname":"Makarova"
+            },
+            {
+                "firstname":"Marcin",
+                "surname":"Nyk"
+            },
+            {
+                "firstname":"Joanna",
+                "surname":"Grzyb"
+            }
+        ],
+        "url":"https://doi.org/10.1021/acsomega.9b00505 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"32646068",
+        "volume":"21",
+        "number":"13",
+        "year":"2020",
+        "title":"More P450s Are Involved in Secondary Metabolite Biosynthesis in Streptomyces",
+        "jrnl":"Int J Mol Sci",
+        "journal":"International journal of molecular sciences",
+        "authors":[
+            {
+                "firstname":"Fanele Cabangile",
+                "surname":"Mnguni"
+            },
+            {
+                "firstname":"Tiara",
+                "surname":"Padayachee"
+            },
+            {
+                "firstname":"Wanping",
+                "surname":"Chen"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Jae-Hyuk",
+                "surname":"Yu"
+            },
+            {
+                "firstname":"David R",
+                "surname":"Nelson"
+            },
+            {
+                "firstname":"Khajamohiddin",
+                "surname":"Syed"
+            }
+        ],
+        "keywords":[
+            "Bacillus",
+            "Cyanobacteria",
+            "Mycobacterium",
+            "P450 blooming",
+            "Streptomyces",
+            "biosynthetic gene clusters",
+            "cytochrome P450 monooxygenases",
+            "non-ribosomal peptides",
+            "polyketides",
+            "secondary metabolites",
+            "terpenes"
+        ],
+        "url":"https://doi.org/10.3390/ijms21134814 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"27333362",
+        "volume":"116",
+        "number":"14",
+        "year":"2016",
+        "title":"Coarse-Grained Protein Models and Their Applications.",
+        "pages":"7898-936",
+        "jrnl":"Chem Rev",
+        "journal":"Chemical reviews",
+        "authors":[
+            {
+                "firstname":"Sebastian",
+                "surname":"Kmiecik"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Michal",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Lukasz",
+                "surname":"Wieteska"
+            },
+            {
+                "firstname":"Aleksandra Elzbieta",
+                "surname":"Dawid"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "url":"https://doi.org/10.1021/acs.chemrev.6b00163 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"17660201",
+        "volume":"23",
+        "number":"19",
+        "year":"2007",
+        "title":"Comparative modeling without implicit sequence alignments.",
+        "pages":"2522-7",
+        "jrnl":"Bioinformatics",
+        "journal":"Bioinformatics (Oxford, England)",
+        "authors":[
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "url":"https://doi.org/10.1093/bioinformatics/btm380 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"33961033",
+        "volume":"37",
+        "number":"20",
+        "year":"2021",
+        "title":"VisuaLife: library for interactive visualization in rich web applications.",
+        "pages":"3662-3663",
+        "jrnl":"Bioinformatics",
+        "journal":"Bioinformatics (Oxford, England)",
+        "authors":[
+            {
+                "firstname":"Justyna D",
+                "surname":"Kryś"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            }
+        ],
+        "url":"https://doi.org/10.1093/bioinformatics/btab251 [doi]",
+        "status":"published"
+    },
+    {
+        "pmid":"16365636",
+        "volume":"53",
+        "number":"1",
+        "year":"2006",
+        "title":"Denatured proteins and early folding intermediates simulated in a reduced",
+        "pages":"131-44",
+        "jrnl":"Acta Biochim Pol",
+        "journal":"Acta biochimica Polonica",
+        "authors":[
+            {
+                "firstname":"Sebastian",
+                "surname":"Kmiecik"
+            },
+            {
+                "firstname":"Mateusz",
+                "surname":"Kurcinski"
+            },
+            {
+                "firstname":"Aleksandra",
+                "surname":"Rutkowska"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "status":"published"
+    }
 ]
