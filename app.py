@@ -26,8 +26,8 @@ def prepare_articles(articles_file, only_featured=False):
         if only_featured:
             articles = [article for article in articles if article.get("featured", False)]
         for article in articles: 
+            print(article["title"], file=sys.stderr)
             article["authors"] = author_list_to_string(article["authors"])
-            print(article.keys(), file=sys.stderr)
         articles.sort(key=lambda a: int(a.get("year","0")), reverse=True)
         return articles
 

@@ -2,6 +2,7 @@ import json
 import re
 import os
 import argparse
+import sys
 
 def parse_ris(file_path):
     ris_mapping = {
@@ -20,6 +21,8 @@ def parse_ris(file_path):
         "AID": "doi",
         "OT": "keywords",
         "FT": "featured",
+        "SP": "start_page",
+        "EP": "end_page",
     }
     
     data = {}
@@ -27,6 +30,9 @@ def parse_ris(file_path):
     keywords = []
     dois = []
     use_fau = False
+    current_key = None
+    start_page = None
+    end_page = None
     
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
@@ -35,6 +41,7 @@ def parse_ris(file_path):
                 key, value = match.groups()
                 key = key.strip()
                 value = value.strip()
+                current_key = key
                 
                 if key == "FAU":
                     use_fau = True
@@ -51,8 +58,14 @@ def parse_ris(file_path):
                             dois.append(value)
                     elif json_key == "year":
                         data[json_key] = value.split()[0]  # Extracting just the year
+                    elif json_key == "start_page":
+                        start_page = value
+                    elif json_key == "end_page":
+                        end_page = value
                     else:
                         data[json_key] = value
+            elif current_key == "TI":  # Handle multiline title
+                data["title"] += " " + line.strip()
     
     if authors:
         data["authors"] = authors
@@ -60,8 +73,13 @@ def parse_ris(file_path):
         data["keywords"] = keywords
     if dois:
         data["url"] = f"https://doi.org/{dois[0]}"  # Use the first DOI found
-    
+    if "pages" not in data and start_page:
+        if end_page:
+            data["pages"] = f"{start_page}-{end_page}"
+        else:
+            data["pages"] = f"{start_page}"
     data["status"] = "published"
+    
     return data
 
 
@@ -101,7 +119,10 @@ def process_folder(folder_path):
         for file in files:
             if file.endswith(".ris"):
                 file_path = os.path.join(root, file)
-                entries.append(parse_ris(file_path))
+                try:
+                    entries.append(parse_ris(file_path))
+                except:
+                    print("Can't parse:",file_path,file=sys.stderr)
     return entries
     
 
