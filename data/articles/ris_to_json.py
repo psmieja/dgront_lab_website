@@ -65,6 +65,29 @@ def parse_ris(file_path):
     return data
 
 
+def format_names(name_list):
+    formatted_names = []
+    for entry in name_list:
+        firstnames = entry['firstname'].split()
+        initials = ''.join([name[0] for name in firstnames])  # Extract initials
+        formatted_names.append(f"{entry['surname']} {initials}")
+    return formatted_names
+    
+    
+def print_as_text(articles):
+    format_str = "{}\n{}\n{} {}, {}({}), {}\n{}"
+    for a in articles:
+        if len(a["authors"]) > 5:
+            authors = ", ".join(format_names(a["authors"][:4])) + " et al."
+        else:
+            authors = ", ".join(format_names(a["authors"]))
+        issue = a.get("number","")
+        print(format_str.format(a["title"], 
+    			authors,
+    			a["jrnl"], a["year"], a["volume"], issue, a["pages"],
+    			a["url"]));
+
+
 def parse_author(name):
     parts = name.split(", ")
     if len(parts) == 2:
@@ -85,6 +108,7 @@ def process_folder(folder_path):
 def main():
     parser = argparse.ArgumentParser(description="Convert an RIS file to JSON format.")
     parser.add_argument("-i", "--input" , help="Path to the input RIS file")
+    parser.add_argument("-p", "--print" , help="Print all citations as text", action='store_true')
     parser.add_argument("-o", "--output", help="Path to the output JSON file. If not specified, prints to screen.")
     parser.add_argument("-f", "--folder", help="Path to a folder containing RIS files to process recursively.")
     
@@ -102,6 +126,8 @@ def main():
         with open(args.output, "w", encoding="utf-8") as json_file:
             json.dump(citation_data, json_file, indent=4, ensure_ascii=False)
         print(f"Converted {args.input} to {args.output}")
+    elif args.print:
+        print_as_text(citation_data)
     else:
         print(json.dumps(citation_data, indent=4, separators=(",", ":"), ensure_ascii=False))
 
