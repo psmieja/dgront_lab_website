@@ -3,14 +3,16 @@
         "title": "Automated Protein Secondary Structure Assignment from Cα Positions Using Neural Networks",
         "authors": "Mohammad N. Saqib; Justyna D. Kryś; Dominik Gront",
         "journal": "Biomolecules",
-        "date": "June 2022",
+        "date": "2022",
         "url": "https://doi.org/10.3390/biom12060841" 
     },
     {
         "title": "In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes Cytochrome P450 Monooxygenases CYP51s with Substrates and Azoles",
         "authors": "Olufunmilayo Olukemi Akapo; Joanna M. Macnar; Justyna D. Kryś; Puleng Rosinah Syed; Khajamohiddin Syed; Dominik Gront",
         "journal": "International Journal of Molecular Sciences",
-        "date": "July 2021",
+        "date": "2021",
+        "issue": "1",
+        "pages": "1-2",
         "url": "https://doi.org/10.3390/ijms22157811" 
     } 
 ]
