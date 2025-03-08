@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1088/0953-8984/19/3/036225
+UR  - https://dx.doi.org/10.1088/0953-8984/19/3/036225
+TI  - Efficient scheme for optimization of parallel tempering Monte Carlo method
+T2  - Journal of Physics: Condensed Matter
+AU  - Gront, Dominik
+AU  - Kolinski, Andrzej
+PY  - 2007
+DA  - 2007/01/05
+PB  - 
+SP  - 036225
+IS  - 3
+VL  - 19
+SN  - 0953-8984
+AB  - The parallel tempering (PT) Monte Carlo sampling scheme has already been applied to studying different systems, including spin glasses and biomolecules. In this work we examine the efficiency of PT simulations and propose an iterative procedure for the optimal selection of the replicas’ temperatures. The method returns a set of temperatures for a PT simulation for which the overlap of the distribution of states (referred to as an overlap ratio) measured for every pair of adjacent replicas remains constant. The computational procedure is tested for two distinct simplified molecular models of polypeptides. The method is based on the most fundamental thermodynamic properties and therefore it could be applied to virtually any system governed by the canonical ensemble.
+ER  - 

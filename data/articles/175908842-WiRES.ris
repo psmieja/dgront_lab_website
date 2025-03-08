@@ -1,0 +1,26 @@
+
+TY  - JOUR
+T1  - Optimization of protein models
+AU  - Gront, Dominik
+AU  - Kmiecik, Sebastian
+AU  - Blaszczyk, Maciej
+AU  - Ekonomiuk, Dariusz
+AU  - Koliński, Andrzej
+Y1  - 2012/05/01
+PY  - 2012
+DA  - 2012/05/01
+DO  - https://doi.org/10.1002/wcms.1090
+T2  - WIREs Computational Molecular Science
+JF  - WIREs Computational Molecular Science
+JO  - WIREs Computational Molecular Science
+JA  - WIREs Comput Mol Sci
+SP  - 479
+EP  - 493
+VL  - 2
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 1759-0876
+UR  - https://doi.org/10.1002/wcms.1090
+Y2  - 2025/03/08
+N2  - Abstract Protein structure predictions, and experimentally derived protein structures, very often require certain structure improvement (refinement), which means bringing it closer to real, usually in vivo working conformations. In respect to the variety of protein models to be refined, computational optimization procedures could be divided into localized (applied to a small part of a structure) and global (whole structure). Generally speaking, the first problem is usually tractable, and the latter remains to be extremely challenging for systems larger then peptides or small proteins: optimization complexity and difficulty dramatically increase with the size of structures to be optimized. ? 2012 John Wiley & Sons, Ltd. This article is categorized under: Molecular and Statistical Mechanics > Molecular Dynamics and Monte-Carlo Methods
+ER  - 
