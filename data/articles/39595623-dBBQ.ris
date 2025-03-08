@@ -12,6 +12,7 @@ DP  - 2024 Nov 14
 TI  - deepBBQ: A Deep Learning Approach to the Protein Backbone Reconstruction.
 LID - 10.3390/biom14111448 [doi]
 LID - 1448
+PG  - 1448
 AB  - Coarse-grained models have provided researchers with greatly improved 
       computational efficiency in modeling structures and dynamics of 
       biomacromolecules, but, to be practically useful, they need fast and accurate 

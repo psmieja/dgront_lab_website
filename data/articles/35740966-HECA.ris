@@ -8,10 +8,9 @@ IS  - 2218-273X (Linking)
 VI  - 12
 IP  - 6
 DP  - 2022 Jun 17
-TI  - Automated Protein Secondary Structure Assignment from Cα Positions Using Neural 
-      Networks.
+TI  - Automated Protein Secondary Structure Assignment from Cα Positions Using Neural Networks.
 LID - 10.3390/biom12060841 [doi]
-LID - 841
+PG  - 841
 AB  - The assignment of secondary structure elements in protein conformations is 
       necessary to interpret a protein model that has been established by computational 
       methods. The process essentially involves labeling the amino acid residues with H 

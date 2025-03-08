@@ -10,7 +10,7 @@ IP  - 3
 DP  - 2020 Mar 16
 TI  - BioShell 3.0: Library for Processing Structural Biology Data.
 LID - 10.3390/biom10030461 [doi]
-LID - 461
+PG  - 461
 AB  - BioShell is an open-source package for processing biological data, particularly 
       focused on structural applications. The package provides parsers, data structures 
       and algorithms for handling and analyzing macromolecular sequences, structures 
