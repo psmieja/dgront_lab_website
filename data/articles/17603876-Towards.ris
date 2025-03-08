@@ -1,0 +1,77 @@
+PMID- 17603876
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070823
+LR  - 20181113
+IS  - 1472-6807 (Electronic)
+IS  - 1472-6807 (Linking)
+VI  - 7
+DP  - 2007 Jun 29
+TI  - Towards the high-resolution protein structure prediction. Fast refinement of 
+      reduced models with all-atom force field.
+PG  - 43
+AB  - BACKGROUND: Although experimental methods for determining protein structure are 
+      providing high resolution structures, they cannot keep the pace at which amino 
+      acid sequences are resolved on the scale of entire genomes. For a considerable 
+      fraction of proteins whose structures will not be determined experimentally, 
+      computational methods can provide valuable information. The value of structural 
+      models in biological research depends critically on their quality. Development of 
+      high-accuracy computational methods that reliably generate near-experimental 
+      quality structural models is an important, unsolved problem in the protein 
+      structure modeling. RESULTS: Large sets of structural decoys have been generated 
+      using reduced conformational space protein modeling tool CABS. Subsequently, the 
+      reduced models were subject to all-atom reconstruction. Then, the resulting 
+      detailed models were energy-minimized using state-of-the-art all-atom force 
+      field, assuming fixed positions of the alpha carbons. It has been shown that a 
+      very short minimization leads to the proper ranking of the quality of the models 
+      (distance from the native structure), when the all-atom energy is used as the 
+      ranking criterion. Additionally, we performed test on medium and low accuracy 
+      decoys built via classical methods of comparative modeling. The test placed our 
+      model evaluation procedure among the state-of-the-art protein model assessment 
+      methods. CONCLUSION: These test computations show that a large scale high 
+      resolution protein structure prediction is possible, not only for small but also 
+      for large protein domains, and that it should be based on a hierarchical approach 
+      to the modeling protocol. We employed Molecular Mechanics with fixed alpha 
+      carbons to rank-order the all-atom models built on the scaffolds of the reduced 
+      models. Our tests show that a physic-based approach, usually considered 
+      computationally too demanding for large-scale applications, can be effectively 
+      used in such studies.
+FAU - Kmiecik, Sebastian
+AU  - Kmiecik S
+AD  - University of Warsaw, Faculty of Chemistry, Pasteura 1, Warsaw, Poland. 
+      sekmi@chem.uw.edu.pl <sekmi@chem.uw.edu.pl>
+FAU - Gront, Dominik
+AU  - Gront D
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+PT  - Journal Article
+DEP - 20070629
+PL  - England
+TA  - BMC Struct Biol
+JT  - BMC structural biology
+JID - 101088689
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Computer Simulation
+MH  - *Models, Molecular
+MH  - Protein Structure, Secondary
+MH  - Protein Structure, Tertiary
+MH  - Proteins/*chemistry
+MH  - Software
+MH  - Time Factors
+PMC - PMC1933428
+EDAT- 2007/07/03 09:00
+MHDA- 2007/08/24 09:00
+PMCR- 2007/06/29
+CRDT- 2007/07/03 09:00
+PHST- 2007/03/30 00:00 [received]
+PHST- 2007/06/29 00:00 [accepted]
+PHST- 2007/07/03 09:00 [pubmed]
+PHST- 2007/08/24 09:00 [medline]
+PHST- 2007/07/03 09:00 [entrez]
+PHST- 2007/06/29 00:00 [pmc-release]
+AID - 1472-6807-7-43 [pii]
+AID - 10.1186/1472-6807-7-43 [doi]
+PST - epublish
+SO  - BMC Struct Biol. 2007 Jun 29;7:43. doi: 10.1186/1472-6807-7-43.

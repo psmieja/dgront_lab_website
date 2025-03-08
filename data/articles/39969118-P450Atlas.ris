@@ -1,0 +1,82 @@
+PMID- 39969118
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250219
+LR  - 20250223
+IS  - 1469-896X (Electronic)
+IS  - 0961-8368 (Print)
+IS  - 0961-8368 (Linking)
+VI  - 34
+IP  - 3
+DP  - 2025 Mar
+TI  - Exploring P450 superfamily diversity with P450Atlas - Online tool for automated 
+      subfamily assignment.
+PG  - e70057
+LID - 10.1002/pro.70057 [doi]
+LID - e70057
+AB  - Cytochrome P450 monooxygenases (CYPs/P450s) are heme-containing enzymes known to 
+      biology for more than six decades. Their stereo- and regio-specific enzymatic 
+      activities on various compounds led to exploring their potential in almost all 
+      areas of life. The P450 superfamily, encompassing nearly 10,000 known families, 
+      boasts a staggering diversity represented by numerous families, highlighting its 
+      immense scale within the realm of enzymes. In this contribution, we describe the 
+      P450Atlas website: the ultimate source of information about all named P450 
+      families and subfamilies. The website's main functionality is the automated 
+      assignment of a query sequence to one of the known subfamilies. The new subfamily 
+      assignment algorithm relies on Hidden Markov Models (HMM) and has been 
+      extensively tested and compared to an approach based on the BLAST program. 
+      Extensive validation shows that the HMM approach is more sensitive than the 
+      latter one, offering almost perfect automated P450 sequence assignment to 
+      subfamilies. A user can also browse and search through the online list of 
+      families across the Tree of Life. We believe that the P450Atlas website 
+      (https://p450atlas.org) will become a comprehensive and unified source of 
+      information on cytochrome 450 nomenclature.
+CI  - © 2025 The Protein Society.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Faculty of Chemistry, University of Warsaw, Warsaw, Poland.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AD  - Department of Biochemistry and Microbiology, Faculty of Science, Agriculture and 
+      Engineering, University of Zululand, South Africa.
+FAU - Nelson, David R
+AU  - Nelson DR
+AD  - The University of Tennessee Health Science Center, Memphis, Tennessee, USA.
+LA  - eng
+GR  - 114159/National Research Foundation/
+GR  - KIC190219419472/National Research Foundation/
+GR  - P419/University of Zululand/
+PT  - Journal Article
+PL  - United States
+TA  - Protein Sci
+JT  - Protein science : a publication of the Protein Society
+JID - 9211750
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - *Cytochrome P-450 Enzyme System/chemistry/metabolism/genetics
+MH  - Software
+MH  - Internet
+MH  - Algorithms
+MH  - Databases, Protein
+MH  - Markov Chains
+PMC - PMC11837033
+OTO - NOTNLM
+OT  - P450 database
+OT  - P450 nomenclature
+OT  - cytochrome P450
+EDAT- 2025/02/19 12:25
+MHDA- 2025/02/19 12:26
+PMCR- 2026/02/19
+CRDT- 2025/02/19 08:33
+PHST- 2024/10/17 00:00 [revised]
+PHST- 2024/09/04 00:00 [received]
+PHST- 2024/11/04 00:00 [accepted]
+PHST- 2026/02/19 00:00 [pmc-release]
+PHST- 2025/02/19 12:26 [medline]
+PHST- 2025/02/19 12:25 [pubmed]
+PHST- 2025/02/19 08:33 [entrez]
+AID - PRO70057 [pii]
+AID - 10.1002/pro.70057 [doi]
+PST - ppublish
+SO  - Protein Sci. 2025 Mar;34(3):e70057. doi: 10.1002/pro.70057.

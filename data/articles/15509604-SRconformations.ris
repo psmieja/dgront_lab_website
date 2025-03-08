@@ -1,0 +1,67 @@
+PMID- 15509604
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050712
+LR  - 20191210
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 21
+IP  - 7
+DP  - 2005 Apr 1
+TI  - A new approach to prediction of short-range conformational propensities in 
+      proteins.
+PG  - 981-7
+AB  - MOTIVATION: Knowledge-based potentials are valuable tools for protein structure 
+      modeling and evaluation of the quality of the structure prediction obtained by a 
+      variety of methods. Potentials of such type could be significantly enhanced by a 
+      proper exploitation of the evolutionary information encoded in related protein 
+      sequences. The new potentials could be valuable components of threading 
+      algorithms, ab-initio protein structure prediction, comparative modeling and 
+      structure modeling based on fragmentary experimental data. RESULTS: A new 
+      potential for scoring local protein geometry is designed and evaluated. The 
+      approach is based on the similarity of short protein fragments measured by an 
+      alignment of their sequence profiles. Sequence specificity of the resulting 
+      energy function has been compared with the specificity of simpler potentials 
+      using gapless threading and the ability to predict specific geometry of protein 
+      fragments. Significant improvement in threading sensitivity and in the ability to 
+      generate sequence-specific protein-like conformations has been achieved.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Warsaw University Pasteura 1, 02-093 Warsaw, Poland. 
+      dgront@chem.uw.edu.pl
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20041027
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Algorithms
+MH  - *Artificial Intelligence
+MH  - Computer Simulation
+MH  - Databases, Protein
+MH  - Gas Chromatography-Mass Spectrometry/*methods
+MH  - *Models, Chemical
+MH  - Protein Conformation
+MH  - Proteins/analysis/*chemistry
+MH  - Sequence Alignment/*methods
+MH  - Sequence Analysis, Protein/*methods
+MH  - Sequence Homology, Amino Acid
+MH  - Structure-Activity Relationship
+EDAT- 2004/10/29 09:00
+MHDA- 2005/07/13 09:00
+CRDT- 2004/10/29 09:00
+PHST- 2004/10/29 09:00 [pubmed]
+PHST- 2005/07/13 09:00 [medline]
+PHST- 2004/10/29 09:00 [entrez]
+AID - bti080 [pii]
+AID - 10.1093/bioinformatics/bti080 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2005 Apr 1;21(7):981-7. doi: 10.1093/bioinformatics/bti080. Epub 
+      2004 Oct 27.

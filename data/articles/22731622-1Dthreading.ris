@@ -1,0 +1,64 @@
+PMID- 22731622
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121231
+LR  - 20120718
+IS  - 1557-8666 (Electronic)
+IS  - 1066-5277 (Linking)
+VI  - 19
+IP  - 7
+DP  - 2012 Jul
+TI  - Optimization of profile-to-profile alignment parameters for one-dimensional 
+      threading.
+PG  - 879-86
+LID - 10.1089/cmb.2011.0307 [doi]
+AB  - The development of automatic approaches for the comparison of protein sequences 
+      has become increasingly important. Methods that compare profiles allow for the 
+      use of information about whole protein families, resulting in more sensitive and 
+      accurate detection of distantly related sequences. In this contribution, we 
+      describe a thorough optimization and tests of a profile-to-profile alignment 
+      method. A number of different scoring schemes has been implemented and compared 
+      on the basis of their ability to identify a template protein from the same SCOP 
+      family as a query. In addition to sequence profiles, secondary structure profiles 
+      were used to increase the rate of successful detection. Our results show that a 
+      properly tuned one-dimensional threading method can recognize a correct template 
+      from the same SCOP family nearly as well as structural alignment. Our benchmark 
+      set, which might be useful in other similar studies, as well as the 
+      fold-recognition software we developed may be downloaded 
+      (www.bioshell.pl/profile-alignments).
+FAU - Gniewek, Pawel
+AU  - Gniewek P
+AD  - Faculty of Chemistry, Warsaw University, Warsaw, Poland.
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+FAU - Gront, Dominik
+AU  - Gront D
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120625
+PL  - United States
+TA  - J Comput Biol
+JT  - Journal of computational biology : a journal of computational molecular cell 
+      biology
+JID - 9433358
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Algorithms
+MH  - Databases, Protein
+MH  - Protein Folding
+MH  - Protein Structure, Secondary
+MH  - Proteins/*chemistry
+MH  - *Sequence Alignment
+MH  - *Software
+MH  - Structural Homology, Protein
+EDAT- 2012/06/27 06:00
+MHDA- 2013/01/01 06:00
+CRDT- 2012/06/27 06:00
+PHST- 2012/06/27 06:00 [entrez]
+PHST- 2012/06/27 06:00 [pubmed]
+PHST- 2013/01/01 06:00 [medline]
+AID - 10.1089/cmb.2011.0307 [doi]
+PST - ppublish
+SO  - J Comput Biol. 2012 Jul;19(7):879-86. doi: 10.1089/cmb.2011.0307. Epub 2012 Jun 
+      25.

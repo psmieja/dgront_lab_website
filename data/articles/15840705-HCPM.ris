@@ -1,0 +1,55 @@
+PMID- 15840705
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050927
+LR  - 20191210
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 21
+IP  - 14
+DP  - 2005 Jul 15
+TI  - HCPM--program for hierarchical clustering of protein models.
+PG  - 3179-80
+AB  - HCPM is a tool for clustering protein structures from comparative modeling, ab 
+      initio structure prediction, etc. A hierarchical clustering algorithm is designed 
+      and tested, and a heuristic is provided for an optimal cluster selection. The 
+      method has been successfully tested during the CASP6 experiment.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Warsaw University Pasteura 1, 02-093 Warsaw, Poland. 
+      dgront@chem.uw.edu.pl
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20050419
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Algorithms
+MH  - Cluster Analysis
+MH  - Computer Simulation
+MH  - Internet
+MH  - *Models, Chemical
+MH  - *Models, Molecular
+MH  - Proteins/analysis/*chemistry
+MH  - Sequence Alignment/*methods
+MH  - Sequence Analysis, Protein/*methods
+MH  - *Software
+MH  - *User-Computer Interface
+EDAT- 2005/04/21 09:00
+MHDA- 2005/09/28 09:00
+CRDT- 2005/04/21 09:00
+PHST- 2005/04/21 09:00 [pubmed]
+PHST- 2005/09/28 09:00 [medline]
+PHST- 2005/04/21 09:00 [entrez]
+AID - bti450 [pii]
+AID - 10.1093/bioinformatics/bti450 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2005 Jul 15;21(14):3179-80. doi: 10.1093/bioinformatics/bti450. 
+      Epub 2005 Apr 19.

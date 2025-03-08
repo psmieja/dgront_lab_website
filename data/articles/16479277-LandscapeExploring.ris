@@ -1,0 +1,45 @@
+PMID- 16479277
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231105
+IS  - 0020-7608 (Print)
+IS  - 0020-7608 (Linking)
+VI  - 105
+IP  - 6
+DP  - 2005
+TI  - Exploring protein energy landscapes with hierarchical clustering.
+PG  - 826-830
+AB  - In this work we present a new method for investigating local energy minima on a 
+      protein energy landscape. The CABS (CAlpha, CBeta and the center of mass of the 
+      Side chain) method was employed for generating protein models, but any other 
+      method could be used instead. Cα traces from an ensemble of models are 
+      hierarchical clustered with the HCPM (Hierarchical Clustering of Protein Models) 
+      method. The efficiency of this method for sampling and analyzing energy 
+      landscapes is shown.
+FAU - Gront, Dominik
+AU  - Gront D
+FAU - Hansmann, Ulrich H E
+AU  - Hansmann UH
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+GR  - R01 GM062838/GM/NIGMS NIH HHS/United States
+GR  - R01 GM062838-02/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Int J Quantum Chem
+JT  - International journal of quantum chemistry
+JID - 9892351
+PMC - PMC1366497
+MID - NIHMS7290
+EDAT- 2006/02/16 09:00
+MHDA- 2006/02/16 09:01
+PMCR- 2008/01/26
+CRDT- 2006/02/16 09:00
+PHST- 2006/02/16 09:01 [medline]
+PHST- 2006/02/16 09:00 [pubmed]
+PHST- 2006/02/16 09:00 [entrez]
+PHST- 2008/01/26 00:00 [pmc-release]
+AID - 10.1002/qua.20741 [doi]
+PST - ppublish
+SO  - Int J Quantum Chem. 2005;105(6):826-830. doi: 10.1002/qua.20741.

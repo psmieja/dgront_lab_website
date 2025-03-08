@@ -1,0 +1,71 @@
+PMID- 23665897
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160526
+LR  - 20211021
+IS  - 1422-0067 (Print)
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 14
+IP  - 5
+DP  - 2013 May 10
+TI  - Combining coarse-grained protein models with replica-exchange all-atom molecular 
+      dynamics.
+PG  - 9893-905
+LID - 10.3390/ijms14059893 [doi]
+AB  - We describe a combination of all-atom simulations with CABS, a well-established 
+      coarse-grained protein modeling tool, into a single multiscale protocol. The 
+      simulation method has been tested on the C-terminal beta hairpin of protein G, a 
+      model system of protein folding. After reconstructing atomistic details, 
+      conformations derived from the CABS simulation were subjected to replica-exchange 
+      molecular dynamics simulations with OPLS-AA and AMBER99sb force fields in 
+      explicit solvent. Such a combination accelerates system convergence several times 
+      in comparison with all-atom simulations starting from the extended chain 
+      conformation, demonstrated by the analysis of melting curves, the number of 
+      native-like conformations as a function of time and secondary structure 
+      propagation. The results strongly suggest that the proposed multiscale method 
+      could be an efficient and accurate tool for high-resolution studies of protein 
+      folding dynamics in larger systems.
+FAU - Wabik, Jacek
+AU  - Wabik J
+AD  - Faculty of Chemistry, University of Warsaw, L. Pasteura 1, Warsaw 02-093, Poland. 
+      mkouza@chem.uw.edu.pl.
+FAU - Kmiecik, Sebastian
+AU  - Kmiecik S
+FAU - Gront, Dominik
+AU  - Gront D
+FAU - Kouza, Maksim
+AU  - Kouza M
+FAU - Koliński, Andrzej
+AU  - Koliński A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130510
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Molecular Dynamics Simulation
+MH  - Protein Folding
+MH  - Protein Structure, Secondary
+MH  - Proteins/*chemistry
+PMC - PMC3676820
+EDAT- 2013/05/15 06:00
+MHDA- 2013/05/15 06:01
+PMCR- 2013/05/01
+CRDT- 2013/05/14 06:00
+PHST- 2013/03/07 00:00 [received]
+PHST- 2013/04/09 00:00 [revised]
+PHST- 2013/04/24 00:00 [accepted]
+PHST- 2013/05/14 06:00 [entrez]
+PHST- 2013/05/15 06:00 [pubmed]
+PHST- 2013/05/15 06:01 [medline]
+PHST- 2013/05/01 00:00 [pmc-release]
+AID - ijms14059893 [pii]
+AID - ijms-14-09893 [pii]
+AID - 10.3390/ijms14059893 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2013 May 10;14(5):9893-905. doi: 10.3390/ijms14059893.

@@ -1,0 +1,76 @@
+PMID- 27333362
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170718
+LR  - 20170718
+IS  - 1520-6890 (Electronic)
+IS  - 0009-2665 (Linking)
+VI  - 116
+IP  - 14
+DP  - 2016 Jul 27
+TI  - Coarse-Grained Protein Models and Their Applications.
+PG  - 7898-936
+LID - 10.1021/acs.chemrev.6b00163 [doi]
+AB  - The traditional computational modeling of protein structure, dynamics, and 
+      interactions remains difficult for many protein systems. It is mostly due to the 
+      size of protein conformational spaces and required simulation time scales that 
+      are still too large to be studied in atomistic detail. Lowering the level of 
+      protein representation from all-atom to coarse-grained opens up new possibilities 
+      for studying protein systems. In this review we provide an overview of 
+      coarse-grained models focusing on their design, including choices of 
+      representation, models of energy functions, sampling of conformational space, and 
+      applications in the modeling of protein structure, dynamics, and interactions. A 
+      more detailed description is given for applications of coarse-grained models 
+      suitable for efficient combinations with all-atom simulations in multiscale 
+      modeling strategies.
+FAU - Kmiecik, Sebastian
+AU  - Kmiecik S
+AD  - Faculty of Chemistry, University of Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, University of Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Kolinski, Michal
+AU  - Kolinski M
+AD  - Bioinformatics Laboratory, Mossakowski Medical Research Center of the Polish 
+      Academy of Sciences , Pawinskiego 5, 02-106 Warsaw, Poland.
+FAU - Wieteska, Lukasz
+AU  - Wieteska L
+AD  - Faculty of Chemistry, University of Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+AD  - Department of Medical Biochemistry, Medical University of Lodz , Mazowiecka 6/8, 
+      92-215 Lodz, Poland.
+FAU - Dawid, Aleksandra Elzbieta
+AU  - Dawid AE
+AD  - Faculty of Chemistry, University of Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+AD  - Faculty of Chemistry, University of Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20160622
+PL  - United States
+TA  - Chem Rev
+JT  - Chemical reviews
+JID - 2985134R
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - Membrane Proteins/*chemistry
+MH  - *Models, Molecular
+MH  - Molecular Docking Simulation
+MH  - Molecular Dynamics Simulation
+MH  - Monte Carlo Method
+MH  - Peptides/chemistry
+MH  - Protein Conformation
+MH  - Protein Folding
+EDAT- 2016/06/23 06:00
+MHDA- 2017/07/19 06:00
+CRDT- 2016/06/23 06:00
+PHST- 2016/06/23 06:00 [entrez]
+PHST- 2016/06/23 06:00 [pubmed]
+PHST- 2017/07/19 06:00 [medline]
+AID - 10.1021/acs.chemrev.6b00163 [doi]
+PST - ppublish
+SO  - Chem Rev. 2016 Jul 27;116(14):7898-936. doi: 10.1021/acs.chemrev.6b00163. Epub 
+      2016 Jun 22.

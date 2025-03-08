@@ -1,0 +1,63 @@
+PMID- 18415023
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081204
+LR  - 20211020
+IS  - 0920-654X (Print)
+IS  - 0920-654X (Linking)
+VI  - 22
+IP  - 11
+DP  - 2008 Nov
+TI  - Fast and accurate methods for predicting short-range constraints in protein 
+      models.
+PG  - 783-8
+LID - 10.1007/s10822-008-9213-8 [doi]
+AB  - Protein modeling tools utilize many kinds of structural information that may be 
+      predicted from amino acid sequence of a target protein or obtained from 
+      experiments. Such data provide geometrical constraints in a modeling process. The 
+      main aim is to generate the best possible consensus structure. The quality of 
+      models strictly depends on the imposed conditions. In this work we present an 
+      algorithm, which predicts short-range distances between Calpha atoms as well as a 
+      set of short structural fragments that possibly share structural similarity with 
+      a query sequence. The only input of the method is a query sequence profile. The 
+      algorithm searches for short protein fragments with high sequence similarity. As 
+      a result a statistics of distances observed in the similar fragments is returned. 
+      The method can be used also as a scoring function or a short-range 
+      knowledge-based potential based on the computed statistics.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, University of Warsaw, Warsaw, Poland. dgront@chem.uw.edu.pl
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+GR  - 1R01GM081680-01/GM/NIGMS NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20080415
+PL  - Netherlands
+TA  - J Comput Aided Mol Des
+JT  - Journal of computer-aided molecular design
+JID - 8710425
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Algorithms
+MH  - Amino Acid Sequence
+MH  - *Models, Molecular
+MH  - Molecular Sequence Data
+MH  - Predictive Value of Tests
+MH  - Proteins/*chemistry/genetics/metabolism
+MH  - *Sequence Analysis, Protein
+MH  - Software
+EDAT- 2008/04/17 09:00
+MHDA- 2008/12/17 09:00
+CRDT- 2008/04/17 09:00
+PHST- 2007/07/12 00:00 [received]
+PHST- 2008/03/25 00:00 [accepted]
+PHST- 2008/04/17 09:00 [pubmed]
+PHST- 2008/12/17 09:00 [medline]
+PHST- 2008/04/17 09:00 [entrez]
+AID - 10.1007/s10822-008-9213-8 [doi]
+PST - ppublish
+SO  - J Comput Aided Mol Des. 2008 Nov;22(11):783-8. doi: 10.1007/s10822-008-9213-8. 
+      Epub 2008 Apr 15.

@@ -1,0 +1,71 @@
+PMID- 30908037
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1549-9626 (Electronic)
+IS  - 1549-9618 (Linking)
+VI  - 15
+IP  - 5
+DP  - 2019 May 14
+TI  - Parallel Implementation of a Sequential Markov Chain in Monte Carlo Simulations 
+      of Physical Systems with Pairwise Interactions.
+PG  - 2797-2806
+LID - 10.1021/acs.jctc.8b01168 [doi]
+AB  - In molecular simulations performed by Markov Chain Monte Carlo (typically 
+      employing the Metropolis criterion), each state of a system is obtained by a 
+      small random modification of the previous state. Therefore, the process consists 
+      of an immense number of small, quick to calculate steps, which are inherently 
+      sequential and hence considered to be very hard to parallelise. Here, we present 
+      a novel protocol for efficient calculation of multiple sequential steps in 
+      parallel. To this end, we first precompute in parallel energy components of all 
+      states achievable in a sequence of steps. Then we select a single path through 
+      all achievable states, which is identical with the path obtained with the 
+      sequential algorithm. As an example, we carried out simulations of the TIP5P 
+      water model with the new protocol and compared results with those obtained using 
+      the standard Metropolis Monte Carlo scheme. The implementation on the Titan X 
+      (Pascal) graphic processor (GPU) architectures allows for a 30-fold speedup in 
+      comparison with a simulation on a single core of a multicore CPU. The protocol is 
+      general and not limited to the GPU; it can also be used on multicore CPU when the 
+      longest possible length of the single simulation is required.
+FAU - Migacz, Szymon
+AU  - Migacz S
+AD  - Interdisciplinary Centre for Mathematical and Computational Modelling , 
+      University of Warsaw , Warsaw , Poland.
+FAU - Dutka, Kajetan
+AU  - Dutka K
+AD  - Interdisciplinary Centre for Mathematical and Computational Modelling , 
+      University of Warsaw , Warsaw , Poland.
+FAU - Gumienny, Przemysław
+AU  - Gumienny P
+AD  - Interdisciplinary Centre for Mathematical and Computational Modelling , 
+      University of Warsaw , Warsaw , Poland.
+FAU - Marchwiany, Maciej
+AU  - Marchwiany M
+AD  - Interdisciplinary Centre for Mathematical and Computational Modelling , 
+      University of Warsaw , Warsaw , Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Department of Chemistry , University of Warsaw , Warsaw , Poland.
+FAU - Rudnicki, Witold R
+AU  - Rudnicki WR
+AUID- ORCID: 0000-0002-7928-4944
+AD  - Interdisciplinary Centre for Mathematical and Computational Modelling , 
+      University of Warsaw , Warsaw , Poland.
+AD  - Institute of Informatics , University of Białystok , Białystok , Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20190412
+PL  - United States
+TA  - J Chem Theory Comput
+JT  - Journal of chemical theory and computation
+JID - 101232704
+EDAT- 2019/03/26 06:00
+MHDA- 2019/03/26 06:01
+CRDT- 2019/03/26 06:00
+PHST- 2019/03/26 06:00 [pubmed]
+PHST- 2019/03/26 06:01 [medline]
+PHST- 2019/03/26 06:00 [entrez]
+AID - 10.1021/acs.jctc.8b01168 [doi]
+PST - ppublish
+SO  - J Chem Theory Comput. 2019 May 14;15(5):2797-2806. doi: 10.1021/acs.jctc.8b01168. 
+      Epub 2019 Apr 12.

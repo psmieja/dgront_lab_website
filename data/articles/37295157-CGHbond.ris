@@ -1,0 +1,69 @@
+PMID- 37295157
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230814
+LR  - 20230817
+IS  - 1873-4243 (Electronic)
+IS  - 1093-3263 (Linking)
+VI  - 124
+DP  - 2023 Nov
+TI  - Coarse-grained potential for hydrogen bond interactions.
+PG  - 108507
+LID - S1093-3263(23)00105-5 [pii]
+LID - 10.1016/j.jmgm.2023.108507 [doi]
+AB  - Understanding protein structure and dynamics is crucial for investigating 
+      numerous biological processes. This however requires proper description of 
+      molecular interactions, most notably hydrogen bonds, which are the driving force 
+      behind the folding of protein sequences into working molecules. Due to the 
+      multi-body character of this interaction, proper mathematical formulation has 
+      been a matter of long debate in the literature. This description becomes even 
+      more complex in reduced protein models. In this contribution, we propose a novel 
+      hydrogen bond energy function definition that is based only on Cα positions and 
+      used for coarse-grained simulations. We show that this new method has the 
+      capability to recognize hydrogen bonds with over 80% accuracy and can 
+      successfully identify β-sheet in β-amyloid peptide simulations.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Kryś, Justyna D
+AU  - Kryś JD
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093, Warsaw, Poland. Electronic address: 
+      jkrys@chem.uw.edu.pl.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093, Warsaw, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230523
+PL  - United States
+TA  - J Mol Graph Model
+JT  - Journal of molecular graphics & modelling
+JID - 9716237
+RN  - 0 (Amyloid beta-Peptides)
+SB  - IM
+MH  - *Molecular Dynamics Simulation
+MH  - Hydrogen Bonding
+MH  - *Amyloid beta-Peptides/chemistry
+OTO - NOTNLM
+OT  - Coarse grain methods
+OT  - Hydrogen bond
+OT  - Mean field force filed
+OT  - Protein modeling
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/06/10 15:14
+MHDA- 2023/08/14 06:42
+CRDT- 2023/06/09 18:04
+PHST- 2023/01/23 00:00 [received]
+PHST- 2023/04/12 00:00 [revised]
+PHST- 2023/04/18 00:00 [accepted]
+PHST- 2023/08/14 06:42 [medline]
+PHST- 2023/06/10 15:14 [pubmed]
+PHST- 2023/06/09 18:04 [entrez]
+AID - S1093-3263(23)00105-5 [pii]
+AID - 10.1016/j.jmgm.2023.108507 [doi]
+PST - ppublish
+SO  - J Mol Graph Model. 2023 Nov;124:108507. doi: 10.1016/j.jmgm.2023.108507. Epub 
+      2023 May 23.

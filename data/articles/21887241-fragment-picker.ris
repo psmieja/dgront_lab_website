@@ -1,0 +1,69 @@
+PMID- 21887241
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120111
+LR  - 20211020
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 6
+IP  - 8
+DP  - 2011
+TI  - Generalized fragment picking in Rosetta: design, protocols and applications.
+PG  - e23294
+LID - 10.1371/journal.pone.0023294 [doi]
+LID - e23294
+AB  - The Rosetta de novo structure prediction and loop modeling protocols begin with 
+      coarse grained Monte Carlo searches in which the moves are based on short 
+      fragments extracted from a database of known structures. Here we describe a new 
+      object oriented program for picking fragments that greatly extends the 
+      functionality of the previous program (nnmake) and opens the door for new 
+      approaches to structure modeling. We provide a detailed description of the code 
+      design and architecture, highlighting its modularity, and new features such as 
+      extensibility, total control over the fragment picking workflow and scoring 
+      system customization. We demonstrate that the program provides at least as good 
+      building blocks for ab-initio structure prediction as the previous program, and 
+      provide examples of the wide range of applications that are now accessible.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, University of Warsaw, Warsaw, Poland. dgront@chem.uw.edu.pl
+FAU - Kulp, Daniel W
+AU  - Kulp DW
+FAU - Vernon, Robert M
+AU  - Vernon RM
+FAU - Strauss, Charlie E M
+AU  - Strauss CE
+FAU - Baker, David
+AU  - Baker D
+LA  - eng
+GR  - R01 GM092802/GM/NIGMS NIH HHS/United States
+GR  - HHMI/Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110824
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Ubiquitin)
+SB  - IM
+MH  - Computational Biology/*methods
+MH  - Databases, Protein
+MH  - *Models, Molecular
+MH  - *Software
+MH  - Ubiquitin/chemistry
+PMC - PMC3160850
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2011/09/03 06:00
+MHDA- 2012/01/12 06:00
+PMCR- 2011/08/24
+CRDT- 2011/09/03 06:00
+PHST- 2011/04/22 00:00 [received]
+PHST- 2011/07/12 00:00 [accepted]
+PHST- 2011/09/03 06:00 [entrez]
+PHST- 2011/09/03 06:00 [pubmed]
+PHST- 2012/01/12 06:00 [medline]
+PHST- 2011/08/24 00:00 [pmc-release]
+AID - PONE-D-11-07780 [pii]
+AID - 10.1371/journal.pone.0023294 [doi]
+PST - ppublish
+SO  - PLoS One. 2011;6(8):e23294. doi: 10.1371/journal.pone.0023294. Epub 2011 Aug 24.

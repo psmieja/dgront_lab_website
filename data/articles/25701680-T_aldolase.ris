@@ -1,0 +1,95 @@
+PMID- 25701680
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151222
+LR  - 20150325
+IS  - 1873-4863 (Electronic)
+IS  - 0168-1656 (Linking)
+VI  - 199
+DP  - 2015 Apr 10
+TI  - Improving thermal stability of thermophilic L-threonine aldolase from Thermotoga 
+      maritima.
+PG  - 69-76
+LID - S0168-1656(15)00067-X [pii]
+LID - 10.1016/j.jbiotec.2015.02.013 [doi]
+AB  - Threonine aldolase (TA) catalyzes a reversible reaction, in which threonine is 
+      decomposed into glycine and acetaldehyde. The same enzyme can be used to catalyze 
+      aldol reaction between glycine and a variety of aromatic and aliphatic aldehydes, 
+      thus creating various alpha-amino-alcohols. Therefore, TA is a very promising 
+      enzyme that could be used to prepare biologically active compounds or building 
+      blocks for pharmaceutical industry. Rational design was applied to thermophilic 
+      TA from Thermotoga maritima to improve thermal stability by the incorporation of 
+      salt and disulfide bridges between subunits in the functional tetramer. An 
+      activity assay together with CD analysis and Western-blot detection was used to 
+      evaluate mutants. Except one, each of the designed mutants preserved activity 
+      toward the natural substrate. One of the 10 proposed single point mutants, P56C, 
+      displayed significantly enhanced stability compared to the wild type (WT). Its 
+      initial activity was not affected and persisted longer than WT, proportionally to 
+      increased stability. Additionally one of the mutants, W86E, displayed enhanced 
+      activity, with stability similar to WT. Higher activity may be explained by a 
+      subtle change in active site availability. Salt bridge formation between glutamic 
+      acid at position 86 and arginine at position 120 in the neighboring chain may be 
+      responsible for the slight shift of the chain fragment, thus creating wider 
+      access to the active site both for the substrate and PLP.
+CI  - Copyright © 2015 Elsevier B.V. All rights reserved.
+FAU - Wieteska, Lukasz
+AU  - Wieteska L
+AD  - Department of Medical Biochemistry, Medical University of Lodz, ul. Mazowiecka 
+      6/8, 92-215 Lodz, Poland; Laboratory of Theory of Biopolymers, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland. Electronic address: 
+      l.wieteska@yahoo.com.
+FAU - Ionov, Maksim
+AU  - Ionov M
+AD  - Department of General Biophysics, University of Lodz, ul. Pomorska 141/143, 
+      90-236 Lodz, Poland. Electronic address: maksion@biol.uni.lodz.pl.
+FAU - Szemraj, Janusz
+AU  - Szemraj J
+AD  - Department of Medical Biochemistry, Medical University of Lodz, ul. Mazowiecka 
+      6/8, 92-215 Lodz, Poland. Electronic address: jszemraj@csk.umed.lodz.pl.
+FAU - Feller, Claudia
+AU  - Feller C
+AD  - c-LEcta GmbH, Perlickstraße 5, 04-103 Leipzig, Germany. Electronic address: 
+      claudia.feller@c-lecta.de.
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+AD  - Laboratory of Theory of Biopolymers, University of Warsaw, Pasteura 1, 02-093 
+      Warsaw, Poland. Electronic address: kolinski@chem.uw.edu.pl.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Laboratory of Theory of Biopolymers, University of Warsaw, Pasteura 1, 02-093 
+      Warsaw, Poland. Electronic address: dgront@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150219
+PL  - Netherlands
+TA  - J Biotechnol
+JT  - Journal of biotechnology
+JID - 8411927
+RN  - EC 2.1.2.1 (Glycine Hydroxymethyltransferase)
+SB  - IM
+MH  - Catalytic Domain
+MH  - Enzyme Stability/physiology
+MH  - Glycine Hydroxymethyltransferase/genetics/*metabolism
+MH  - Mutation
+MH  - Thermotoga maritima/*enzymology
+OTO - NOTNLM
+OT  - Bioshell
+OT  - Circular dichroism analysis
+OT  - Mutagenesis
+OT  - Stability improvement
+OT  - Threonine aldolase
+EDAT- 2015/02/24 06:00
+MHDA- 2015/12/23 06:00
+CRDT- 2015/02/22 06:00
+PHST- 2014/07/11 00:00 [received]
+PHST- 2015/02/10 00:00 [revised]
+PHST- 2015/02/11 00:00 [accepted]
+PHST- 2015/02/22 06:00 [entrez]
+PHST- 2015/02/24 06:00 [pubmed]
+PHST- 2015/12/23 06:00 [medline]
+AID - S0168-1656(15)00067-X [pii]
+AID - 10.1016/j.jbiotec.2015.02.013 [doi]
+PST - ppublish
+SO  - J Biotechnol. 2015 Apr 10;199:69-76. doi: 10.1016/j.jbiotec.2015.02.013. Epub 
+      2015 Feb 19.

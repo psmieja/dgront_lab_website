@@ -1,0 +1,93 @@
+PMID- 23086054
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130419
+LR  - 20211021
+IS  - 1570-0267 (Electronic)
+IS  - 1345-711X (Print)
+IS  - 1345-711X (Linking)
+VI  - 13
+IP  - 4
+DP  - 2012 Dec
+TI  - Assessing the accuracy of template-based structure prediction metaservers by 
+      comparison with structural genomics structures.
+PG  - 213-25
+LID - 10.1007/s10969-012-9146-2 [doi]
+AB  - The explosion of the size of the universe of known protein sequences has 
+      stimulated two complementary approaches to structural mapping of these sequences: 
+      theoretical structure prediction and experimental determination by structural 
+      genomics (SG). In this work, we assess the accuracy of structure prediction by 
+      two automated template-based structure prediction metaservers (genesilico.pl and 
+      bioinfo.pl) by measuring the structural similarity of the predicted models to 
+      corresponding experimental models determined a posteriori. Of 199 targets chosen 
+      from SG programs, the metaservers predicted the structures of about a fourth of 
+      them "correctly." (In this case, "correct" was defined as placing more than 70 % 
+      of the alpha carbon atoms in the model within 2 Å of the experimentally 
+      determined positions.) Almost all of the targets that could be modeled to this 
+      accuracy were those with an available template in the Protein Data Bank (PDB) 
+      with more than 25 % sequence identity. The majority of those SG targets with 
+      lower sequence identity to structures in the PDB were not predicted by the 
+      metaservers with this accuracy. We also compared metaserver results to CASP8 
+      results, finding that the models obtained by participants in the CASP competition 
+      were significantly better than those produced by the metaservers.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Department of Molecular Physiology and Biological Physics, University of 
+      Virginia, Charlottesville, VA 22908, USA.
+FAU - Grabowski, Marek
+AU  - Grabowski M
+FAU - Zimmerman, Matthew D
+AU  - Zimmerman MD
+FAU - Raynor, John
+AU  - Raynor J
+FAU - Tkaczuk, Karolina L
+AU  - Tkaczuk KL
+FAU - Minor, Wladek
+AU  - Minor W
+LA  - eng
+GR  - GM53163/GM/NIGMS NIH HHS/United States
+GR  - R01 GM053163/GM/NIGMS NIH HHS/United States
+GR  - U54 GM094585/GM/NIGMS NIH HHS/United States
+GR  - GM94585/GM/NIGMS NIH HHS/United States
+GR  - GM74942/GM/NIGMS NIH HHS/United States
+GR  - U54 GM074942/GM/NIGMS NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20121020
+PL  - Netherlands
+TA  - J Struct Funct Genomics
+JT  - Journal of structural and functional genomics
+JID - 101128185
+SB  - IM
+MH  - Computational Biology/*methods
+MH  - Crystallography, X-Ray
+MH  - Databases, Protein
+MH  - Genomics/*methods
+MH  - Humans
+MH  - Magnetic Resonance Spectroscopy
+MH  - Models, Molecular
+MH  - *Protein Conformation
+MH  - Proteomics/methods
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Sequence Alignment
+MH  - Sequence Analysis, Protein/*methods
+MH  - Sequence Homology
+MH  - *Software
+PMC - PMC4105012
+MID - NIHMS416565
+EDAT- 2012/10/23 06:00
+MHDA- 2013/04/23 06:00
+PMCR- 2014/07/21
+CRDT- 2012/10/23 06:00
+PHST- 2012/06/26 00:00 [received]
+PHST- 2012/09/26 00:00 [accepted]
+PHST- 2012/10/23 06:00 [entrez]
+PHST- 2012/10/23 06:00 [pubmed]
+PHST- 2013/04/23 06:00 [medline]
+PHST- 2014/07/21 00:00 [pmc-release]
+AID - 10.1007/s10969-012-9146-2 [doi]
+PST - ppublish
+SO  - J Struct Funct Genomics. 2012 Dec;13(4):213-25. doi: 10.1007/s10969-012-9146-2. 
+      Epub 2012 Oct 20.

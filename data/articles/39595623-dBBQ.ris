@@ -1,0 +1,83 @@
+PMID- 39595623
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241127
+LR  - 20241130
+IS  - 2218-273X (Electronic)
+IS  - 2218-273X (Linking)
+VI  - 14
+IP  - 11
+DP  - 2024 Nov 14
+TI  - deepBBQ: A Deep Learning Approach to the Protein Backbone Reconstruction.
+LID - 10.3390/biom14111448 [doi]
+LID - 1448
+AB  - Coarse-grained models have provided researchers with greatly improved 
+      computational efficiency in modeling structures and dynamics of 
+      biomacromolecules, but, to be practically useful, they need fast and accurate 
+      conversion methods back to the all-atom representation. Reconstruction of atomic 
+      details may also be required in the case of some experimental methods, like 
+      electron microscopy, which may provide Cα-only structures. In this contribution, 
+      we present a new method for recovery of all backbone atom positions from just the 
+      Cα coordinates. Our approach, called deepBBQ, uses a deep convolutional neural 
+      network to predict a single internal coordinate per peptide plate, based on Cα 
+      trace geometric features, and then proceeds to recalculate the cartesian 
+      coordinates based on the assumption that the peptide plate atoms lie in the same 
+      plane. Extensive comparison with similar programs shows that our solution is 
+      accurate and cost-efficient. The deepBBQ program is available as part of the 
+      open-source bioinformatics toolkit Bioshell and is free for download and the 
+      documentation is available online.
+FAU - Kryś, Justyna D
+AU  - Kryś JD
+AUID- ORCID: 0000-0002-5318-8831
+AD  - Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Głowacki, Maksymilian
+AU  - Głowacki M
+AUID- ORCID: 0000-0002-2359-4054
+AD  - Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Śmieja, Piotr
+AU  - Śmieja P
+AUID- ORCID: 0009-0007-1148-8899
+AD  - Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20241114
+PL  - Switzerland
+TA  - Biomolecules
+JT  - Biomolecules
+JID - 101596414
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Deep Learning
+MH  - *Proteins/chemistry
+MH  - Software
+MH  - Computational Biology/methods
+MH  - Models, Molecular
+MH  - Neural Networks, Computer
+PMC - PMC11592026
+OTO - NOTNLM
+OT  - atomic reconstruction
+OT  - coarse-grained modeling
+OT  - convolutional neural network
+OT  - deep learning
+OT  - structural bioinformatics
+COIS- The authors declare no conflict of interest.
+EDAT- 2024/11/27 06:19
+MHDA- 2024/11/27 06:20
+PMCR- 2024/11/14
+CRDT- 2024/11/27 01:18
+PHST- 2024/08/02 00:00 [received]
+PHST- 2024/10/10 00:00 [revised]
+PHST- 2024/11/01 00:00 [accepted]
+PHST- 2024/11/27 06:20 [medline]
+PHST- 2024/11/27 06:19 [pubmed]
+PHST- 2024/11/27 01:18 [entrez]
+PHST- 2024/11/14 00:00 [pmc-release]
+AID - biom14111448 [pii]
+AID - biomolecules-14-01448 [pii]
+AID - 10.3390/biom14111448 [doi]
+PST - epublish
+SO  - Biomolecules. 2024 Nov 14;14(11):1448. doi: 10.3390/biom14111448.

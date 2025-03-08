@@ -1,0 +1,126 @@
+PMID- 33799696
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210528
+LR  - 20240331
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 26
+IP  - 6
+DP  - 2021 Mar 11
+TI  - In Silico Analysis of P450s and Their Role in Secondary Metabolism in the 
+      Bacterial Class Gammaproteobacteria.
+LID - 10.3390/molecules26061538 [doi]
+LID - 1538
+AB  - The impact of lifestyle on shaping the genome content of an organism is a 
+      well-known phenomenon and cytochrome P450 enzymes (CYPs/P450s), heme-thiolate 
+      proteins that are ubiquitously present in organisms, are no exception. Recent 
+      studies focusing on a few bacterial species such as Streptomyces, Mycobacterium, 
+      Cyanobacteria and Firmicutes revealed that the impact of lifestyle affected the 
+      P450 repertoire in these species. However, this phenomenon needs to be understood 
+      in other bacterial species. We therefore performed genome data mining, 
+      annotation, phylogenetic analysis of P450s and their role in secondary metabolism 
+      in the bacterial class Gammaproteobacteria. Genome-wide data mining for P450s in 
+      1261 Gammaproteobacterial species belonging to 161 genera revealed that only 169 
+      species belonging to 41 genera have P450s. A total of 277 P450s found in 169 
+      species grouped into 84 P450 families and 105 P450 subfamilies, where 38 new P450 
+      families were found. Only 18% of P450s were found to be involved in secondary 
+      metabolism in Gammaproteobacterial species, as observed in Firmicutes as well. 
+      The pathogenic or commensal lifestyle of Gammaproteobacterial species influences 
+      them to such an extent that they have the lowest number of P450s compared to 
+      other bacterial species, indicating the impact of lifestyle on shaping the P450 
+      repertoire. This study is the first report on comprehensive analysis of P450s in 
+      Gammaproteobacteria.
+FAU - Msomi, Ntombizethu Nokuphiwa
+AU  - Msomi NN
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Padayachee, Tiara
+AU  - Padayachee T
+AUID- ORCID: 0000-0001-6667-9982
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Nzuza, Nomfundo
+AU  - Nzuza N
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Syed, Puleng Rosinah
+AU  - Syed PR
+AD  - Department of Pharmaceutical Chemistry, College of Health Sciences, University of 
+      KwaZulu-Natal, Durban 4000, South Africa.
+FAU - Kryś, Justyna Dorota
+AU  - Kryś JD
+AD  - Biological and Chemical Research Center, Faculty of Chemistry, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Chen, Wanping
+AU  - Chen W
+AD  - Department of Molecular Microbiology and Genetics, University of Göttingen, 37077 
+      Göttingen, Germany.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Biological and Chemical Research Center, Faculty of Chemistry, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Nelson, David R
+AU  - Nelson DR
+AD  - Department of Microbiology, Immunology and Biochemistry, University of Tennessee 
+      Health Science Center, Memphis, TN 38163, USA.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AUID- ORCID: 0000-0002-1497-3570
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+LA  - eng
+GR  - 114159/National Research Foundation, South Africa/
+GR  - 2018/29/B/ST6/01989/Polish National Science Centre/
+PT  - Journal Article
+DEP - 20210311
+PL  - Switzerland
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - Computer Simulation
+MH  - Cyanobacteria
+MH  - Cytochrome P-450 Enzyme System/genetics/*metabolism/physiology
+MH  - Evolution, Molecular
+MH  - Firmicutes
+MH  - Gammaproteobacteria/*genetics/*metabolism
+MH  - Genomics/methods
+MH  - Multigene Family
+MH  - Mycobacterium
+MH  - Phylogeny
+MH  - Secondary Metabolism/physiology
+MH  - Streptomyces
+PMC - PMC7998510
+OTO - NOTNLM
+OT  - Cyanobacteria
+OT  - Firmicutes
+OT  - Gammaproteobacteria
+OT  - Mycobacterium
+OT  - Streptomyces
+OT  - biosynthetic gene clusters
+OT  - cytochrome P450 monooxygenases
+OT  - genome data mining
+OT  - lifestyle
+OT  - secondary metabolism
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2021/04/04 06:00
+MHDA- 2021/05/29 06:00
+PMCR- 2021/03/11
+CRDT- 2021/04/03 01:03
+PHST- 2021/02/12 00:00 [received]
+PHST- 2021/03/03 00:00 [revised]
+PHST- 2021/03/08 00:00 [accepted]
+PHST- 2021/04/03 01:03 [entrez]
+PHST- 2021/04/04 06:00 [pubmed]
+PHST- 2021/05/29 06:00 [medline]
+PHST- 2021/03/11 00:00 [pmc-release]
+AID - molecules26061538 [pii]
+AID - molecules-26-01538 [pii]
+AID - 10.3390/molecules26061538 [doi]
+PST - epublish
+SO  - Molecules. 2021 Mar 11;26(6):1538. doi: 10.3390/molecules26061538.

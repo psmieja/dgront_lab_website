@@ -1,0 +1,125 @@
+PMID- 34073951
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210624
+LR  - 20210624
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 11
+DP  - 2021 May 24
+TI  - Ancient Bacterial Class Alphaproteobacteria Cytochrome P450 Monooxygenases Can Be 
+      Found in Other Bacterial Species.
+LID - 10.3390/ijms22115542 [doi]
+LID - 5542
+AB  - Cytochrome P450 monooxygenases (CYPs/P450s), heme-thiolate proteins, are 
+      well-known players in the generation of chemicals valuable to humans and as a 
+      drug target against pathogens. Understanding the evolution of P450s in a 
+      bacterial population is gaining momentum. In this study, we report comprehensive 
+      analysis of P450s in the ancient group of the bacterial class 
+      Alphaproteobacteria. Genome data mining and annotation of P450s in 599 
+      alphaproteobacterial species belonging to 164 genera revealed the presence of 
+      P450s in only 241 species belonging to 82 genera that are grouped into 143 P450 
+      families and 214 P450 subfamilies, including 77 new P450 families. 
+      Alphaproteobacterial species have the highest average number of P450s compared to 
+      Firmicutes species and cyanobacterial species. The lowest percentage of 
+      alphaproteobacterial species P450s (2.4%) was found to be part of secondary 
+      metabolite biosynthetic gene clusters (BGCs), compared other bacterial species, 
+      indicating that during evolution large numbers of P450s became part of BGCs in 
+      other bacterial species. Our study identified that some of the P450 families 
+      found in alphaproteobacterial species were passed to other bacterial species. 
+      This is the first study to report on the identification of CYP125 P450, 
+      cholesterol and cholest-4-en-3-one hydroxylase in alphaproteobacterial species 
+      (Phenylobacterium zucineum) and to predict cholesterol side-chain oxidation 
+      capability (based on homolog proteins) by P. zucineum.
+FAU - Nzuza, Nomfundo
+AU  - Nzuza N
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Padayachee, Tiara
+AU  - Padayachee T
+AUID- ORCID: 0000-0001-6667-9982
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Syed, Puleng Rosinah
+AU  - Syed PR
+AD  - Department of Pharmaceutical Chemistry, College of Health Sciences, University of 
+      KwaZulu-Natal, Durban 4000, South Africa.
+FAU - Kryś, Justyna Dorota
+AU  - Kryś JD
+AUID- ORCID: 0000-0002-5318-8831
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Chen, Wanping
+AU  - Chen W
+AD  - Department of Molecular Microbiology and Genetics, University of Göttingen, 37077 
+      Göttingen, Germany.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Nelson, David R
+AU  - Nelson DR
+AUID- ORCID: 0000-0003-0583-5421
+AD  - Department of Microbiology, Immunology and Biochemistry, University of Tennessee 
+      Health Science Center, Memphis, TN 38163, USA.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AUID- ORCID: 0000-0002-1497-3570
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+LA  - eng
+GR  - 114159/National Research Foundation, South Africa/
+GR  - 2018/29/B/ST6/01989/Polish National Science Centre (NCN)/
+PT  - Journal Article
+DEP - 20210524
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+RN  - 97C5T2UQ7J (Cholesterol)
+SB  - IM
+MH  - Alphaproteobacteria/*genetics
+MH  - Biosynthetic Pathways/*genetics
+MH  - Cholesterol/metabolism
+MH  - Cyanobacteria/genetics
+MH  - Cytochrome P-450 Enzyme System/*genetics/metabolism
+MH  - Data Mining
+MH  - Evolution, Molecular
+MH  - Firmicutes/genetics
+MH  - Genome, Bacterial
+MH  - *Multigene Family
+MH  - Mycobacterium tuberculosis/genetics
+MH  - Phylogeny
+MH  - Secondary Metabolism/*genetics
+MH  - Streptomyces/genetics
+PMC - PMC8197338
+OTO - NOTNLM
+OT  - Alphaproteobacteria
+OT  - CYP125
+OT  - annotation
+OT  - biosynthetic gene clusters
+OT  - cholesterol oxidation
+OT  - cytochrome P450 monooxygenase
+OT  - genome data mining
+COIS- The authors declare no conflict of interest and the funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2021/06/03 06:00
+MHDA- 2021/06/25 06:00
+PMCR- 2021/05/24
+CRDT- 2021/06/02 01:39
+PHST- 2021/04/21 00:00 [received]
+PHST- 2021/05/19 00:00 [revised]
+PHST- 2021/05/20 00:00 [accepted]
+PHST- 2021/06/02 01:39 [entrez]
+PHST- 2021/06/03 06:00 [pubmed]
+PHST- 2021/06/25 06:00 [medline]
+PHST- 2021/05/24 00:00 [pmc-release]
+AID - ijms22115542 [pii]
+AID - ijms-22-05542 [pii]
+AID - 10.3390/ijms22115542 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 May 24;22(11):5542. doi: 10.3390/ijms22115542.

@@ -1,0 +1,112 @@
+PMID- 34698119
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220215
+LR  - 20220716
+IS  - 1467-3045 (Electronic)
+IS  - 1467-3037 (Print)
+IS  - 1467-3037 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2021 Sep 30
+TI  - Diversification of Ferredoxins across Living Organisms.
+PG  - 1374-1390
+LID - 10.3390/cimb43030098 [doi]
+AB  - Ferredoxins, iron-sulfur (Fe-S) cluster proteins, play a key role in 
+      oxidoreduction reactions. To date, evolutionary analysis of these proteins across 
+      the domains of life have been confined to observing the abundance of Fe-S cluster 
+      types (2Fe-2S, 3Fe-4S, 4Fe-4S, 7Fe-8S (3Fe-4s and 4Fe-4S) and 2[4Fe-4S]) and the 
+      diversity of ferredoxins within these cluster types was not studied. To address 
+      this research gap, here we propose a subtype classification and nomenclature for 
+      ferredoxins based on the characteristic spacing between the cysteine amino acids 
+      of the Fe-S binding motif as a subtype signature to assess the diversity of 
+      ferredoxins across the living organisms. To test this hypothesis, comparative 
+      analysis of ferredoxins between bacterial groups, Alphaproteobacteria and 
+      Firmicutes and ferredoxins collected from species of different domains of life 
+      that are reported in the literature has been carried out. Ferredoxins were found 
+      to be highly diverse within their types. Large numbers of alphaproteobacterial 
+      species ferredoxin subtypes were found in Firmicutes species and the same 
+      ferredoxin subtypes across the species of Bacteria, Archaea, and Eukarya, 
+      suggesting shared common ancestral origin of ferredoxins between Archaea and 
+      Bacteria and lateral gene transfer of ferredoxins from prokaryotes 
+      (Archaea/Bacteria) to eukaryotes. This study opened new vistas for further 
+      analysis of diversity of ferredoxins in living organisms.
+FAU - Nzuza, Nomfundo
+AU  - Nzuza N
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Padayachee, Tiara
+AU  - Padayachee T
+AUID- ORCID: 0000-0001-6667-9982
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Chen, Wanping
+AU  - Chen W
+AD  - Department of Molecular Microbiology and Genetics, University of Göttingen, 37077 
+      Göttingen, Germany.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Nelson, David R
+AU  - Nelson DR
+AUID- ORCID: 0000-0003-0583-5421
+AD  - Department of Microbiology, Immunology and Biochemistry, University of Tennessee 
+      Health Science Center, Memphis, TN 38163, USA.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AUID- ORCID: 0000-0002-1497-3570
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+LA  - eng
+GR  - 114159/National Research Foundation, South Africa/
+GR  - C686/University of Zululand/
+GR  - 2018/29/B/ST6/01989/Polish National Science Centre (NCN)/
+PT  - Journal Article
+DEP - 20210930
+PL  - Switzerland
+TA  - Curr Issues Mol Biol
+JT  - Current issues in molecular biology
+JID - 100931761
+RN  - 0 (Ferredoxins)
+SB  - IM
+MH  - Archaea/classification/genetics
+MH  - Bacteria/classification/genetics
+MH  - Computational Biology/methods
+MH  - Databases, Genetic
+MH  - Eukaryota/classification/genetics
+MH  - Evolution, Molecular
+MH  - Ferredoxins/*chemistry/classification/*genetics
+MH  - *Genetic Variation
+MH  - Phylogeny
+MH  - Species Specificity
+PMC - PMC8928951
+OTO - NOTNLM
+OT  - Archaea
+OT  - Bacteria
+OT  - Eukarya
+OT  - domains of life
+OT  - evolution
+OT  - ferredoxins
+OT  - iron-sulfur proteins
+OT  - lateral gene transfer
+COIS- The authors declare no conflict of interest and the funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2021/10/27 06:00
+MHDA- 2022/02/16 06:00
+PMCR- 2021/09/30
+CRDT- 2021/10/26 09:23
+PHST- 2021/08/30 00:00 [received]
+PHST- 2021/09/23 00:00 [revised]
+PHST- 2021/09/23 00:00 [accepted]
+PHST- 2021/10/26 09:23 [entrez]
+PHST- 2021/10/27 06:00 [pubmed]
+PHST- 2022/02/16 06:00 [medline]
+PHST- 2021/09/30 00:00 [pmc-release]
+AID - cimb43030098 [pii]
+AID - cimb-43-00098 [pii]
+AID - 10.3390/cimb43030098 [doi]
+PST - epublish
+SO  - Curr Issues Mol Biol. 2021 Sep 30;43(3):1374-1390. doi: 10.3390/cimb43030098.

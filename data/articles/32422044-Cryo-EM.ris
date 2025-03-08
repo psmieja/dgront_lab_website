@@ -1,0 +1,65 @@
+PMID- 32422044
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210617
+LR  - 20231110
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Print)
+IS  - 1549-9596 (Linking)
+VI  - 60
+IP  - 5
+DP  - 2020 May 26
+TI  - Practical Considerations for Atomistic Structure Modeling with Cryo-EM Maps.
+PG  - 2436-2442
+LID - 10.1021/acs.jcim.0c00090 [doi]
+AB  - We describe common approaches to atomistic structure modeling with single 
+      particle analysis derived cryo-EM maps. Several strategies for atomistic model 
+      building and atomistic model fitting methods are discussed, including selection 
+      criteria and implementation procedures. In covering basic concepts and caveats, 
+      this short perspective aims to help facilitate active discussion between 
+      scientists at different levels with diverse backgrounds.
+FAU - Kim, Doo Nam
+AU  - Kim DN
+AD  - Computational Biology Team, Biological Science Division, Pacific Northwest 
+      National Laboratory, Richland, Washington 99354, United States.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Sanbonmatsu, Karissa Y
+AU  - Sanbonmatsu KY
+AUID- ORCID: 0000-0002-7965-7392
+AD  - Theoretical Biology and Biophysics Group, Los Alamos National Laboratory, Los 
+      Alamos, New Mexico 87545, United States.
+AD  - New Mexico Consortium, Los Alamos, New Mexico 87544, United States.
+LA  - eng
+GR  - R01 GM072686/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20200518
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Cryoelectron Microscopy
+MH  - Models, Molecular
+MH  - Protein Conformation
+MH  - *Proteins
+PMC - PMC7891309
+MID - NIHMS1661714
+EDAT- 2020/05/19 06:00
+MHDA- 2021/06/22 06:00
+PMCR- 2021/02/18
+CRDT- 2020/05/19 06:00
+PHST- 2020/05/19 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/05/19 06:00 [entrez]
+PHST- 2021/02/18 00:00 [pmc-release]
+AID - 10.1021/acs.jcim.0c00090 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2020 May 26;60(5):2436-2442. doi: 10.1021/acs.jcim.0c00090. 
+      Epub 2020 May 18.

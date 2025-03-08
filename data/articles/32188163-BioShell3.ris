@@ -1,0 +1,89 @@
+PMID- 32188163
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210317
+LR  - 20210317
+IS  - 2218-273X (Electronic)
+IS  - 2218-273X (Linking)
+VI  - 10
+IP  - 3
+DP  - 2020 Mar 16
+TI  - BioShell 3.0: Library for Processing Structural Biology Data.
+LID - 10.3390/biom10030461 [doi]
+LID - 461
+AB  - BioShell is an open-source package for processing biological data, particularly 
+      focused on structural applications. The package provides parsers, data structures 
+      and algorithms for handling and analyzing macromolecular sequences, structures 
+      and sequence profiles. The most frequently used routines are accessible by a set 
+      of easy-to-use command line utilities for a Linux environment. The full 
+      functionality of the package assumes knowledge of C++ or Python to assemble an 
+      application using this software library. Since the last publication that 
+      announced the version 2.0, the package has been greatly expanded and rewritten in 
+      C++ standard 11 (C++11) to improve its modularity and efficiency. A new testing 
+      platform has been implemented to continuously test the correctness and integrity 
+      of the package. More than two hundred test programs have been published to 
+      provide simple examples that can be used as templates. This makes BioShell an 
+      easy to use library that greatly speeds up development of bioinformatics 
+      applications and web services without compromising computational efficiency.
+FAU - Macnar, Joanna M
+AU  - Macnar JM
+AUID- ORCID: 0000-0003-1760-2668
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+AD  - College of Inter-Faculty Individual Studies in Mathematics and Natural Sciences, 
+      University of Warsaw, Stefana Banacha 2C, 02-097 Warsaw, Poland.
+FAU - Szulc, Natalia A
+AU  - Szulc NA
+AUID- ORCID: 0000-0002-2991-3634
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+AD  - Laboratory of Protein Metabolism, International Institute of Molecular and Cell 
+      Biology in Warsaw, 4 Ks. Trojdena Street, 02-109 Warsaw, Poland.
+FAU - Kryś, Justyna D
+AU  - Kryś JD
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Badaczewska-Dawid, Aleksandra E
+AU  - Badaczewska-Dawid AE
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+LA  - eng
+GR  - 2018/29/B/ST6/01989/Narodowym Centrum Nauki/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200316
+PL  - Switzerland
+TA  - Biomolecules
+JT  - Biomolecules
+JID - 101596414
+SB  - IM
+MH  - *Algorithms
+MH  - *Computational Biology
+MH  - *Programming Languages
+PMC - PMC7175226
+OTO - NOTNLM
+OT  - macromolecular structure analysis
+OT  - python library
+OT  - software
+OT  - structural bioinformatics
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/03/20 06:00
+MHDA- 2021/03/18 06:00
+PMCR- 2020/03/01
+CRDT- 2020/03/20 06:00
+PHST- 2020/01/12 00:00 [received]
+PHST- 2020/03/05 00:00 [revised]
+PHST- 2020/03/10 00:00 [accepted]
+PHST- 2020/03/20 06:00 [entrez]
+PHST- 2020/03/20 06:00 [pubmed]
+PHST- 2021/03/18 06:00 [medline]
+PHST- 2020/03/01 00:00 [pmc-release]
+AID - biom10030461 [pii]
+AID - biomolecules-10-00461 [pii]
+AID - 10.3390/biom10030461 [doi]
+PST - epublish
+SO  - Biomolecules. 2020 Mar 16;10(3):461. doi: 10.3390/biom10030461.

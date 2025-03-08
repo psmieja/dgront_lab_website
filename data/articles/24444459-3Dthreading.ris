@@ -1,0 +1,77 @@
+PMID- 24444459
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140616
+LR  - 20220316
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 15
+DP  - 2014 Jan 20
+TI  - BioShell-Threading: versatile Monte Carlo package for protein 3D threading.
+PG  - 22
+LID - 10.1186/1471-2105-15-22 [doi]
+AB  - BACKGROUND: The comparative modeling approach to protein structure prediction 
+      inherently relies on a template structure. Before building a model such a 
+      template protein has to be found and aligned with the query sequence. Any error 
+      made on this stage may dramatically affects the quality of result. There is a 
+      need, therefore, to develop accurate and sensitive alignment protocols. RESULTS: 
+      BioShell threading software is a versatile tool for aligning protein structures, 
+      protein sequences or sequence profiles and query sequences to a template 
+      structures. The software is also capable of sub-optimal alignment generation. It 
+      can be executed as an application from the UNIX command line, or as a set of Java 
+      classes called from a script or a Java application. The implemented Monte Carlo 
+      search engine greatly facilitates the development and benchmarking of new 
+      alignment scoring schemes even when the functions exhibit non-deterministic 
+      polynomial-time complexity. CONCLUSIONS: Numerical experiments indicate that the 
+      new threading application offers template detection abilities and provides much 
+      better alignments than other methods. The package along with documentation and 
+      examples is available at: http://bioshell.pl/threading3d.
+FAU - Gniewek, Pawel
+AU  - Gniewek P
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+FAU - Kloczkowski, Andrzej
+AU  - Kloczkowski A
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Laboratory of Theory of Biopolymers, Faculty of Chemistry, University of Warsaw, 
+      Pasteura 1, 02-093 Warsaw, Poland. dgront@chem.uw.edu.pl.
+LA  - eng
+GR  - R01GM072014/GM/NIGMS NIH HHS/United States
+GR  - R01GM073095/GM/NIGMS NIH HHS/United States
+GR  - R01GM081680/GM/NIGMS NIH HHS/United States
+GR  - R01GM081680-S1/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20140120
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Algorithms
+MH  - Amino Acid Sequence
+MH  - Computational Biology
+MH  - Computer Simulation
+MH  - Models, Molecular
+MH  - *Monte Carlo Method
+MH  - Proteins/*chemistry
+MH  - Sequence Alignment/*methods
+MH  - Sequence Analysis, Protein/*methods
+MH  - *Software
+PMC - PMC3937128
+EDAT- 2014/01/22 06:00
+MHDA- 2014/06/17 06:00
+PMCR- 2014/01/20
+CRDT- 2014/01/22 06:00
+PHST- 2012/11/25 00:00 [received]
+PHST- 2013/11/18 00:00 [accepted]
+PHST- 2014/01/22 06:00 [entrez]
+PHST- 2014/01/22 06:00 [pubmed]
+PHST- 2014/06/17 06:00 [medline]
+PHST- 2014/01/20 00:00 [pmc-release]
+AID - 1471-2105-15-22 [pii]
+AID - 10.1186/1471-2105-15-22 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2014 Jan 20;15:22. doi: 10.1186/1471-2105-15-22.

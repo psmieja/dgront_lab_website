@@ -1,0 +1,68 @@
+PMID- 17660201
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071120
+LR  - 20130520
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+VI  - 23
+IP  - 19
+DP  - 2007 Oct 1
+TI  - Comparative modeling without implicit sequence alignments.
+PG  - 2522-7
+AB  - MOTIVATION: The number of known protein sequences is about thousand times larger 
+      than the number of experimentally solved 3D structures. For more than half of the 
+      protein sequences a close or distant structural analog could be identified. The 
+      key starting point in a classical comparative modeling is to generate the best 
+      possible sequence alignment with a template or templates. With decreasing 
+      sequence similarity, the number of errors in the alignments increases and these 
+      errors are the main causes of the decreasing accuracy of the molecular models 
+      generated. Here we propose a new approach to comparative modeling, which does not 
+      require the implicit alignment - the model building phase explores geometric, 
+      evolutionary and physical properties of a template (or templates). RESULTS: The 
+      proposed method requires prior identification of a template, although the initial 
+      sequence alignment is ignored. The model is built using a very efficient reduced 
+      representation search engine CABS to find the best possible superposition of the 
+      query protein onto the template represented as a 3D multi-featured scaffold. The 
+      criteria used include: sequence similarity, predicted secondary structure 
+      consistency, local geometric features and hydrophobicity profile. For more 
+      difficult cases, the new method qualitatively outperforms existing schemes of 
+      comparative modeling. The algorithm unifies de novo modeling, 3D threading and 
+      sequence-based methods. The main idea is general and could be easily combined 
+      with other efficient modeling tools as Rosetta, UNRES and others.
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+AD  - University of Warsaw, Faculty of Chemistry, Pasteura 1 02-093 Warsaw, Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20070727
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Algorithms
+MH  - Amino Acid Sequence
+MH  - Computer Simulation
+MH  - *Models, Chemical
+MH  - *Models, Molecular
+MH  - Molecular Sequence Data
+MH  - Protein Conformation
+MH  - Proteins/*chemistry/*ultrastructure
+MH  - Sequence Alignment/*methods
+MH  - Sequence Analysis, Protein/*methods
+EDAT- 2007/07/31 09:00
+MHDA- 2007/12/06 09:00
+CRDT- 2007/07/31 09:00
+PHST- 2007/07/31 09:00 [pubmed]
+PHST- 2007/12/06 09:00 [medline]
+PHST- 2007/07/31 09:00 [entrez]
+AID - btm380 [pii]
+AID - 10.1093/bioinformatics/btm380 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2007 Oct 1;23(19):2522-7. doi: 10.1093/bioinformatics/btm380. 
+      Epub 2007 Jul 27.

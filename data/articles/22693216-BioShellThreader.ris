@@ -1,0 +1,67 @@
+PMID- 22693216
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121212
+LR  - 20211021
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 40
+IP  - Web Server issue
+DP  - 2012 Jul
+TI  - BioShell Threader: protein homology detection based on sequence profiles and 
+      secondary structure profiles.
+PG  - W257-62
+LID - 10.1093/nar/gks555 [doi]
+AB  - The BioShell package has recently been extended with a web server for protein 
+      homology detection based on profile-to-profile alignment (known as 1D threading). 
+      Its aim is to assign structural templates to each domain of the query. The server 
+      uses sequence profiles that describe observed sequence variability and secondary 
+      structure profiles providing expected probability for a certain secondary 
+      structure type at a given position in a protein. Three independent predictors are 
+      used to increase the rate of successful predictions. Careful evaluation shows 
+      that there is nearly 80% chance that the query sequence belongs to the same SCOP 
+      family as the top scoring template. The Bioshell Threader server is freely 
+      available at: http://www.bioshell.pl/threader/.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - University of Warsaw, Faculty of Chemistry, Pasteura 1, 02-093 Warsaw, Poland. 
+      dgront@chem.uw.edu.pl
+FAU - Blaszczyk, Maciej
+AU  - Blaszczyk M
+FAU - Wojciechowski, Piotr
+AU  - Wojciechowski P
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120612
+PL  - England
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+SB  - IM
+MH  - Algorithms
+MH  - Databases, Protein
+MH  - Internet
+MH  - Protein Structure, Secondary
+MH  - Sequence Alignment
+MH  - Sequence Analysis, Protein
+MH  - *Software
+MH  - *Structural Homology, Protein
+MH  - User-Computer Interface
+PMC - PMC3394251
+EDAT- 2012/06/14 06:00
+MHDA- 2012/12/13 06:00
+PMCR- 2012/06/12
+CRDT- 2012/06/14 06:00
+PHST- 2012/06/14 06:00 [entrez]
+PHST- 2012/06/14 06:00 [pubmed]
+PHST- 2012/12/13 06:00 [medline]
+PHST- 2012/06/12 00:00 [pmc-release]
+AID - gks555 [pii]
+AID - 10.1093/nar/gks555 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2012 Jul;40(Web Server issue):W257-62. doi: 
+      10.1093/nar/gks555. Epub 2012 Jun 12.

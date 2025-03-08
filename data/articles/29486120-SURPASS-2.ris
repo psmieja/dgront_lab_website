@@ -1,0 +1,66 @@
+PMID- 29486120
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181127
+LR  - 20181127
+IS  - 1549-9626 (Electronic)
+IS  - 1549-9618 (Linking)
+VI  - 14
+IP  - 4
+DP  - 2018 Apr 10
+TI  - Coarse-Grained Modeling of the Interplay between Secondary Structure Propensities 
+      and Protein Fold Assembly.
+PG  - 2277-2287
+LID - 10.1021/acs.jctc.7b01242 [doi]
+AB  - We recently developed a new coarse-grained model of protein structure and 
+      dynamics [ Dawid et al. J. Chem. Theory Comput. 2017 , 13 ( 11 ), 5766 - 5779 ]. 
+      The model assumed a single bead representation of amino acid residues, where 
+      positions of such united residues were defined by centers of mass of four amino 
+      acid fragments. Replica exchange Monte Carlo sampling of the model chains 
+      provided good pictures of modeled structures and their dynamics. In its generic 
+      form the statistical knowledge-based force field of the model has been dedicated 
+      for single-domain globular proteins. Sequence-specific interactions are defined 
+      by three-letter secondary structure data. In the present work we demonstrate that 
+      different assignments and/or predictions of secondary structures are usually 
+      sufficient for enforcing cooperative formation of native-like folds of SURPASS 
+      chains for the majority of single-domain globular proteins. Simulations of 
+      native-like structure assembly for a representative set of globular proteins have 
+      shown that the accuracy of secondary structure data is usually not crucial for 
+      model performance, although some specific errors can strongly distort the 
+      obtained three-dimensional structures.
+FAU - Dawid, Aleksandra E
+AU  - Dawid AE
+AD  - Faculty of Chemistry, Biological and Chemical Research Center , University of 
+      Warsaw , Pasteura 1 , 02-093 Warsaw , Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Biological and Chemical Research Center , University of 
+      Warsaw , Pasteura 1 , 02-093 Warsaw , Poland.
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+AUID- ORCID: 0000-0002-8830-2315
+AD  - Faculty of Chemistry, Biological and Chemical Research Center , University of 
+      Warsaw , Pasteura 1 , 02-093 Warsaw , Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20180306
+PL  - United States
+TA  - J Chem Theory Comput
+JT  - Journal of chemical theory and computation
+JID - 101232704
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Molecular Dynamics Simulation
+MH  - Protein Folding
+MH  - Protein Structure, Secondary
+MH  - *Proteins/chemistry
+EDAT- 2018/02/28 06:00
+MHDA- 2018/11/28 06:00
+CRDT- 2018/02/28 06:00
+PHST- 2018/02/28 06:00 [pubmed]
+PHST- 2018/11/28 06:00 [medline]
+PHST- 2018/02/28 06:00 [entrez]
+AID - 10.1021/acs.jctc.7b01242 [doi]
+PST - ppublish
+SO  - J Chem Theory Comput. 2018 Apr 10;14(4):2277-2287. doi: 10.1021/acs.jctc.7b01242. 
+      Epub 2018 Mar 6.

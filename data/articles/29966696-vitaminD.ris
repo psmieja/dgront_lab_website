@@ -1,0 +1,75 @@
+PMID- 29966696
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190820
+LR  - 20190820
+IS  - 1879-1220 (Electronic)
+IS  - 0960-0760 (Linking)
+VI  - 183
+DP  - 2018 Oct
+TI  - Mutation goals in the vitamin D receptor predicted by computational methods.
+PG  - 210-220
+LID - S0960-0760(18)30203-6 [pii]
+LID - 10.1016/j.jsbmb.2018.06.016 [doi]
+AB  - The mechanism through which nuclear receptors respond differentially to 
+      structurally distinct agonists is a poorly understood process. We present a 
+      computational method that identifies nuclear receptor amino acids that are likely 
+      involved in biological responses triggered by ligand binding. The method involves 
+      tracing how structural changes spread from the ligand binding pocket to the sites 
+      on the receptor surface, which makes it a good tool for studying allosteric 
+      effects. We employ the method to the vitamin D receptor and verify that the 
+      identified amino acids are biologically relevant using a broad range of 
+      experimental data and a genome browser. We infer that surface vitamin D receptor 
+      residues K141, R252, I260, T280, T287 and L417 are likely involved in cell 
+      differentiation and antiproliferation, whereas P122, D149, K321, E353 and Q385 
+      are linked to carcinogenesis.
+CI  - Copyright © 2018 Elsevier Ltd. All rights reserved.
+FAU - Sicinska, Wanda
+AU  - Sicinska W
+AD  - Department of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland. 
+      Electronic address: wsicinska@chem.uw.edu.pl.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Department of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Sicinski, Kamil
+AU  - Sicinski K
+AD  - Center for Demography of Health and Aging, University of Wisconsin-Madison, 1180 
+      Observatory Drive, Madison, WI 53706, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20180630
+PL  - England
+TA  - J Steroid Biochem Mol Biol
+JT  - The Journal of steroid biochemistry and molecular biology
+JID - 9015483
+RN  - 0 (Receptors, Calcitriol)
+RN  - 0 (VDR protein, human)
+MH  - Cell Differentiation
+MH  - Cell Proliferation
+MH  - Cell Transformation, Neoplastic
+MH  - Computational Biology/*methods
+MH  - *Genome, Human
+MH  - Humans
+MH  - *Models, Molecular
+MH  - *Mutation
+MH  - Receptors, Calcitriol/*genetics
+OTO - NOTNLM
+OT  - Computational analysis
+OT  - Vitamin D
+OT  - Vitamin D analogs
+OT  - Vitamin D receptor active sites
+OT  - holoVDR crystal complexes
+EDAT- 2018/07/04 06:00
+MHDA- 2019/08/21 06:00
+CRDT- 2018/07/04 06:00
+PHST- 2017/10/27 00:00 [received]
+PHST- 2018/05/21 00:00 [revised]
+PHST- 2018/06/27 00:00 [accepted]
+PHST- 2018/07/04 06:00 [pubmed]
+PHST- 2019/08/21 06:00 [medline]
+PHST- 2018/07/04 06:00 [entrez]
+AID - S0960-0760(18)30203-6 [pii]
+AID - 10.1016/j.jsbmb.2018.06.016 [doi]
+PST - ppublish
+SO  - J Steroid Biochem Mol Biol. 2018 Oct;183:210-220. doi: 
+      10.1016/j.jsbmb.2018.06.016. Epub 2018 Jun 30.

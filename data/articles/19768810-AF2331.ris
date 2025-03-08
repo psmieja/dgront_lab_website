@@ -1,0 +1,91 @@
+PMID- 19768810
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100212
+LR  - 20231103
+IS  - 1469-896X (Electronic)
+IS  - 0961-8368 (Print)
+IS  - 0961-8368 (Linking)
+VI  - 18
+IP  - 11
+DP  - 2009 Nov
+TI  - The crystal structure of the AF2331 protein from Archaeoglobus fulgidus DSM 4304 
+      forms an unusual interdigitated dimer with a new type of alpha + beta fold.
+PG  - 2410-9
+LID - 10.1002/pro.251 [doi]
+AB  - The structure of AF2331, a 11-kDa orphan protein of unknown function from 
+      Archaeoglobus fulgidus, was solved by Se-Met MAD to 2.4 A resolution. The 
+      structure consists of an alpha + beta fold formed by an unusual homodimer, where 
+      the two core beta-sheets are interdigitated, containing strands alternating from 
+      both subunits. The decrease in solvent-accessible surface area upon dimerization 
+      is unusually large (3960 A(2)) for a protein of its size. The percentage of the 
+      total surface area buried in the interface (41.1%) is one of the largest observed 
+      in a nonredundant set of homodimers in the PDB and is above the mean for nearly 
+      all other types of homo-oligomers. AF2331 has no sequence homologs, and no 
+      structure similar to AF2331 could be found in the PDB using the CE, TM-align, 
+      DALI, or SSM packages. The protein has been identified in Pfam 23.0 as the 
+      archetype of a new superfamily and is topologically dissimilar to all other 
+      proteins with the "3-Layer (BBA) Sandwich" fold in CATH. Therefore, we propose 
+      that AF2331 forms a novel alpha + beta fold. AF2331 contains multiple negatively 
+      charged surface clusters and is located on the same operon as the basic protein 
+      AF2330. We hypothesize that AF2331 and AF2330 may form a charge-stabilized 
+      complex in vivo, though the role of the negatively charged surface clusters is 
+      not clear.
+FAU - Wang, Shuren
+AU  - Wang S
+AD  - Department of Molecular Physiology and Biological Physics, University of 
+      Virginia, Charlottesville, Virginia 22908, USA.
+FAU - Kirillova, Olga
+AU  - Kirillova O
+FAU - Chruszcz, Maksymilian
+AU  - Chruszcz M
+FAU - Gront, Dominik
+AU  - Gront D
+FAU - Zimmerman, Matthew D
+AU  - Zimmerman MD
+FAU - Cymborowski, Marcin T
+AU  - Cymborowski MT
+FAU - Shumilin, Igor A
+AU  - Shumilin IA
+FAU - Skarina, Tatiana
+AU  - Skarina T
+FAU - Gorodichtchenskaia, Elena
+AU  - Gorodichtchenskaia E
+FAU - Savchenko, Alexei
+AU  - Savchenko A
+FAU - Edwards, Aled M
+AU  - Edwards AM
+FAU - Minor, Wladek
+AU  - Minor W
+LA  - eng
+GR  - GM074942/GM/NIGMS NIH HHS/United States
+GR  - GM62414/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Protein Sci
+JT  - Protein science : a publication of the Protein Society
+JID - 9211750
+RN  - 0 (Archaeal Proteins)
+SB  - IM
+MH  - Archaeal Proteins/*chemistry/genetics/metabolism
+MH  - Archaeoglobus fulgidus/*genetics
+MH  - Computational Biology
+MH  - Crystallography, X-Ray
+MH  - *Models, Molecular
+MH  - Protein Conformation
+MH  - Protein Folding
+MH  - Protein Multimerization/*genetics
+MH  - Protein Structure, Tertiary/*genetics
+PMC - PMC2788295
+EDAT- 2009/09/22 06:00
+MHDA- 2010/02/13 06:00
+PMCR- 2010/11/01
+CRDT- 2009/09/22 06:00
+PHST- 2009/09/22 06:00 [entrez]
+PHST- 2009/09/22 06:00 [pubmed]
+PHST- 2010/02/13 06:00 [medline]
+PHST- 2010/11/01 00:00 [pmc-release]
+AID - 10.1002/pro.251 [doi]
+PST - ppublish
+SO  - Protein Sci. 2009 Nov;18(11):2410-9. doi: 10.1002/pro.251.

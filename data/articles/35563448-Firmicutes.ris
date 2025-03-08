@@ -1,0 +1,105 @@
+PMID- 35563448
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220517
+LR  - 20220716
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 23
+IP  - 9
+DP  - 2022 May 2
+TI  - Contrasting Health Effects of Bacteroidetes and Firmicutes Lies in Their Genomes: 
+      Analysis of P450s, Ferredoxins, and Secondary Metabolite Clusters.
+LID - 10.3390/ijms23095057 [doi]
+LID - 5057
+AB  - Species belonging to the bacterial phyla Bacteroidetes and Firmicutes represent 
+      over 90% of the gastrointestinal microbiota. Changes in the ratio of these two 
+      bacterial groups were found to have contrasting health effects, including obesity 
+      and inflammatory diseases. Despite the availability of many bacterial genomes, 
+      comparative genomic studies on the gene pools of these two bacterial groups 
+      concerning cytochrome P450 monooxygenases (P450s), ferredoxins, and secondary 
+      metabolite biosynthetic gene clusters (smBGCs) are not reported. This study is 
+      aimed to address this research gap. The study revealed the presence of diverse 
+      sets of P450s, ferredoxins, and smBGCs in their genomes. Bacteroidetes species 
+      have the highest number of P450 families, ferredoxin cluster-types, and smBGCs 
+      compared to Firmicutes species. Only four P450 families, three ferredoxin cluster 
+      types, and five smBGCs are commonly shared between these two bacterial groups. 
+      Considering the above facts, we propose that the contrasting effects of these two 
+      bacterial groups on the host are partly due to the distinct nature of secondary 
+      metabolites produced by these organisms. Thus, the cause of the contrasting 
+      health effects of these two bacterial groups lies in their gene pools.
+FAU - Nkosi, Bridget Valeria Zinhle
+AU  - Nkosi BVZ
+AUID- ORCID: 0000-0002-3781-6076
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Padayachee, Tiara
+AU  - Padayachee T
+AUID- ORCID: 0000-0001-6667-9982
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Biological and Chemical Research Center, Faculty of Chemistry, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Nelson, David R
+AU  - Nelson DR
+AUID- ORCID: 0000-0003-0583-5421
+AD  - Department of Microbiology, Immunology and Biochemistry, University of Tennessee 
+      Health Science Center, Memphis, TN 38163, USA.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AUID- ORCID: 0000-0002-1497-3570
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+LA  - eng
+GR  - C686/University of Zululand,South Africa/
+GR  - MND200527525406 and MND210504599108/National Research Foundation (NRF), South 
+      Africa/
+GR  - 2018/29/B/ST6/01989/National Science Centre (Poland)/
+PT  - Journal Article
+DEP - 20220502
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Ferredoxins)
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - *Bacteroidetes/genetics
+MH  - *Cytochrome P-450 Enzyme System/genetics
+MH  - *Ferredoxins/genetics
+MH  - *Firmicutes/genetics
+MH  - Gastrointestinal Microbiome/genetics
+MH  - Humans
+MH  - Phylogeny
+MH  - *Secondary Metabolism/genetics
+PMC - PMC9100364
+OTO - NOTNLM
+OT  - Bacteroidetes
+OT  - Cytochrome P450 monooxygenases
+OT  - Firmicutes
+OT  - ferredoxins
+OT  - human gut microbiome
+OT  - human health
+OT  - secondary metabolite gene clusters
+COIS- The authors declare no conflict of interest and the funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2022/05/15 06:00
+MHDA- 2022/05/18 06:00
+PMCR- 2022/05/02
+CRDT- 2022/05/14 01:05
+PHST- 2022/04/08 00:00 [received]
+PHST- 2022/04/29 00:00 [revised]
+PHST- 2022/04/29 00:00 [accepted]
+PHST- 2022/05/14 01:05 [entrez]
+PHST- 2022/05/15 06:00 [pubmed]
+PHST- 2022/05/18 06:00 [medline]
+PHST- 2022/05/02 00:00 [pmc-release]
+AID - ijms23095057 [pii]
+AID - ijms-23-05057 [pii]
+AID - 10.3390/ijms23095057 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2022 May 2;23(9):5057. doi: 10.3390/ijms23095057.

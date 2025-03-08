@@ -1,0 +1,115 @@
+PMID- 35630316
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2076-2607 (Print)
+IS  - 2076-2607 (Electronic)
+IS  - 2076-2607 (Linking)
+VI  - 10
+IP  - 5
+DP  - 2022 Apr 21
+TI  - An Unprecedented Number of Cytochrome P450s Are Involved in Secondary Metabolism 
+      in Salinispora Species.
+LID - 10.3390/microorganisms10050871 [doi]
+LID - 871
+AB  - Cytochrome P450 monooxygenases (CYPs/P450s) are heme thiolate proteins present in 
+      species across the biological kingdoms. By virtue of their broad substrate 
+      promiscuity and regio- and stereo-selectivity, these enzymes enhance or attribute 
+      diversity to secondary metabolites. Actinomycetes species are well-known 
+      producers of secondary metabolites, especially Salinispora species. Despite the 
+      importance of P450s, a comprehensive comparative analysis of P450s and their role 
+      in secondary metabolism in Salinispora species is not reported. We therefore 
+      analyzed P450s in 126 strains from three different species Salinispora arenicola, 
+      S. pacifica, and S. tropica. The study revealed the presence of 2643 P450s that 
+      can be grouped into 45 families and 103 subfamilies. CYP107 and CYP125 families 
+      are conserved, and CYP105 and CYP107 families are bloomed (a P450 family with 
+      many members) across Salinispora species. Analysis of P450s that are part of 
+      secondary metabolite biosynthetic gene clusters (smBGCs) revealed Salinispora 
+      species have an unprecedented number of P450s (1236 P450s-47%) part of smBGCs 
+      compared to other bacterial species belonging to the genera Streptomyces (23%) 
+      and Mycobacterium (11%), phyla Cyanobacteria (8%) and Firmicutes (18%) and the 
+      classes Alphaproteobacteria (2%) and Gammaproteobacteria (18%). A peculiar 
+      characteristic of up to six P450s in smBGCs was observed in Salinispora species. 
+      Future characterization Salinispora species P450s and their smBGCs have the 
+      potential for discovering novel secondary metabolites.
+FAU - Malinga, Nsikelelo Allison
+AU  - Malinga NA
+AUID- ORCID: 0000-0002-0039-0809
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Nzuza, Nomfundo
+AU  - Nzuza N
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Padayachee, Tiara
+AU  - Padayachee T
+AUID- ORCID: 0000-0001-6667-9982
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Syed, Puleng Rosinah
+AU  - Syed PR
+AD  - Department of Pharmaceutical Chemistry, College of Health Sciences, University of 
+      KwaZulu-Natal, Durban 4000, South Africa.
+FAU - Karpoormath, Rajshekhar
+AU  - Karpoormath R
+AUID- ORCID: 0000-0002-1247-5754
+AD  - Department of Pharmaceutical Chemistry, College of Health Sciences, University of 
+      KwaZulu-Natal, Durban 4000, South Africa.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Faculty of Chemistry, Biological and Chemical Research Centre, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Nelson, David R
+AU  - Nelson DR
+AUID- ORCID: 0000-0003-0583-5421
+AD  - Department of Microbiology, Immunology and Biochemistry, University of Tennessee 
+      Health Science Center, Memphis, TN 38163, USA.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AUID- ORCID: 0000-0002-1497-3570
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+LA  - eng
+GR  - C686/University of Zululand, South Africa/
+GR  - MND210615611861, MND210504599108, and MND190606443406/National Research 
+      Foundation (NRF), South Africa/
+GR  - 2018/29/B/ST6/01989/National Science Centre (Poland)/
+PT  - Journal Article
+DEP - 20220421
+PL  - Switzerland
+TA  - Microorganisms
+JT  - Microorganisms
+JID - 101625893
+PMC - PMC9143469
+OTO - NOTNLM
+OT  - Mycobacterium
+OT  - Salinispora arenicola
+OT  - Streptomyces
+OT  - actinomycete
+OT  - biosynthetic gene clusters
+OT  - cytochrome P450
+OT  - diversity
+OT  - genome-data mining
+OT  - marine
+OT  - natural products
+OT  - secondary metabolites
+COIS- The authors declare no conflict of interest, and the funders had no role in the 
+      study’s design, in the collection, analyses, or interpretation of data, in the 
+      writing of the manuscript, or in the decision to publish the results.
+EDAT- 2022/05/29 06:00
+MHDA- 2022/05/29 06:01
+PMCR- 2022/04/21
+CRDT- 2022/05/28 01:32
+PHST- 2022/04/04 00:00 [received]
+PHST- 2022/04/15 00:00 [revised]
+PHST- 2022/04/19 00:00 [accepted]
+PHST- 2022/05/28 01:32 [entrez]
+PHST- 2022/05/29 06:00 [pubmed]
+PHST- 2022/05/29 06:01 [medline]
+PHST- 2022/04/21 00:00 [pmc-release]
+AID - microorganisms10050871 [pii]
+AID - microorganisms-10-00871 [pii]
+AID - 10.3390/microorganisms10050871 [doi]
+PST - epublish
+SO  - Microorganisms. 2022 Apr 21;10(5):871. doi: 10.3390/microorganisms10050871.

@@ -1,0 +1,148 @@
+PMID- 28989052
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180208
+LR  - 20180919
+IS  - 1570-9639 (Print)
+IS  - 1570-9639 (Linking)
+VI  - 1866
+IP  - 1
+DP  - 2018 Jan
+TI  - In silico analysis of cytochrome P450 monooxygenases in chronic granulomatous 
+      infectious fungus Sporothrix schenckii: Special focus on CYP51.
+PG  - 166-177
+LID - S1570-9639(17)30241-8 [pii]
+LID - 10.1016/j.bbapap.2017.10.003 [doi]
+AB  - Sporotrichosis is an emerging chronic, granulomatous, subcutaneous, mycotic 
+      infection caused by Sporothrix species. Sporotrichosis is treated with the azole 
+      drug itraconazole as ketoconazole is ineffective. It is a well-known fact that 
+      azole drugs act by inhibiting cytochrome P450 monooxygenases (P450s), 
+      heme-thiolate proteins. To date, nothing is known about P450s in Sporothrix 
+      schenckii and the molecular basis of its resistance to ketoconazole. Here we 
+      present genome-wide identification, annotation, phylogenetic analysis and 
+      comprehensive P450 family-level comparative analysis of S. schenckii P450s with 
+      pathogenic fungi P450s, along with a rationale for ketoconazole resistance by S. 
+      schenckii based on in silico structural analysis of CYP51. Genome data-mining of 
+      S. schenckii revealed 40 P450s in its genome that can be grouped into 32 P450 
+      families and 39 P450 subfamilies. Comprehensive comparative analysis of P450s 
+      revealed that S. schenckii shares 11 P450 families with plant pathogenic fungi 
+      and has three unique P450 families: CYP5077, CYP5386 and CYP5696 (novel family). 
+      Among P450s, CYP51, the main target of azole drugs was also found in S. 
+      schenckii. 3D modeling of S. schenckii CYP51 revealed the presence of 
+      characteristic P450 motifs with exceptionally large reductase interaction site 2. 
+      In silico analysis revealed number of mutations that can be associated with 
+      ketoconazole resistance, especially at the channel entrance to the active site. 
+      One of possible reason for better stabilization of itraconazole, compared to 
+      ketoconazole, is that the more extended molecule of itraconazole may form a 
+      hydrogen bond with ASN-230. This in turn may explain its effectiveness against S. 
+      schenckii vis-a-vis resistant to ketoconazole. This article is part of a Special 
+      Issue entitled: Cytochrome P450 biodiversity and biotechnology, edited by Erika 
+      Plettner, Gianfranco Gilardi, Luet Wong, Vlada Urlacher, Jared Goldstone.
+CI  - Copyright © 2017 Elsevier B.V. All rights reserved.
+FAU - Matowane, Retshedisitswe Godfrey
+AU  - Matowane RG
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa.
+FAU - Wieteska, Lukasz
+AU  - Wieteska L
+AD  - Laboratory of Theory of Biopolymers, University of Warsaw, Pasteura 1, 02-093 
+      Warsaw, Poland.
+FAU - Bamal, Hans Denis
+AU  - Bamal HD
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa.
+FAU - Kgosiemang, Ipeleng Kopano Rosinah
+AU  - Kgosiemang IKR
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa.
+FAU - Van Wyk, Mari
+AU  - Van Wyk M
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa.
+FAU - Manume, Nessie Agnes
+AU  - Manume NA
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa.
+FAU - Abdalla, Sara Mohamed Hasaan
+AU  - Abdalla SMH
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa.
+FAU - Mashele, Samson Sitheni
+AU  - Mashele SS
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Laboratory of Theory of Biopolymers, University of Warsaw, Pasteura 1, 02-093 
+      Warsaw, Poland.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AD  - Unit for Drug Discovery Research, Department of Health Sciences, Faculty of 
+      Health and Environmental Sciences, Central University of Technology, Bloemfontein 
+      9300, Free State, South Africa. Electronic address: khajamohiddinsyed@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20171005
+PL  - Netherlands
+TA  - Biochim Biophys Acta Proteins Proteom
+JT  - Biochimica et biophysica acta. Proteins and proteomics
+JID - 101731734
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Fungal Proteins)
+RN  - 304NUG5GF4 (Itraconazole)
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+RN  - R9400W927I (Ketoconazole)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Antifungal Agents/*chemistry/pharmacology
+MH  - Catalytic Domain
+MH  - Crystallography, X-Ray
+MH  - Cytochrome P-450 Enzyme System/*chemistry/genetics/metabolism
+MH  - Drug Resistance, Fungal/genetics
+MH  - Fungal Proteins/antagonists & inhibitors/*chemistry/genetics/metabolism
+MH  - Gene Expression
+MH  - *Genome, Fungal
+MH  - Humans
+MH  - Itraconazole/*chemistry/pharmacology
+MH  - Ketoconazole/chemistry/pharmacology
+MH  - Molecular Docking Simulation
+MH  - Multigene Family
+MH  - Phylogeny
+MH  - Plants/microbiology
+MH  - Protein Binding
+MH  - Protein Interaction Domains and Motifs
+MH  - Protein Structure, Secondary
+MH  - Sequence Alignment
+MH  - Sporothrix/classification/drug effects/*enzymology/genetics
+MH  - Sporotrichosis/drug therapy/microbiology
+MH  - Structural Homology, Protein
+OTO - NOTNLM
+OT  - Docking
+OT  - Genome data mining
+OT  - Homology modeling
+OT  - Mutations
+OT  - P450
+OT  - P450 diversity percentage
+EDAT- 2017/10/11 06:00
+MHDA- 2018/02/09 06:00
+CRDT- 2017/10/10 06:00
+PHST- 2017/04/23 00:00 [received]
+PHST- 2017/09/29 00:00 [revised]
+PHST- 2017/10/02 00:00 [accepted]
+PHST- 2017/10/11 06:00 [pubmed]
+PHST- 2018/02/09 06:00 [medline]
+PHST- 2017/10/10 06:00 [entrez]
+AID - S1570-9639(17)30241-8 [pii]
+AID - 10.1016/j.bbapap.2017.10.003 [doi]
+PST - ppublish
+SO  - Biochim Biophys Acta Proteins Proteom. 2018 Jan;1866(1):166-177. doi: 
+      10.1016/j.bbapap.2017.10.003. Epub 2017 Oct 5.

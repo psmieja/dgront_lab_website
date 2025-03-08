@@ -1,0 +1,91 @@
+PMID- 16365636
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061211
+LR  - 20181201
+IS  - 0001-527X (Print)
+IS  - 0001-527X (Linking)
+VI  - 53
+IP  - 1
+DP  - 2006
+TI  - Denatured proteins and early folding intermediates simulated in a reduced 
+      conformational space.
+PG  - 131-44
+AB  - Conformations of globular proteins in the denatured state were studied using a 
+      high-resolution lattice model of proteins and Monte Carlo dynamics. The model 
+      assumes a united-atom and high-coordination lattice representation of the 
+      polypeptide conformational space. The force field of the model mimics the 
+      short-range protein-like conformational stiffness, hydrophobic interactions of 
+      the side chains and the main-chain hydrogen bonds. Two types of approximations 
+      for the short-range interactions were compared: simple statistical potentials and 
+      knowledge-based protein-specific potentials derived from the sequence-structure 
+      compatibility of short fragments of protein chains. Model proteins in the 
+      denatured state are relatively compact, although the majority of the sampled 
+      conformations are globally different from the native fold. At the same time short 
+      protein fragments are mostly native-like. Thus, the denatured state of the model 
+      proteins has several features of the molten globule state observed 
+      experimentally. Statistical potentials induce native-like conformational 
+      propensities in the denatured state, especially for the fragments located in the 
+      core of folded proteins. Knowledge-based protein-specific potentials increase 
+      only slightly the level of similarity to the native conformations, in spite of 
+      their qualitatively higher specificity in the native structures. For a few cases, 
+      where fairly accurate experimental data exist, the simulation results are in 
+      semiquantitative agreement with the physical picture revealed by the experiments. 
+      This shows that the model studied in this work could be used efficiently in 
+      computational studies of protein dynamics in the denatured state, and 
+      consequently for studies of protein folding pathways, i.e. not only for the 
+      modeling of folded structures, as it was shown in previous studies. The results 
+      of the present studies also provide a new insight into the explanation of the 
+      Levinthal's paradox.
+FAU - Kmiecik, Sebastian
+AU  - Kmiecik S
+AD  - Faculty of Chemistry, Warsaw University, Warszawa, Poland.
+FAU - Kurcinski, Mateusz
+AU  - Kurcinski M
+FAU - Rutkowska, Aleksandra
+AU  - Rutkowska A
+FAU - Gront, Dominik
+AU  - Gront D
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20051219
+PL  - Switzerland
+TA  - Acta Biochim Pol
+JT  - Acta biochimica Polonica
+JID - 14520300R
+RN  - 0 (Bacterial Proteins)
+RN  - 9007-43-6 (Cytochromes c)
+RN  - EC 3.1.- (Ribonucleases)
+RN  - EC 3.1.27.- (Bacillus amyloliquefaciens ribonuclease)
+RN  - EC 3.4.21.1 (Chymotrypsin)
+SB  - IM
+MH  - Animals
+MH  - Bacterial Proteins
+MH  - Biophysics/*methods
+MH  - Chymotrypsin/antagonists & inhibitors/chemistry
+MH  - Computer Simulation
+MH  - Cytochromes c/chemistry
+MH  - Models, Molecular
+MH  - Models, Statistical
+MH  - Molecular Conformation
+MH  - Monte Carlo Method
+MH  - Protein Conformation
+MH  - Protein Denaturation
+MH  - Protein Folding
+MH  - Ribonucleases/chemistry
+MH  - src Homology Domains
+EDAT- 2005/12/21 09:00
+MHDA- 2006/12/12 09:00
+CRDT- 2005/12/21 09:00
+PHST- 2005/08/18 00:00 [received]
+PHST- 2005/10/05 00:00 [revised]
+PHST- 2005/11/06 00:00 [accepted]
+PHST- 2005/12/21 09:00 [pubmed]
+PHST- 2006/12/12 09:00 [medline]
+PHST- 2005/12/21 09:00 [entrez]
+AID - 20051063 [pii]
+PST - ppublish
+SO  - Acta Biochim Pol. 2006;53(1):131-44. Epub 2005 Dec 19.

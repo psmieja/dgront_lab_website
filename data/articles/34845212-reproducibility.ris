@@ -1,0 +1,382 @@
+PMID- 34845212
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220105
+LR  - 20241005
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2021 Nov 29
+TI  - Ensuring scientific reproducibility in bio-macromolecular modeling via extensive, 
+      automated benchmarks.
+PG  - 6947
+LID - 10.1038/s41467-021-27222-7 [doi]
+LID - 6947
+AB  - Each year vast international resources are wasted on irreproducible research. The 
+      scientific community has been slow to adopt standard software engineering 
+      practices, despite the increases in high-dimensional data, complexities of 
+      workflows, and computational environments. Here we show how scientific software 
+      applications can be created in a reproducible manner when simple design goals for 
+      reproducibility are met. We describe the implementation of a test server 
+      framework and 40 scientific benchmarks, covering numerous applications in Rosetta 
+      bio-macromolecular modeling. High performance computing cluster integration 
+      allows these benchmarks to run continuously and automatically. Detailed protocol 
+      captures are useful for developers and users of Rosetta and other macromolecular 
+      modeling tools. The framework and design concepts presented here are valuable for 
+      developers and users of any type of scientific software and for the scientific 
+      community to create reproducible methods. Specific examples highlight the utility 
+      of this framework, and the comprehensive documentation illustrates the ease of 
+      adding new tests in a matter of hours.
+CI  - © 2021. The Author(s).
+FAU - Koehler Leman, Julia
+AU  - Koehler Leman J
+AUID- ORCID: 0000-0002-5693-3593
+AD  - Center for Computational Biology, Flatiron Institute, Simons Foundation, New 
+      York, NY, 10010, USA. julia.koehler.leman@gmail.com.
+AD  - Department of Biology, New York University, New York, NY, 10003, USA. 
+      julia.koehler.leman@gmail.com.
+FAU - Lyskov, Sergey
+AU  - Lyskov S
+AUID- ORCID: 0000-0001-6380-6712
+AD  - Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, 21218, USA.
+FAU - Lewis, Steven M
+AU  - Lewis SM
+AD  - Cyrus Biotechnology, 1201 Second Ave, Suite 900, Seattle, WA, 98101, USA.
+FAU - Adolf-Bryfogle, Jared
+AU  - Adolf-Bryfogle J
+AUID- ORCID: 0000-0001-8586-1907
+AD  - Department of Immunology and Microbiology, Scripps Research, La Jolla, CA, 92037, 
+      USA.
+AD  - IAVI Neutralizing Antibody Center, Scripps Research, La Jolla, CA, 92037, USA.
+FAU - Alford, Rebecca F
+AU  - Alford RF
+AD  - Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, 21218, USA.
+FAU - Barlow, Kyle
+AU  - Barlow K
+AUID- ORCID: 0000-0002-9787-0066
+AD  - Graduate Program in Bioinformatics, University of California San Francisco, San 
+      Francisco, CA, 94158, USA.
+FAU - Ben-Aharon, Ziv
+AU  - Ben-Aharon Z
+AUID- ORCID: 0000-0002-9623-6071
+AD  - Department of Microbiology and Molecular Genetics, Hebrew University, Hadassah 
+      Medical School, POB 12272, Jerusalem, 91120, Israel.
+FAU - Farrell, Daniel
+AU  - Farrell D
+AUID- ORCID: 0000-0001-7024-7998
+AD  - Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.
+AD  - Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.
+FAU - Fell, Jason
+AU  - Fell J
+AUID- ORCID: 0000-0001-6680-2936
+AD  - Genome Center, University of California, Davis, CA, 95616, USA.
+AD  - Department of Biochemistry & Molecular Medicine, University of California, Davis, 
+      CA, 95616, USA.
+AD  - Department of Chemistry, University of California, Davis, CA, 95616, USA.
+FAU - Hansen, William A
+AU  - Hansen WA
+AD  - Department of Chemistry and Chemical Biology, Rutgers, The State University of 
+      New Jersey, Piscataway, NJ, 08904, USA.
+AD  - Institute for Quantitative Biomedicine, Rutgers, The State University of New 
+      Jersey, Piscataway, NJ, 08904, USA.
+FAU - Harmalkar, Ameya
+AU  - Harmalkar A
+AUID- ORCID: 0000-0001-6863-9634
+AD  - Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, 21218, USA.
+FAU - Jeliazkov, Jeliazko
+AU  - Jeliazkov J
+AUID- ORCID: 0000-0003-4249-1955
+AD  - Program in Molecular Biophysics, Johns Hopkins University, Baltimore, MD, 21218, 
+      USA.
+FAU - Kuenze, Georg
+AU  - Kuenze G
+AD  - Department of Chemistry, Vanderbilt University, Nashville, TN, 37235, USA.
+AD  - Center for Structural Biology, Vanderbilt University, Nashville, TN, 37235, USA.
+AD  - Institute for Drug Discovery, Medical School, Leipzig University, 04103, Leipzig, 
+      Germany.
+FAU - Krys, Justyna D
+AU  - Krys JD
+AUID- ORCID: 0000-0002-5318-8831
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093, Warsaw, Poland.
+FAU - Ljubetič, Ajasja
+AU  - Ljubetič A
+AUID- ORCID: 0000-0002-2171-1579
+AD  - Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.
+AD  - Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.
+FAU - Loshbaugh, Amanda L
+AU  - Loshbaugh AL
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, 94158, USA.
+AD  - Biophysics Graduate Program, University of California San Francisco, San 
+      Francisco, CA, 94158, USA.
+FAU - Maguire, Jack
+AU  - Maguire J
+AD  - Program in Bioinformatics and Computational Biology, University of North Carolina 
+      at Chapel Hill, Chapel Hill, NC, 27599, USA.
+FAU - Moretti, Rocco
+AU  - Moretti R
+AD  - Department of Chemistry, Vanderbilt University, Nashville, TN, 37235, USA.
+AD  - Center for Structural Biology, Vanderbilt University, Nashville, TN, 37235, USA.
+FAU - Mulligan, Vikram Khipple
+AU  - Mulligan VK
+AD  - Center for Computational Biology, Flatiron Institute, Simons Foundation, New 
+      York, NY, 10010, USA.
+FAU - Nance, Morgan L
+AU  - Nance ML
+AUID- ORCID: 0000-0003-0997-9393
+AD  - Program in Molecular Biophysics, Johns Hopkins University, Baltimore, MD, 21218, 
+      USA.
+FAU - Nguyen, Phuong T
+AU  - Nguyen PT
+AD  - Department of Physiology and Membrane Biology, School of Medicine, University of 
+      California, Davis, CA, 95616, USA.
+FAU - Ó Conchúir, Shane
+AU  - Ó Conchúir S
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, 94158, USA.
+FAU - Roy Burman, Shourya S
+AU  - Roy Burman SS
+AUID- ORCID: 0000-0001-9274-9104
+AD  - Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, 21218, USA.
+FAU - Samanta, Rituparna
+AU  - Samanta R
+AD  - Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, 21218, USA.
+FAU - Smith, Shannon T
+AU  - Smith ST
+AUID- ORCID: 0000-0002-1225-8928
+AD  - Center for Structural Biology, Vanderbilt University, Nashville, TN, 37235, USA.
+AD  - Chemical and Physical Biology Program, Vanderbilt University, Nashville, TN, 
+      37235, USA.
+FAU - Teets, Frank
+AU  - Teets F
+AD  - Department of Bioochemistry and Biophysics, University of North Carolina at 
+      Chapel Hill, Chapel Hill, NC, 27516, USA.
+FAU - Tiemann, Johanna K S
+AU  - Tiemann JKS
+AUID- ORCID: 0000-0001-7551-6245
+AD  - Linderstrøm-Lang Centre for Protein Science, Department of Biology, University of 
+      Copenhagen, DK-2200, Copenhagen N., Denmark.
+FAU - Watkins, Andrew
+AU  - Watkins A
+AD  - Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, 
+      94305, USA.
+FAU - Woods, Hope
+AU  - Woods H
+AUID- ORCID: 0000-0001-6615-545X
+AD  - Center for Structural Biology, Vanderbilt University, Nashville, TN, 37235, USA.
+AD  - Chemical and Physical Biology Program, Vanderbilt University, Nashville, TN, 
+      37235, USA.
+FAU - Yachnin, Brahm J
+AU  - Yachnin BJ
+AUID- ORCID: 0000-0001-6812-6329
+AD  - Department of Chemistry and Chemical Biology, Rutgers, The State University of 
+      New Jersey, Piscataway, NJ, 08904, USA.
+AD  - Institute for Quantitative Biomedicine, Rutgers, The State University of New 
+      Jersey, Piscataway, NJ, 08904, USA.
+FAU - Bahl, Christopher D
+AU  - Bahl CD
+AD  - Institute for Protein Innovation, Boston, MA, 02115, USA.
+AD  - Division of Hematology/Oncology, Boston Children's Hospital, Boston, MA, 02115, 
+      USA.
+AD  - Department of Pediatrics, Harvard Medical School, Boston, MA, 02115, USA.
+FAU - Bailey-Kellogg, Chris
+AU  - Bailey-Kellogg C
+AD  - Department of Computer Science, Dartmouth, Hanover, NH, 03755, USA.
+FAU - Baker, David
+AU  - Baker D
+AUID- ORCID: 0000-0001-7896-6217
+AD  - Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.
+AD  - Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.
+FAU - Das, Rhiju
+AU  - Das R
+AUID- ORCID: 0000-0001-7497-0972
+AD  - Department of Biochemistry, Stanford University School of Medicine, Stanford, CA, 
+      94305, USA.
+FAU - DiMaio, Frank
+AU  - DiMaio F
+AD  - Department of Biochemistry, University of Washington, Seattle, WA, 98195, USA.
+AD  - Institute for Protein Design, University of Washington, Seattle, WA, 98195, USA.
+FAU - Khare, Sagar D
+AU  - Khare SD
+AD  - Department of Chemistry and Chemical Biology, Rutgers, The State University of 
+      New Jersey, Piscataway, NJ, 08904, USA.
+AD  - Institute for Quantitative Biomedicine, Rutgers, The State University of New 
+      Jersey, Piscataway, NJ, 08904, USA.
+FAU - Kortemme, Tanja
+AU  - Kortemme T
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, 94158, USA.
+AD  - Biophysics Graduate Program, University of California San Francisco, San 
+      Francisco, CA, 94158, USA.
+FAU - Labonte, Jason W
+AU  - Labonte JW
+AD  - Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, 21218, USA.
+FAU - Lindorff-Larsen, Kresten
+AU  - Lindorff-Larsen K
+AUID- ORCID: 0000-0002-4750-6039
+AD  - Linderstrøm-Lang Centre for Protein Science, Department of Biology, University of 
+      Copenhagen, DK-2200, Copenhagen N., Denmark.
+FAU - Meiler, Jens
+AU  - Meiler J
+AUID- ORCID: 0000-0001-8945-193X
+AD  - Department of Chemistry, Vanderbilt University, Nashville, TN, 37235, USA.
+AD  - Center for Structural Biology, Vanderbilt University, Nashville, TN, 37235, USA.
+AD  - Institute for Drug Discovery, Medical School, Leipzig University, 04103, Leipzig, 
+      Germany.
+FAU - Schief, William
+AU  - Schief W
+AUID- ORCID: 0000-0002-1120-0150
+AD  - Department of Immunology and Microbiology, Scripps Research, La Jolla, CA, 92037, 
+      USA.
+AD  - IAVI Neutralizing Antibody Center, Scripps Research, La Jolla, CA, 92037, USA.
+FAU - Schueler-Furman, Ora
+AU  - Schueler-Furman O
+AUID- ORCID: 0000-0002-1624-0362
+AD  - Department of Microbiology and Molecular Genetics, Hebrew University, Hadassah 
+      Medical School, POB 12272, Jerusalem, 91120, Israel.
+FAU - Siegel, Justin B
+AU  - Siegel JB
+AD  - Genome Center, University of California, Davis, CA, 95616, USA.
+AD  - Department of Biochemistry & Molecular Medicine, University of California, Davis, 
+      CA, 95616, USA.
+AD  - Department of Chemistry, University of California, Davis, CA, 95616, USA.
+FAU - Stein, Amelie
+AU  - Stein A
+AUID- ORCID: 0000-0002-5862-1681
+AD  - Linderstrøm-Lang Centre for Protein Science, Department of Biology, University of 
+      Copenhagen, DK-2200, Copenhagen N., Denmark.
+FAU - Yarov-Yarovoy, Vladimir
+AU  - Yarov-Yarovoy V
+AUID- ORCID: 0000-0002-2325-4834
+AD  - Department of Physiology and Membrane Biology, School of Medicine, University of 
+      California, Davis, CA, 95616, USA.
+FAU - Kuhlman, Brian
+AU  - Kuhlman B
+AUID- ORCID: 0000-0003-4907-9699
+AD  - Department of Bioochemistry and Biophysics, University of North Carolina at 
+      Chapel Hill, Chapel Hill, NC, 27516, USA.
+FAU - Leaver-Fay, Andrew
+AU  - Leaver-Fay A
+AUID- ORCID: 0000-0003-4609-4340
+AD  - Department of Bioochemistry and Biophysics, University of North Carolina at 
+      Chapel Hill, Chapel Hill, NC, 27516, USA.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093, Warsaw, Poland.
+FAU - Gray, Jeffrey J
+AU  - Gray JJ
+AUID- ORCID: 0000-0001-6380-2324
+AD  - Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, 21218, USA. jgray@jhu.edu.
+FAU - Bonneau, Richard
+AU  - Bonneau R
+AUID- ORCID: 0000-0003-4354-7906
+AD  - Center for Computational Biology, Flatiron Institute, Simons Foundation, New 
+      York, NY, 10010, USA. bonneau@nyu.edu.
+AD  - Department of Biology, New York University, New York, NY, 10003, USA. 
+      bonneau@nyu.edu.
+AD  - Department of Computer Science, New York University, New York, NY, 10003, USA. 
+      bonneau@nyu.edu.
+LA  - eng
+GR  - UG3 NS114956/NS/NINDS NIH HHS/United States
+GR  - R01 HL128537/HL/NHLBI NIH HHS/United States
+GR  - R21 AI156570/AI/NIAID NIH HHS/United States
+GR  - HHMI/Howard Hughes Medical Institute/United States
+GR  - R01 GM132565/GM/NIGMS NIH HHS/United States
+GR  - T32 AI007244/AI/NIAID NIH HHS/United States
+GR  - R01 NS103954/NS/NINDS NIH HHS/United States
+GR  - F32 CA189246/CA/NCI NIH HHS/United States
+GR  - S10 OD023680/OD/NIH HHS/United States
+GR  - F31 CA243353/CA/NCI NIH HHS/United States
+GR  - R01 GM098977/GM/NIGMS NIH HHS/United States
+GR  - R21 CA219847/CA/NCI NIH HHS/United States
+GR  - R21 EB028342/EB/NIBIB NIH HHS/United States
+GR  - R56 AI110750/AI/NIAID NIH HHS/United States
+GR  - R01 GM080403/GM/NIGMS NIH HHS/United States
+GR  - T32 GM008284/GM/NIGMS NIH HHS/United States
+GR  - R01 AI113867/AI/NIAID NIH HHS/United States
+GR  - R35 GM131923/GM/NIGMS NIH HHS/United States
+GR  - R01 GM127578/GM/NIGMS NIH HHS/United States
+GR  - R01 DA046138/DA/NIDA NIH HHS/United States
+GR  - T32 GM067553/GM/NIGMS NIH HHS/United States
+GR  - R01 GM073151/GM/NIGMS NIH HHS/United States
+GR  - R01 GM076324/GM/NIGMS NIH HHS/United States
+GR  - R01 GM078221/GM/NIGMS NIH HHS/United States
+GR  - R01 GM123089/GM/NIGMS NIH HHS/United States
+GR  - P42 ES004699/ES/NIEHS NIH HHS/United States
+GR  - U01 AI150739/AI/NIAID NIH HHS/United States
+GR  - R35 GM122579/GM/NIGMS NIH HHS/United States
+GR  - R01 GM110089/GM/NIGMS NIH HHS/United States
+GR  - F31 GM123616/GM/NIGMS NIH HHS/United States
+GR  - R01 GM121487/GM/NIGMS NIH HHS/United States
+GR  - U19 AI117905/AI/NIAID NIH HHS/United States
+GR  - R01 GM132110/GM/NIGMS NIH HHS/United States
+GR  - R01 GM129261/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20211129
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (Ligands)
+RN  - 0 (Macromolecular Substances)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Benchmarking
+MH  - Binding Sites
+MH  - Humans
+MH  - Ligands
+MH  - Macromolecular Substances/*chemistry/metabolism
+MH  - *Molecular Docking Simulation
+MH  - Protein Binding
+MH  - Proteins/*chemistry/metabolism
+MH  - Reproducibility of Results
+MH  - Software/*standards
+PMC - PMC8630030
+COIS- Rosetta software has been licensed to numerous non-profit and for-profit 
+      organizations. Rosetta Licensing is managed by UW CoMotion, and royalty proceeds 
+      are managed by the RosettaCommons. Under institutional participation agreements 
+      between the University of Washington, acting on behalf of the RosettaCommons, 
+      their respective institutions may be entitled to a portion of the revenue 
+      received on licensing Rosetta software including programs described here. D.B., 
+      J.J.G., R.B., O.S.F., D.G., T.K., J.M., and V.Y.Y. are unpaid board members of 
+      the RosettaCommons. As members of the Scientific Advisory Board of Cyrus 
+      Biotechnology, D.B. and J.J.G. are granted stock options. S.M.L., A.L.L., and 
+      D.F. are employed by or have a relationship with Cyrus Biotechnology. Cyrus 
+      Biotechnology distributes the Rosetta software, which includes the methods 
+      discussed in this study. V.K.M. is a co-founder of and shareholder in Menten 
+      Biotechnology Labs, Inc. The content of this manuscript is relevant to work 
+      performed at Menten. J.M. is employed by Menten with granted stock options. D.B. 
+      is a cofounder of, shareholder in, or advisor to the following companies: ARZEDA, 
+      PvP Biologics, Cyrus Biotechnology, Cue Biopharma, Icosavax, Neoleukin 
+      Therapeutics, Lyell Immunotherapeutics, Sana Biotechnology, and A-Alpha Bio. CBK 
+      is a co-founder and manager of Stealth Biologics, LLC, a biotechnology company. 
+      R.B. is executive director of Prescient Design/Genentech, a member of the Roche 
+      group. The remaining authors declare no competing interests.
+EDAT- 2021/12/01 06:00
+MHDA- 2022/01/06 06:00
+PMCR- 2021/11/29
+CRDT- 2021/11/30 06:15
+PHST- 2021/04/08 00:00 [received]
+PHST- 2021/11/02 00:00 [accepted]
+PHST- 2021/11/30 06:15 [entrez]
+PHST- 2021/12/01 06:00 [pubmed]
+PHST- 2022/01/06 06:00 [medline]
+PHST- 2021/11/29 00:00 [pmc-release]
+AID - 10.1038/s41467-021-27222-7 [pii]
+AID - 27222 [pii]
+AID - 10.1038/s41467-021-27222-7 [doi]
+PST - epublish
+SO  - Nat Commun. 2021 Nov 29;12(1):6947. doi: 10.1038/s41467-021-27222-7.

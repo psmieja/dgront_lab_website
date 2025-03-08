@@ -1,0 +1,69 @@
+PMID- 33961033
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230412
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 37
+IP  - 20
+DP  - 2021 Oct 25
+TI  - VisuaLife: library for interactive visualization in rich web applications.
+PG  - 3662-3663
+LID - 10.1093/bioinformatics/btab251 [doi]
+AB  - MOTIVATION: Visualization is a powerful tool to analyze, understand and present 
+      big data. Computational biology, bioinformatics and molecular modeling require 
+      dedicated tools, tailored to very complex, highly multidimensional data. Over the 
+      recent years, numerous tools have been developed for online presentation, but new 
+      challenges like the COVID-19 pandemic require new libraries which will guarantee 
+      fast development of online tools for a better understanding of biomedical 
+      data/results. RESULTS: VisuaLife is a Python library that provides a new approach 
+      to visualization in a web browser. It offers 2D and 3D plotting capabilities as 
+      well as widgets designed to display the most common biological data types: 
+      nucleotide or protein sequences, 3D biomolecular structures and multiple sequence 
+      alignments. Components provided by the VisuaLife library can be assembled into a 
+      web application to create an analysis tool tailored to provide multidimensional 
+      analysis of a specific research problem. VisuaLife, to our best knowledge, is the 
+      most modern solution that allows one to implement such a client-side 
+      interactivity in Python. AVAILABILITY AND IMPLEMENTATION: The git repository of 
+      the library is hosted at BitBucket: https://bitbucket.org/dgront/visualife/. PyPI 
+      distribution is also provided for MacOS and Linux. While basic examples are 
+      provided in the supporting materials, the full documentation is available at 
+      ReadTheDocs website: https://visualife.readthedocs.io/. SUPPLEMENTARY 
+      INFORMATION: Supplementary data are available at Bioinformatics online.
+CI  - © The Author(s) 2021. Published by Oxford University Press.
+FAU - Kryś, Justyna D
+AU  - Kryś JD
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Warsaw 02-093, Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Warsaw 02-093, Poland.
+LA  - eng
+GR  - 2018/29/B/ST6/01989/Polish National Science Centre/
+PT  - Journal Article
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+PMC - PMC8136008
+EDAT- 2021/05/08 06:00
+MHDA- 2021/05/08 06:01
+PMCR- 2021/05/07
+CRDT- 2021/05/07 12:48
+PHST- 2021/02/22 00:00 [received]
+PHST- 2021/03/24 00:00 [revised]
+PHST- 2021/04/19 00:00 [accepted]
+PHST- 2021/05/08 06:01 [medline]
+PHST- 2021/05/08 06:00 [pubmed]
+PHST- 2021/05/07 12:48 [entrez]
+PHST- 2021/05/07 00:00 [pmc-release]
+AID - 6271407 [pii]
+AID - btab251 [pii]
+AID - 10.1093/bioinformatics/btab251 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2021 Oct 25;37(20):3662-3663. doi: 
+      10.1093/bioinformatics/btab251.

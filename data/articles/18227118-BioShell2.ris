@@ -1,0 +1,52 @@
+PMID- 18227118
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080227
+LR  - 20091104
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+VI  - 24
+IP  - 4
+DP  - 2008 Feb 15
+TI  - Utility library for structural bioinformatics.
+PG  - 584-5
+LID - 10.1093/bioinformatics/btm627 [doi]
+AB  - In this Note we present a new software library for structural bioinformatics. The 
+      library contains programs, computing sequence- and profile-based alignments and a 
+      variety of structural calculations with user-friendly handling of various data 
+      formats. The software organization is very flexible. Algorithms are written in 
+      Java language and may be used by Java programs. Moreover the modules can be 
+      accessed from Jython (Python scripting language implemented in Java) scripts. 
+      Finally, the new version of BioShell delivers several utility programs that can 
+      do typical bioinformatics task from a command-line level. Availability The 
+      software is available for download free of charge from its website: 
+      http://bioshell.chem.uw.edu.pl. This website provides also numerous examples, 
+      code snippets and API documentation.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - CUniversity of Warsaw, Faculty of Chemistry, Pasteura 1 02-093 Warsaw, Poland. 
+      dgront@chem.uw.edu.pl
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+PT  - Journal Article
+DEP - 20080128
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+MH  - Computational Biology/*methods
+MH  - *Libraries
+MH  - *Software
+EDAT- 2008/01/30 09:00
+MHDA- 2008/02/28 09:00
+CRDT- 2008/01/30 09:00
+PHST- 2008/01/30 09:00 [pubmed]
+PHST- 2008/02/28 09:00 [medline]
+PHST- 2008/01/30 09:00 [entrez]
+AID - btm627 [pii]
+AID - 10.1093/bioinformatics/btm627 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2008 Feb 15;24(4):584-5. doi: 10.1093/bioinformatics/btm627. Epub 
+      2008 Jan 28.

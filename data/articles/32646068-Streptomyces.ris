@@ -1,0 +1,121 @@
+PMID- 32646068
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210217
+LR  - 20210217
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 13
+DP  - 2020 Jul 7
+TI  - More P450s Are Involved in Secondary Metabolite Biosynthesis in Streptomyces 
+      Compared to Bacillus, Cyanobacteria, and Mycobacterium.
+LID - 10.3390/ijms21134814 [doi]
+LID - 4814
+AB  - Unraveling the role of cytochrome P450 monooxygenases (CYPs/P450s), heme-thiolate 
+      proteins present in living and non-living entities, in secondary metabolite 
+      synthesis is gaining momentum. In this direction, in this study, we analyzed the 
+      genomes of 203 Streptomyces species for P450s and unraveled their association 
+      with secondary metabolism. Our analyses revealed the presence of 5460 P450s, 
+      grouped into 253 families and 698 subfamilies. The CYP107 family was found to be 
+      conserved and highly populated in Streptomyces and Bacillus species, indicating 
+      its key role in the synthesis of secondary metabolites. Streptomyces species had 
+      a higher number of P450s than Bacillus and cyanobacterial species. The average 
+      number of secondary metabolite biosynthetic gene clusters (BGCs) and the number 
+      of P450s located in BGCs were higher in Streptomyces species than in Bacillus, 
+      mycobacterial, and cyanobacterial species, corroborating the superior capacity of 
+      Streptomyces species for generating diverse secondary metabolites. Functional 
+      analysis via data mining confirmed that many Streptomyces P450s are involved in 
+      the biosynthesis of secondary metabolites. This study was the first of its kind 
+      to conduct a comparative analysis of P450s in such a large number (203) of 
+      Streptomyces species, revealing the P450s' association with secondary metabolite 
+      synthesis in Streptomyces species. Future studies should include the selection of 
+      Streptomyces species with a higher number of P450s and BGCs and explore the 
+      biotechnological value of secondary metabolites they produce.
+FAU - Mnguni, Fanele Cabangile
+AU  - Mnguni FC
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Padayachee, Tiara
+AU  - Padayachee T
+AUID- ORCID: 0000-0001-6667-9982
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Chen, Wanping
+AU  - Chen W
+AUID- ORCID: 0000-0002-6849-1972
+AD  - Department of Molecular Microbiology and Genetics, University of Göttingen, 37077 
+      Göttingen, Germany.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Yu, Jae-Hyuk
+AU  - Yu JH
+AUID- ORCID: 0000-0002-6530-8407
+AD  - Department of Bacteriology, University of Wisconsin-Madison, 3155 MSB, 1550 
+      Linden Drive, Madison, WI 53706, USA.
+AD  - Department of Systems Biotechnology, Konkuk University, Seoul 05029, Korea.
+FAU - Nelson, David R
+AU  - Nelson DR
+AUID- ORCID: 0000-0003-0583-5421
+AD  - Department of Microbiology, Immunology and Biochemistry, University of Tennessee 
+      Health Science Center, Memphis, TN 38163, USA.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AUID- ORCID: 0000-0002-1497-3570
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+LA  - eng
+GR  - Grant No. 114159/National Research Foundation (NRF), South Africa/
+GR  - Grant No. 2018/29/B/ST6/01989/National Science Centre, Poland/
+PT  - Journal Article
+DEP - 20200707
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - Bacillus/*genetics
+MH  - Cyanobacteria/*genetics
+MH  - Cytochrome P-450 Enzyme System/*genetics
+MH  - Genome, Bacterial/genetics
+MH  - Multigene Family/genetics
+MH  - Mycobacterium/*genetics
+MH  - Phylogeny
+MH  - Secondary Metabolism/*genetics
+MH  - Streptomyces/*genetics
+PMC - PMC7369989
+OTO - NOTNLM
+OT  - Bacillus
+OT  - Cyanobacteria
+OT  - Mycobacterium
+OT  - P450 blooming
+OT  - Streptomyces
+OT  - biosynthetic gene clusters
+OT  - cytochrome P450 monooxygenases
+OT  - non-ribosomal peptides
+OT  - polyketides
+OT  - secondary metabolites
+OT  - terpenes
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study, in the collection, analyses, or interpretation of data, in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2020/07/11 06:00
+MHDA- 2021/02/18 06:00
+PMCR- 2020/07/01
+CRDT- 2020/07/11 06:00
+PHST- 2020/01/18 00:00 [received]
+PHST- 2020/02/11 00:00 [revised]
+PHST- 2020/02/13 00:00 [accepted]
+PHST- 2020/07/11 06:00 [entrez]
+PHST- 2020/07/11 06:00 [pubmed]
+PHST- 2021/02/18 06:00 [medline]
+PHST- 2020/07/01 00:00 [pmc-release]
+AID - ijms21134814 [pii]
+AID - ijms-21-04814 [pii]
+AID - 10.3390/ijms21134814 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Jul 7;21(13):4814. doi: 10.3390/ijms21134814.

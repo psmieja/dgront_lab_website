@@ -1,0 +1,109 @@
+PMID- 17626614
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070919
+LR  - 20181113
+IS  - 1472-6807 (Electronic)
+IS  - 1472-6807 (Linking)
+VI  - 7
+DP  - 2007 Jul 12
+TI  - Type II restriction endonuclease R.Eco29kI is a member of the GIY-YIG nuclease 
+      superfamily.
+PG  - 48
+AB  - BACKGROUND: The majority of experimentally determined crystal structures of Type 
+      II restriction endonucleases (REases) exhibit a common PD-(D/E)XK fold. Crystal 
+      structures have been also determined for single representatives of two other 
+      folds: PLD (R.BfiI) and half-pipe (R.PabI), and bioinformatics analyses supported 
+      by mutagenesis suggested that some REases belong to the HNH fold. Our previous 
+      bioinformatic analysis suggested that REase R.Eco29kI shares sequence 
+      similarities with one more unrelated nuclease superfamily, GIY-YIG, however so 
+      far no experimental data were available to support this prediction. The 
+      determination of a crystal structure of the GIY-YIG domain of homing endonuclease 
+      I-TevI provided a template for modeling of R.Eco29kI and prompted us to validate 
+      the model experimentally. RESULTS: Using protein fold-recognition methods we 
+      generated a new alignment between R.Eco29kI and I-TevI, which suggested a 
+      reassignment of one of the putative catalytic residues. A theoretical model of 
+      R.Eco29kI was constructed to illustrate its predicted three-dimensional fold and 
+      organization of the active site, comprising amino acid residues Y49, Y76, R104, 
+      H108, E142, and N154. A series of mutants was constructed to generate amino acid 
+      substitutions of selected residues (Y49A, R104A, H108F, E142A and N154L) and the 
+      mutant proteins were examined for their ability to bind the DNA containing the 
+      Eco29kI site 5'-CCGCGG-3' and to catalyze the cleavage reaction. Experimental 
+      data reveal that residues Y49, R104, E142, H108, and N154 are important for the 
+      nuclease activity of R.Eco29kI, while H108 and N154 are also important for 
+      specific DNA binding by this enzyme. CONCLUSION: Substitutions of residues Y49, 
+      R104, H108, E142 and N154 predicted by the model to be a part of the active site 
+      lead to mutant proteins with strong defects in the REase activity. These results 
+      are in very good agreement with the structural model presented in this work and 
+      with our prediction that R.Eco29kI belongs to the GIY-YIG superfamily of 
+      nucleases. Our study provides the first experimental evidence for a Type IIP 
+      REase that does not belong to the PD-(D/E)XK or HNH superfamilies of nucleases, 
+      and is instead a member of the unrelated GIY-YIG superfamily.
+FAU - Ibryashkina, Elena M
+AU  - Ibryashkina EM
+AD  - Institute of Biochemistry and Physiology of Microorganisms, Russian Academy of 
+      Sciences, Pushchino, Russia. ibryashkinae@mail.ru <ibryashkinae@mail.ru>
+FAU - Zakharova, Marina V
+AU  - Zakharova MV
+FAU - Baskunov, Vladimir B
+AU  - Baskunov VB
+FAU - Bogdanova, Ekaterina S
+AU  - Bogdanova ES
+FAU - Nagornykh, Maxim O
+AU  - Nagornykh MO
+FAU - Den'mukhamedov, Marat M
+AU  - Den'mukhamedov MM
+FAU - Melnik, Bogdan S
+AU  - Melnik BS
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+FAU - Gront, Dominik
+AU  - Gront D
+FAU - Feder, Marcin
+AU  - Feder M
+FAU - Solonin, Alexander S
+AU  - Solonin AS
+FAU - Bujnicki, Janusz M
+AU  - Bujnicki JM
+LA  - eng
+GR  - R03 TW007163/TW/FIC NIH HHS/United States
+GR  - R03 TW007163-01/TW/FIC NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070712
+PL  - England
+TA  - BMC Struct Biol
+JT  - BMC structural biology
+JID - 101088689
+RN  - 9007-49-2 (DNA)
+RN  - EC 3.1.21.4 (Deoxyribonucleases, Type II Site-Specific)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Binding Sites
+MH  - Computational Biology/methods
+MH  - DNA/metabolism
+MH  - DNA Cleavage
+MH  - Deoxyribonucleases, Type II Site-Specific/*chemistry/*metabolism
+MH  - Electrophoretic Mobility Shift Assay
+MH  - Models, Molecular
+MH  - Molecular Sequence Data
+MH  - Mutation
+MH  - Protein Conformation
+MH  - Sequence Alignment
+MH  - Structural Homology, Protein
+PMC - PMC1952068
+EDAT- 2007/07/14 09:00
+MHDA- 2007/09/20 09:00
+PMCR- 2007/07/12
+CRDT- 2007/07/14 09:00
+PHST- 2007/02/12 00:00 [received]
+PHST- 2007/07/12 00:00 [accepted]
+PHST- 2007/07/14 09:00 [pubmed]
+PHST- 2007/09/20 09:00 [medline]
+PHST- 2007/07/14 09:00 [entrez]
+PHST- 2007/07/12 00:00 [pmc-release]
+AID - 1472-6807-7-48 [pii]
+AID - 10.1186/1472-6807-7-48 [doi]
+PST - epublish
+SO  - BMC Struct Biol. 2007 Jul 12;7:48. doi: 10.1186/1472-6807-7-48.

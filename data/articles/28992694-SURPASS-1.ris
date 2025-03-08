@@ -1,0 +1,65 @@
+PMID- 28992694
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181127
+LR  - 20181127
+IS  - 1549-9626 (Electronic)
+IS  - 1549-9618 (Linking)
+VI  - 13
+IP  - 11
+DP  - 2017 Nov 14
+TI  - SURPASS Low-Resolution Coarse-Grained Protein Modeling.
+PG  - 5766-5779
+LID - 10.1021/acs.jctc.7b00642 [doi]
+AB  - Coarse-grained modeling of biomolecules has a very important role in molecular 
+      biology. In this work we present a novel SURPASS (Single United Residue per 
+      Pre-Averaged Secondary Structure fragment) model of proteins that can be an 
+      interesting alternative for existing coarse-grained models. The design of the 
+      model is unique and strongly supported by the statistical analysis of structural 
+      regularities characteristic for protein systems. Coarse-graining of protein chain 
+      structures assumes a single center of interactions per residue and accounts for 
+      preaveraged effects of four adjacent residue fragments. Knowledge-based 
+      statistical potentials encode complex interaction patterns of these fragments. 
+      Using the Replica Exchange Monte Carlo sampling scheme and a generic version of 
+      the SURPASS force field we performed test simulations of a representative set of 
+      single-domain globular proteins. The method samples a significant part of 
+      conformational space and reproduces protein structures, including native-like, 
+      with surprisingly good accuracy. Future extension of the SURPASS model on large 
+      biomacromolecular systems is briefly discussed.
+FAU - Dawid, Aleksandra E
+AU  - Dawid AE
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+AUID- ORCID: 0000-0002-8830-2315
+AD  - Faculty of Chemistry, Biological and Chemical Research Center, University of 
+      Warsaw , Pasteura 1, 02-093 Warsaw, Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20171023
+PL  - United States
+TA  - J Chem Theory Comput
+JT  - Journal of chemical theory and computation
+JID - 101232704
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Models, Biological
+MH  - *Molecular Dynamics Simulation
+MH  - Monte Carlo Method
+MH  - Protein Structure, Secondary
+MH  - Proteins/*chemistry
+EDAT- 2017/10/11 06:00
+MHDA- 2018/11/28 06:00
+CRDT- 2017/10/11 06:00
+PHST- 2017/10/11 06:00 [pubmed]
+PHST- 2018/11/28 06:00 [medline]
+PHST- 2017/10/11 06:00 [entrez]
+AID - 10.1021/acs.jctc.7b00642 [doi]
+PST - ppublish
+SO  - J Chem Theory Comput. 2017 Nov 14;13(11):5766-5779. doi: 
+      10.1021/acs.jctc.7b00642. Epub 2017 Oct 23.

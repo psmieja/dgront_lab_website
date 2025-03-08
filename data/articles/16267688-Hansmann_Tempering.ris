@@ -1,0 +1,60 @@
+PMID- 16267688
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060530
+LR  - 20181113
+IS  - 0920-654X (Print)
+IS  - 0920-654X (Linking)
+VI  - 19
+IP  - 8
+DP  - 2005 Aug
+TI  - Protein structure prediction by tempering spatial constraints.
+PG  - 603-8
+AB  - The probability to predict correctly a protein structure can be enhanced through 
+      introduction of spatial constraints - either from NMR experiments or from 
+      homologous structures. However, the additional constraints lead often to new 
+      local energy minima and worse sampling efficiency in simulations. In this work, 
+      we present a new parallel tempering variant that alleviates the energy barriers 
+      resulting from spatial constraints and therefore yields to an enhanced sampling 
+      in structure prediction simulations.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Department of Physics, Michigan Technological University, Houghton, MI 
+      49931-1295, USA.
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+FAU - Hansmann, Ulrich H E
+AU  - Hansmann UH
+LA  - eng
+GR  - R01 GM062838/GM/NIGMS NIH HHS/United States
+GR  - GM062838/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20051103
+PL  - Netherlands
+TA  - J Comput Aided Mol Des
+JT  - Journal of computer-aided molecular design
+JID - 8710425
+SB  - IM
+MH  - Algorithms
+MH  - *Computer Simulation
+MH  - Monte Carlo Method
+MH  - *Protein Conformation
+MH  - Temperature
+PMC - PMC1473033
+MID - NIHMS7291
+EDAT- 2005/11/04 09:00
+MHDA- 2006/05/31 09:00
+PMCR- 2008/01/27
+CRDT- 2005/11/04 09:00
+PHST- 2005/04/29 00:00 [received]
+PHST- 2005/08/14 00:00 [accepted]
+PHST- 2005/11/04 09:00 [pubmed]
+PHST- 2006/05/31 09:00 [medline]
+PHST- 2005/11/04 09:00 [entrez]
+PHST- 2008/01/27 00:00 [pmc-release]
+AID - 10.1007/s10822-005-9016-0 [doi]
+PST - ppublish
+SO  - J Comput Aided Mol Des. 2005 Aug;19(8):603-8. doi: 10.1007/s10822-005-9016-0. 
+      Epub 2005 Nov 3.

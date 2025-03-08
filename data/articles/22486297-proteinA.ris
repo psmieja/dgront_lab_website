@@ -1,0 +1,65 @@
+PMID- 22486297
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121105
+LR  - 20120615
+IS  - 1520-5207 (Electronic)
+IS  - 1520-5207 (Linking)
+VI  - 116
+IP  - 23
+DP  - 2012 Jun 14
+TI  - From coarse-grained to atomic-level characterization of protein dynamics: 
+      transition state for the folding of B domain of protein A.
+PG  - 7026-32
+LID - 10.1021/jp301720w [doi]
+AB  - Atomic-level molecular dynamics simulations are widely used for the 
+      characterization of the structural dynamics of proteins; however, they are 
+      limited to shorter time scales than the duration of most of the relevant 
+      biological processes. Properly designed coarse-grained models that trade atomic 
+      resolution for efficient sampling allow access to much longer time-scales. 
+      In-depth understanding of the structural dynamics, however, must involve atomic 
+      details. In this study, we tested a method for the rapid reconstruction of 
+      all-atom models from α carbon atom positions in the application to convert a 
+      coarse-grained folding trajectory of a well described model system: the B domain 
+      of protein A. The results show that the method and the spatial resolution of the 
+      resulting coarse-grained models enable computationally inexpensive reconstruction 
+      of realistic all-atom models. Additionally, by means of structural clustering, we 
+      determined the most persistent ensembles of the key folding step, the transition 
+      state. Importantly, the analysis of the overall structural topologies suggests a 
+      dominant folding pathway. This, together with the all-atom characterization of 
+      the obtained ensembles, in the form of contact maps, matches the experimental 
+      results well.
+FAU - Kmiecik, Sebastian
+AU  - Kmiecik S
+AD  - Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland. 
+      sekmi@chem.uw.edu.pl
+FAU - Gront, Dominik
+AU  - Gront D
+FAU - Kouza, Maksim
+AU  - Kouza M
+FAU - Kolinski, Andrzej
+AU  - Kolinski A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120419
+PL  - United States
+TA  - J Phys Chem B
+JT  - The journal of physical chemistry. B
+JID - 101157530
+RN  - 0 (Staphylococcal Protein A)
+SB  - IM
+MH  - Models, Molecular
+MH  - *Molecular Dynamics Simulation
+MH  - *Protein Folding
+MH  - Staphylococcal Protein A/*chemistry
+EDAT- 2012/04/11 06:00
+MHDA- 2012/11/06 06:00
+CRDT- 2012/04/11 06:00
+PHST- 2012/04/11 06:00 [entrez]
+PHST- 2012/04/11 06:00 [pubmed]
+PHST- 2012/11/06 06:00 [medline]
+AID - 10.1021/jp301720w [doi]
+PST - ppublish
+SO  - J Phys Chem B. 2012 Jun 14;116(23):7026-32. doi: 10.1021/jp301720w. Epub 2012 Apr 
+      19.

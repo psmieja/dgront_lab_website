@@ -1,0 +1,256 @@
+PMID- 32365137
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200727
+LR  - 20240907
+IS  - 1553-7358 (Electronic)
+IS  - 1553-734X (Print)
+IS  - 1553-734X (Linking)
+VI  - 16
+IP  - 5
+DP  - 2020 May
+TI  - Better together: Elements of successful scientific software development in a 
+      distributed collaborative community.
+PG  - e1007507
+LID - 10.1371/journal.pcbi.1007507 [doi]
+LID - e1007507
+AB  - Many scientific disciplines rely on computational methods for data analysis, 
+      model generation, and prediction. Implementing these methods is often 
+      accomplished by researchers with domain expertise but without formal training in 
+      software engineering or computer science. This arrangement has led to 
+      underappreciation of sustainability and maintainability of scientific software 
+      tools developed in academic environments. Some software tools have avoided this 
+      fate, including the scientific library Rosetta. We use this software and its 
+      community as a case study to show how modern software development can be 
+      accomplished successfully, irrespective of subject area. Rosetta is one of the 
+      largest software suites for macromolecular modeling, with 3.1 million lines of 
+      code and many state-of-the-art applications. Since the mid 1990s, the software 
+      has been developed collaboratively by the RosettaCommons, a community of 
+      academics from over 60 institutions worldwide with diverse backgrounds including 
+      chemistry, biology, physiology, physics, engineering, mathematics, and computer 
+      science. Developing this software suite has provided us with more than two 
+      decades of experience in how to effectively develop advanced scientific software 
+      in a global community with hundreds of contributors. Here we illustrate the 
+      functioning of this development community by addressing technical aspects (like 
+      version control, testing, and maintenance), community-building strategies, 
+      diversity efforts, software dissemination, and user support. We demonstrate how 
+      modern computational research can thrive in a distributed collaborative 
+      community. The practices described here are independent of subject area and can 
+      be readily adopted by other software development communities.
+FAU - Koehler Leman, Julia
+AU  - Koehler Leman J
+AUID- ORCID: 0000-0002-5693-3593
+AD  - Center for Computational Biology, Flatiron Institute, Simons Foundation, New 
+      York, NY, United States of America.
+AD  - Dept of Biology, New York University, New York, NY, United States of America.
+FAU - Weitzner, Brian D
+AU  - Weitzner BD
+AUID- ORCID: 0000-0002-1909-0961
+AD  - Dept of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, United States of America.
+AD  - Dept of Biochemistry, University of Washington, Seattle, WA, United States of 
+      America.
+AD  - Institute for Protein Design, University of Washington, Seattle, WA, United 
+      States of America.
+AD  - Lyell Immunopharma, Seattle, WA, United States of America.
+FAU - Renfrew, P Douglas
+AU  - Renfrew PD
+AD  - Center for Computational Biology, Flatiron Institute, Simons Foundation, New 
+      York, NY, United States of America.
+FAU - Lewis, Steven M
+AU  - Lewis SM
+AD  - Dept of Biochemistry and Biophysics, University of North Carolina at Chapel Hill, 
+      Chapel Hill, NC, United States of America.
+AD  - Dept of Biochemistry, Duke University, Durham, NC, United States of America.
+AD  - Cyrus Biotechnology, Seattle, WA United States of America.
+FAU - Moretti, Rocco
+AU  - Moretti R
+AD  - Dept of Chemistry, Vanderbilt University, Nashville, TN, United States of 
+      America.
+FAU - Watkins, Andrew M
+AU  - Watkins AM
+AD  - Dept of Biochemistry, Stanford University School of Medicine, Stanford CA, United 
+      States of America.
+FAU - Mulligan, Vikram Khipple
+AU  - Mulligan VK
+AD  - Center for Computational Biology, Flatiron Institute, Simons Foundation, New 
+      York, NY, United States of America.
+AD  - Dept of Biochemistry, University of Washington, Seattle, WA, United States of 
+      America.
+AD  - Institute for Protein Design, University of Washington, Seattle, WA, United 
+      States of America.
+FAU - Lyskov, Sergey
+AU  - Lyskov S
+AD  - Dept of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, United States of America.
+FAU - Adolf-Bryfogle, Jared
+AU  - Adolf-Bryfogle J
+AD  - Dept of Immunology and Microbiology, The Scripps Research Institute, La Jolla, 
+      CA, United States of America.
+FAU - Labonte, Jason W
+AU  - Labonte JW
+AD  - Dept of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, United States of America.
+AD  - Dept of Chemistry, Franklin & Marshall College, Lancaster, PA, United States of 
+      America.
+FAU - Krys, Justyna
+AU  - Krys J
+AD  - Dept of Chemistry, University of Warsaw, Warsaw, Poland.
+CN  - RosettaCommons Consortium
+FAU - Bystroff, Christopher
+AU  - Bystroff C
+AD  - Dept of Biological Sciences, Rensselaer Polytechnic Institute, Troy, NY, United 
+      States of America.
+FAU - Schief, William
+AU  - Schief W
+AD  - Dept of Immunology and Microbiology, The Scripps Research Institute, La Jolla, 
+      CA, United States of America.
+FAU - Gront, Dominik
+AU  - Gront D
+AD  - Dept of Chemistry, University of Warsaw, Warsaw, Poland.
+FAU - Schueler-Furman, Ora
+AU  - Schueler-Furman O
+AD  - Dept of Microbiology and Molecular Genetics, IMRIC, Ein Kerem Faculty of 
+      Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.
+FAU - Baker, David
+AU  - Baker D
+AD  - Dept of Biochemistry, University of Washington, Seattle, WA, United States of 
+      America.
+AD  - Institute for Protein Design, University of Washington, Seattle, WA, United 
+      States of America.
+FAU - Bradley, Philip
+AU  - Bradley P
+AD  - Fred Hutchinson Cancer Research Center, Seattle, WA, United States of America.
+FAU - Dunbrack, Roland
+AU  - Dunbrack R
+AD  - Institute for Cancer Research, Fox Chase Cancer Center, Philadelphia PA, United 
+      States of America.
+FAU - Kortemme, Tanja
+AU  - Kortemme T
+AD  - Dept of Bioengineering and Therapeutic Sciences, University of California San 
+      Francisco, CA, United States of America.
+FAU - Leaver-Fay, Andrew
+AU  - Leaver-Fay A
+AD  - Dept of Biochemistry and Biophysics, University of North Carolina at Chapel Hill, 
+      Chapel Hill, NC, United States of America.
+FAU - Strauss, Charlie E M
+AU  - Strauss CEM
+AD  - Bioscience Division, Los Alamos National Laboratory, Los Alamos, NM, United 
+      States of America.
+FAU - Meiler, Jens
+AU  - Meiler J
+AD  - Depts of Chemistry, Pharmacology and Biomedical Informatics, Vanderbilt 
+      University, Nashville, TN, United States of America.
+AD  - Center for Structural Biology, Vanderbilt University, Nashville, TN, United 
+      States of America.
+AD  - Institute for Chemical Biology, Vanderbilt University, Nashville, TN, United 
+      States of America.
+AD  - Institute for Drug Discovery, Leipzig University, Leipzig, Germany.
+FAU - Kuhlman, Brian
+AU  - Kuhlman B
+AD  - Dept of Biochemistry and Biophysics, University of North Carolina at Chapel Hill, 
+      Chapel Hill, NC, United States of America.
+FAU - Gray, Jeffrey J
+AU  - Gray JJ
+AUID- ORCID: 0000-0001-6380-2324
+AD  - Dept of Chemical and Biomolecular Engineering, Johns Hopkins University, 
+      Baltimore, MD, United States of America.
+FAU - Bonneau, Richard
+AU  - Bonneau R
+AD  - Center for Computational Biology, Flatiron Institute, Simons Foundation, New 
+      York, NY, United States of America.
+AD  - Dept of Biology, New York University, New York, NY, United States of America.
+AD  - Dept of Computer Science, New York University, New York, NY, United States of 
+      America.
+AD  - Center for Data Science, New York University, New York, NY, United States of 
+      America.
+LA  - eng
+GR  - R01 GM099842/GM/NIGMS NIH HHS/United States
+GR  - R01 GM099827/GM/NIGMS NIH HHS/United States
+GR  - R01 DK097376/DK/NIDDK NIH HHS/United States
+GR  - HHMI/Howard Hughes Medical Institute/United States
+GR  - RL1 CA133832/CA/NCI NIH HHS/United States
+GR  - R35 GM122579/GM/NIGMS NIH HHS/United States
+GR  - R01 GM117968/GM/NIGMS NIH HHS/United States
+GR  - F32 CA189246/CA/NCI NIH HHS/United States
+GR  - R01 GM084453/GM/NIGMS NIH HHS/United States
+GR  - R35 GM122517/GM/NIGMS NIH HHS/United States
+GR  - R21 CA219847/CA/NCI NIH HHS/United States
+GR  - R01 GM080403/GM/NIGMS NIH HHS/United States
+GR  - R01 GM092802/GM/NIGMS NIH HHS/United States
+GR  - R01 GM073151/GM/NIGMS NIH HHS/United States
+GR  - R01 AI113867/AI/NIAID NIH HHS/United States
+GR  - R35 GM131923/GM/NIGMS NIH HHS/United States
+GR  - R01 GM127578/GM/NIGMS NIH HHS/United States
+GR  - R21 AI121799/AI/NIAID NIH HHS/United States
+GR  - T32 GM008403/GM/NIGMS NIH HHS/United States
+GR  - R01 GM117189/GM/NIGMS NIH HHS/United States
+GR  - R01 GM088277/GM/NIGMS NIH HHS/United States
+GR  - RL1 GM084433/GM/NIGMS NIH HHS/United States
+GR  - R01 GM078221/GM/NIGMS NIH HHS/United States
+GR  - T32 AI007244/AI/NIAID NIH HHS/United States
+GR  - R01 GM098101/GM/NIGMS NIH HHS/United States
+GR  - R01 GM110089/GM/NIGMS NIH HHS/United States
+GR  - R01 HL122010/HL/NHLBI NIH HHS/United States
+GR  - R01 GM121487/GM/NIGMS NIH HHS/United States
+GR  - U19 AI117905/AI/NIAID NIH HHS/United States
+GR  - UM1 AI100663/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+DEP - 20200504
+PL  - United States
+TA  - PLoS Comput Biol
+JT  - PLoS computational biology
+JID - 101238922
+SB  - IM
+MH  - Computational Biology/*methods
+MH  - Cooperative Behavior
+MH  - Data Analysis
+MH  - Engineering
+MH  - Gene Library
+MH  - Humans
+MH  - Models, Molecular
+MH  - Research/*trends
+MH  - Research Personnel
+MH  - Social Behavior
+MH  - Software/*trends
+MH  - User-Computer Interface
+PMC - PMC7197760
+COIS- The Rosetta software has been licensed to numerous non-profit and for-profit 
+      organizations. Rosetta Licensing is managed by UW CoMotion, and royalty proceeds 
+      are managed by the RosettaCommons. Under institutional participation agreements 
+      between the University of Washington, acting on behalf of the RosettaCommons, 
+      their respective institutions may be entitled to a portion of revenue received on 
+      licensing Rosetta software including programs described here. Baker, Malmström, 
+      Yarov-Yarovoy, Gront, Meiler, Whitehead, Schueler-Furman, King, Gray, Sgourakis, 
+      Lindert, Strauss, Karanicolas, Bonneau, Sammond, Kortemme, and Bradley are unpaid 
+      board members of the RosettaCommons. As members of the Scientific Advisory Board 
+      of Cyrus Biotechnology, Baker and Gray are granted stock options. Yifan Song, 
+      Indigo C. King, Steven M. Lewis, Brandon Frenz, Karen Khar and Ryan Pavlovicz are 
+      currently employed at Cyrus Biotechnology with granted stock options. Cyrus 
+      Biotechnology distributes the Rosetta software. Brian D. Weitzner and Scott E. 
+      Boyken hold equity in Lyell Immunopharma. Vikram K. Mulligan is a co-founder of 
+      and shareholder in Menten Biotechnology Labs, Inc. The content of this manuscript 
+      is relevant to work performed at Lyell and Menten. Neil P. King is a co-founder 
+      and shareholder of Icosavax, Inc., a biotech company developing nanoparticle 
+      vaccines. Justin B. Siegel is a co-founder and shareholder of Digestiva, Inc. and 
+      PvP Biologics Inc. David Baker is a co-founder, shareholder, or advisor to the 
+      following companies: ARZEDA, PvP Biologics, Cyrus Biotechnology, Cue Biopharma, 
+      Icosavax, Neoleukin Therapeutics, Lyell Immunotherapeutics, Sana Biotechnology, 
+      and A-Alpha Bio.
+EDAT- 2020/05/05 06:00
+MHDA- 2020/07/28 06:00
+PMCR- 2020/05/04
+CRDT- 2020/05/05 06:00
+PHST- 2020/05/05 06:00 [entrez]
+PHST- 2020/05/05 06:00 [pubmed]
+PHST- 2020/07/28 06:00 [medline]
+PHST- 2020/05/04 00:00 [pmc-release]
+AID - PCOMPBIOL-D-19-01408 [pii]
+AID - 10.1371/journal.pcbi.1007507 [doi]
+PST - epublish
+SO  - PLoS Comput Biol. 2020 May 4;16(5):e1007507. doi: 10.1371/journal.pcbi.1007507. 
+      eCollection 2020 May.

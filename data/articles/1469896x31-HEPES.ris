@@ -1,0 +1,29 @@
+
+TY  - JOUR
+T1  - Analysis of protein structures containing HEPES and MES molecules
+AU  - Macnar, Joanna Magdalena
+AU  - Brzezinski, Dariusz
+AU  - Chruszcz, Maksymilian
+AU  - Gront, Dominik
+Y1  - 2022/09/01
+PY  - 2022
+DA  - 2022/09/01
+DO  - https://doi.org/10.1002/pro.4415
+T2  - Protein Science
+JF  - Protein Science
+JO  - Protein Science
+JA  - Protein Science
+SP  - e4415
+VL  - 31
+IS  - 9
+KW  - buffer molecules
+KW  - HEPES
+KW  - ligand validation
+KW  - MES
+KW  - multiple conformations
+PB  - John Wiley & Sons, Ltd
+SN  - 0961-8368
+UR  - https://doi.org/10.1002/pro.4415
+Y2  - 2025/03/08
+N2  - Abstract X-ray crystallography is the main experimental method behind ligand?macromolecule complexes found in the Protein Data Bank (PDB). Applying bioinformatics methods to such structural data can fuel drug discovery, albeit under the condition that the information is correct. Regrettably, a small number of structures in the PDB are of suboptimal quality due to incorrectly identified and modeled ligands in protein?ligand complexes. In this paper, we combine a theoretical-graph approach, nuclear density estimates, bioinformatics methods, and prior chemical knowledge to analyze two non-physiological ligands, HEPES and MES, that are frequent components of crystallization and purifications buffers. Our analysis includes quantum mechanics calculations and Cambridge Structure Database (CSD) queries to define the ideal conformation of these ligands, geometry analysis of PDB deposits regarding several quality factors, and a search for homologous structures to identify other small molecules that could bind in place of the parasitic ligand. Our results highlight the need for careful refinement of macromolecule?ligand complexes and better validation tools that integrate results from all relevant resources.
+ER  - 

@@ -1,0 +1,127 @@
+PMID- 34360577
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210816
+LR  - 20240403
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 15
+DP  - 2021 Jul 22
+TI  - In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes 
+      Cytochrome P450 Monooxygenases CYP51s with Substrates and Azoles.
+LID - 10.3390/ijms22157811 [doi]
+LID - 7811
+AB  - Cytochrome P450 monooxygenase CYP51 (sterol 14α-demethylase) is a well-known 
+      target of the azole drug fluconazole for treating cryptococcosis, a 
+      life-threatening fungal infection in immune-compromised patients in poor 
+      countries. Studies indicate that mutations in CYP51 confer fluconazole resistance 
+      on cryptococcal species. Despite the importance of CYP51 in these species, few 
+      studies on the structural analysis of CYP51 and its interactions with different 
+      azole drugs have been reported. We therefore performed in silico structural 
+      analysis of 11 CYP51s from cryptococcal species and other Tremellomycetes. 
+      Interactions of 11 CYP51s with nine ligands (three substrates and six azoles) 
+      performed by Rosetta docking using 10,000 combinations for each of the 
+      CYP51-ligand complex (11 CYP51s × 9 ligands = 99 complexes) and hierarchical 
+      agglomerative clustering were used for selecting the complexes. A web application 
+      for visualization of CYP51s' interactions with ligands was developed 
+      (http://bioshell.pl/azoledocking/). The study results indicated that 
+      Tremellomycetes CYP51s have a high preference for itraconazole, corroborating the 
+      in vitro effectiveness of itraconazole compared to fluconazole. Amino acids 
+      interacting with different ligands were found to be conserved across CYP51s, 
+      indicating that the procedure employed in this study is accurate and can be 
+      automated for studying P450-ligand interactions to cater for the growing number 
+      of P450s.
+FAU - Akapo, Olufunmilayo Olukemi
+AU  - Akapo OO
+AUID- ORCID: 0000-0003-1267-1576
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Macnar, Joanna M
+AU  - Macnar JM
+AUID- ORCID: 0000-0003-1760-2668
+AD  - College of Inter-Faculty Individual Studies in Mathematics and Natural Sciences, 
+      University of Warsaw, Stefana Banacha 2C, 02-097 Warsaw, Poland.
+AD  - Biological and Chemical Research Center, Faculty of Chemistry, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Kryś, Justyna D
+AU  - Kryś JD
+AUID- ORCID: 0000-0002-5318-8831
+AD  - Biological and Chemical Research Center, Faculty of Chemistry, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+FAU - Syed, Puleng Rosinah
+AU  - Syed PR
+AD  - Department of Pharmaceutical Chemistry, College of Health Sciences, University of 
+      KwaZulu-Natal, Durban 4000, South Africa.
+FAU - Syed, Khajamohiddin
+AU  - Syed K
+AUID- ORCID: 0000-0002-1497-3570
+AD  - Department of Biochemistry and Microbiology, Faculty of Science and Agriculture, 
+      University of Zululand, KwaDlangezwa 3886, South Africa.
+FAU - Gront, Dominik
+AU  - Gront D
+AUID- ORCID: 0000-0002-2260-2083
+AD  - Biological and Chemical Research Center, Faculty of Chemistry, University of 
+      Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+LA  - eng
+GR  - 114159/National Research Foundation,South Africa/
+GR  - 2018/29/B/ST6/01989/Polish National Science Centre (NCN)/
+PT  - Journal Article
+DEP - 20210722
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Amino Acids)
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Azoles)
+RN  - 0 (Fungal Proteins)
+RN  - 0 (Ligands)
+RN  - 304NUG5GF4 (Itraconazole)
+RN  - 8VZV102JFY (Fluconazole)
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - Amino Acids/chemistry/*metabolism
+MH  - Antifungal Agents/chemistry/metabolism
+MH  - Azoles/chemistry/*metabolism
+MH  - Basidiomycota/*enzymology
+MH  - Computer Simulation
+MH  - Cytochrome P-450 Enzyme System/chemistry/*metabolism
+MH  - Fluconazole/chemistry/*metabolism
+MH  - Fungal Proteins/chemistry/*metabolism
+MH  - Itraconazole/chemistry/*metabolism
+MH  - Ligands
+MH  - Models, Molecular
+MH  - Phylogeny
+MH  - Protein Binding
+MH  - Protein Conformation
+MH  - Substrate Specificity
+PMC - PMC8346148
+OTO - NOTNLM
+OT  - CYP51
+OT  - Cryptococcus neoformans
+OT  - Tremellomycetes
+OT  - cytochrome P450 monooxygenases
+OT  - docking
+OT  - drug-resistance
+OT  - sterol 14α-demethylase
+OT  - web-application
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2021/08/08 06:00
+MHDA- 2021/08/17 06:00
+PMCR- 2021/07/22
+CRDT- 2021/08/07 01:06
+PHST- 2021/02/25 00:00 [received]
+PHST- 2021/05/21 00:00 [revised]
+PHST- 2021/05/25 00:00 [accepted]
+PHST- 2021/08/07 01:06 [entrez]
+PHST- 2021/08/08 06:00 [pubmed]
+PHST- 2021/08/17 06:00 [medline]
+PHST- 2021/07/22 00:00 [pmc-release]
+AID - ijms22157811 [pii]
+AID - ijms-22-07811 [pii]
+AID - 10.3390/ijms22157811 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 Jul 22;22(15):7811. doi: 10.3390/ijms22157811.
