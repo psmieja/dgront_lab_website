@@ -1,13 +1,16 @@
 from flask import Flask, render_template, url_for, send_from_directory 
-import json
+import json, sys
+
 
 app = Flask(__name__)
+
 
 def format_author_name(author_name_dict):
     formatted_name = f"{author_name_dict['surname']}, "
     for name in author_name_dict["firstname"].split():
         formatted_name += f"{name[0]}."
     return formatted_name
+
 
 def author_list_to_string(author_list):
     if len(author_list) > 3:
@@ -17,12 +20,15 @@ def author_list_to_string(author_list):
         formatted_author_list += f"{format_author_name(author)};"
     return formatted_author_list[:-1]
 
+
 def prepare_articles(articles_file, only_featured=False):
         articles = json.load(articles_file)
         if only_featured:
-            articles = [article for article in articles if article["featured"]]
+            articles = [article for article in articles if article.get("featured", False)]
         for article in articles: 
             article["authors"] = author_list_to_string(article["authors"])
+            print(article.keys(), file=sys.stderr)
+        articles.sort(key=lambda a: int(a.get("year","0")), reverse=True)
         return articles
 
 
