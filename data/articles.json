@@ -30,7 +30,7 @@
         "volume":"14",
         "number":"5",
         "year":"2013",
-        "title":"Combining coarse-grained protein models with replica-exchange all-atom molecular",
+        "title":"Combining coarse-grained protein models with replica-exchange all-atom molecular dynamics.",
         "pages":"9893-905",
         "jrnl":"Int J Mol Sci",
         "journal":"International journal of molecular sciences",
@@ -108,7 +108,7 @@
         "volume":"14",
         "number":"4",
         "year":"2018",
-        "title":"Coarse-Grained Modeling of the Interplay between Secondary Structure Propensities",
+        "title":"Coarse-Grained Modeling of the Interplay between Secondary Structure Propensities and Protein Fold Assembly.",
         "pages":"2277-2287",
         "jrnl":"J Chem Theory Comput",
         "journal":"Journal of chemical theory and computation",
@@ -134,7 +134,7 @@
         "volume":"22",
         "number":"15",
         "year":"2021",
-        "title":"In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes",
+        "title":"In Silico Structural Modeling and Analysis of Interactions of Tremellomycetes Cytochrome P450 Monooxygenases CYP51s with Substrates and Azoles.",
         "jrnl":"Int J Mol Sci",
         "journal":"International journal of molecular sciences",
         "authors":[
@@ -215,7 +215,7 @@
         "volume":"13",
         "number":"4",
         "year":"2012",
-        "title":"Assessing the accuracy of template-based structure prediction metaservers by",
+        "title":"Assessing the accuracy of template-based structure prediction metaservers by comparison with structural genomics structures.",
         "pages":"213-25",
         "jrnl":"J Struct Funct Genomics",
         "journal":"Journal of structural and functional genomics",
@@ -253,7 +253,7 @@
         "volume":"18",
         "number":"11",
         "year":"2009",
-        "title":"The crystal structure of the AF2331 protein from Archaeoglobus fulgidus DSM 4304",
+        "title":"The crystal structure of the AF2331 protein from Archaeoglobus fulgidus DSM 4304 forms an unusual interdigitated dimer with a new type of alpha + beta fold.",
         "pages":"2410-9",
         "jrnl":"Protein Sci",
         "journal":"Protein science : a publication of the Protein Society",
@@ -316,7 +316,7 @@
         "volume":"34",
         "number":"3",
         "year":"2025",
-        "title":"Exploring P450 superfamily diversity with P450Atlas - Online tool for automated",
+        "title":"Exploring P450 superfamily diversity with P450Atlas - Online tool for automated subfamily assignment.",
         "pages":"e70057",
         "jrnl":"Protein Sci",
         "journal":"Protein science : a publication of the Protein Society",
@@ -344,10 +344,12 @@
     },
     {
         "pmid":"39595623",
+        "featured":"True",
         "volume":"14",
         "number":"11",
         "year":"2024",
         "title":"deepBBQ: A Deep Learning Approach to the Protein Backbone Reconstruction.",
+        "pages":"1448",
         "jrnl":"Biomolecules",
         "journal":"Biomolecules",
         "authors":[
@@ -382,7 +384,7 @@
         "pmid":"17626614",
         "volume":"7",
         "year":"2007",
-        "title":"Type II restriction endonuclease R.Eco29kI is a member of the GIY-YIG nuclease",
+        "title":"Type II restriction endonuclease R.Eco29kI is a member of the GIY-YIG nuclease superfamily.",
         "pages":"48",
         "jrnl":"BMC Struct Biol",
         "journal":"BMC structural biology",
@@ -462,6 +464,7 @@
                 "surname":"Gront"
             }
         ],
+        "pages":"e4415",
         "status":"published"
     },
     {
@@ -914,7 +917,7 @@
         "pmid":"17603876",
         "volume":"7",
         "year":"2007",
-        "title":"Towards the high-resolution protein structure prediction. Fast refinement of",
+        "title":"Towards the high-resolution protein structure prediction. Fast refinement of reduced models with all-atom force field.",
         "pages":"43",
         "jrnl":"BMC Struct Biol",
         "journal":"BMC structural biology",
@@ -940,7 +943,7 @@
         "volume":"16",
         "number":"5",
         "year":"2020",
-        "title":"Better together: Elements of successful scientific software development in a",
+        "title":"Better together: Elements of successful scientific software development in a distributed collaborative community.",
         "pages":"e1007507",
         "jrnl":"PLoS Comput Biol",
         "journal":"PLoS computational biology",
@@ -1081,6 +1084,7 @@
         "number":"3",
         "year":"2020",
         "title":"BioShell 3.0: Library for Processing Structural Biology Data.",
+        "pages":"461",
         "jrnl":"Biomolecules",
         "journal":"Biomolecules",
         "authors":[
@@ -1119,7 +1123,7 @@
         "volume":"12",
         "number":"1",
         "year":"2021",
-        "title":"Ensuring scientific reproducibility in bio-macromolecular modeling via extensive,",
+        "title":"Ensuring scientific reproducibility in bio-macromolecular modeling via extensive, automated benchmarks.",
         "pages":"6947",
         "jrnl":"Nat Commun",
         "journal":"Nature communications",
@@ -1355,11 +1359,27 @@
         "status":"published"
     },
     {
+        "title":"Efficient scheme for optimization of parallel tempering Monte Carlo method",
+        "year":"2007",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Kolinski"
+            }
+        ],
+        "pages":"036225",
+        "status":"published"
+    },
+    {
         "pmid":"22693216",
         "volume":"40",
         "number":"Web Server issue",
         "year":"2012",
-        "title":"BioShell Threader: protein homology detection based on sequence profiles and",
+        "title":"BioShell Threader: protein homology detection based on sequence profiles and secondary structure profiles.",
         "pages":"W257-62",
         "jrnl":"Nucleic Acids Res",
         "journal":"Nucleic acids research",
@@ -1389,7 +1409,7 @@
         "volume":"26",
         "number":"6",
         "year":"2021",
-        "title":"In Silico Analysis of P450s and Their Role in Secondary Metabolism in the",
+        "title":"In Silico Analysis of P450s and Their Role in Secondary Metabolism in the Bacterial Class Gammaproteobacteria.",
         "jrnl":"Molecules",
         "journal":"Molecules (Basel, Switzerland)",
         "authors":[
@@ -1450,7 +1470,7 @@
         "volume":"22",
         "number":"11",
         "year":"2021",
-        "title":"Ancient Bacterial Class Alphaproteobacteria Cytochrome P450 Monooxygenases Can Be",
+        "title":"Ancient Bacterial Class Alphaproteobacteria Cytochrome P450 Monooxygenases Can Be Found in Other Bacterial Species.",
         "jrnl":"Int J Mol Sci",
         "journal":"International journal of molecular sciences",
         "authors":[
@@ -1527,11 +1547,57 @@
         "status":"published"
     },
     {
+        "title":"Biofunctionalisation of p-doped silicon with cytochrome c553 minimises charge recombination and enhances photovoltaic performance of the all-solid-state photosystem I-based biophotoelectrode",
+        "year":"2017",
+        "journal":"RSC Advances",
+        "jrnl":"RSC Adv.",
+        "authors":[
+            {
+                "firstname":"Julian David",
+                "surname":"Janna Olmos"
+            },
+            {
+                "firstname":"Philippe",
+                "surname":"Becquet"
+            },
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Jarosław",
+                "surname":"Sar"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Dąbrowski"
+            },
+            {
+                "firstname":"Grzegorz",
+                "surname":"Gawlik"
+            },
+            {
+                "firstname":"Marian",
+                "surname":"Teodorczyk"
+            },
+            {
+                "firstname":"Dorota",
+                "surname":"Pawlak"
+            },
+            {
+                "firstname":"Joanna",
+                "surname":"Kargul"
+            }
+        ],
+        "pages":"47854-47866",
+        "status":"published"
+    },
+    {
         "pmid":"12833266",
         "volume":"69",
         "number":"3",
         "year":"2003",
-        "title":"A simple lattice model that exhibits a protein-like cooperative all-or-none",
+        "title":"A simple lattice model that exhibits a protein-like cooperative all-or-none folding transition.",
         "pages":"399-405",
         "jrnl":"Biopolymers",
         "journal":"Biopolymers",
@@ -1561,7 +1627,7 @@
         "volume":"10",
         "number":"5",
         "year":"2022",
-        "title":"An Unprecedented Number of Cytochrome P450s Are Involved in Secondary Metabolism",
+        "title":"An Unprecedented Number of Cytochrome P450s Are Involved in Secondary Metabolism in Salinispora Species.",
         "jrnl":"Microorganisms",
         "journal":"Microorganisms",
         "authors":[
@@ -1667,7 +1733,7 @@
         "volume":"22",
         "number":"11",
         "year":"2008",
-        "title":"Fast and accurate methods for predicting short-range constraints in protein",
+        "title":"Fast and accurate methods for predicting short-range constraints in protein models.",
         "pages":"783-8",
         "jrnl":"J Comput Aided Mol Des",
         "journal":"Journal of computer-aided molecular design",
@@ -1762,7 +1828,8 @@
         "volume":"12",
         "number":"6",
         "year":"2022",
-        "title":"Automated Protein Secondary Structure Assignment from Cα Positions Using Neural",
+        "title":"Automated Protein Secondary Structure Assignment from Cα Positions Using Neural Networks.",
+        "pages":"841",
         "jrnl":"Biomolecules",
         "journal":"Biomolecules",
         "authors":[
@@ -1796,7 +1863,7 @@
         "volume":"21",
         "number":"7",
         "year":"2005",
-        "title":"A new approach to prediction of short-range conformational propensities in",
+        "title":"A new approach to prediction of short-range conformational propensities in proteins.",
         "pages":"981-7",
         "jrnl":"Bioinformatics",
         "journal":"Bioinformatics (Oxford, England)",
@@ -1840,7 +1907,7 @@
         "volume":"23",
         "number":"10",
         "year":"2022",
-        "title":"Lifestyles Shape the Cytochrome P450 Repertoire of the Bacterial Phylum",
+        "title":"Lifestyles Shape the Cytochrome P450 Repertoire of the Bacterial Phylum Proteobacteria.",
         "jrnl":"Int J Mol Sci",
         "journal":"International journal of molecular sciences",
         "authors":[
@@ -1967,7 +2034,7 @@
         "volume":"19",
         "number":"7",
         "year":"2012",
-        "title":"Optimization of profile-to-profile alignment parameters for one-dimensional",
+        "title":"Optimization of profile-to-profile alignment parameters for one-dimensional threading.",
         "pages":"879-86",
         "jrnl":"J Comput Biol",
         "journal":"Journal of computational biology : a journal of computational molecular cell",
@@ -1993,7 +2060,7 @@
         "volume":"15",
         "number":"5",
         "year":"2019",
-        "title":"Parallel Implementation of a Sequential Markov Chain in Monte Carlo Simulations",
+        "title":"Parallel Implementation of a Sequential Markov Chain in Monte Carlo Simulations of Physical Systems with Pairwise Interactions.",
         "pages":"2797-2806",
         "jrnl":"J Chem Theory Comput",
         "journal":"Journal of chemical theory and computation",
@@ -2030,7 +2097,7 @@
         "pmid":"25701680",
         "volume":"199",
         "year":"2015",
-        "title":"Improving thermal stability of thermophilic L-threonine aldolase from Thermotoga",
+        "title":"Improving thermal stability of thermophilic L-threonine aldolase from Thermotoga maritima.",
         "pages":"69-76",
         "jrnl":"J Biotechnol",
         "journal":"Journal of biotechnology",
@@ -2075,7 +2142,7 @@
         "volume":"23",
         "number":"9",
         "year":"2022",
-        "title":"Contrasting Health Effects of Bacteroidetes and Firmicutes Lies in Their Genomes:",
+        "title":"Contrasting Health Effects of Bacteroidetes and Firmicutes Lies in Their Genomes: Analysis of P450s, Ferredoxins, and Secondary Metabolite Clusters.",
         "jrnl":"Int J Mol Sci",
         "journal":"International journal of molecular sciences",
         "authors":[
@@ -2117,7 +2184,7 @@
         "volume":"116",
         "number":"23",
         "year":"2012",
-        "title":"From coarse-grained to atomic-level characterization of protein dynamics:",
+        "title":"From coarse-grained to atomic-level characterization of protein dynamics: transition state for the folding of B domain of protein A.",
         "pages":"7026-32",
         "jrnl":"J Phys Chem B",
         "journal":"The journal of physical chemistry. B",
@@ -2147,7 +2214,7 @@
         "volume":"1866",
         "number":"1",
         "year":"2018",
-        "title":"In silico analysis of cytochrome P450 monooxygenases in chronic granulomatous",
+        "title":"In silico analysis of cytochrome P450 monooxygenases in chronic granulomatous infectious fungus Sporothrix schenckii: Special focus on CYP51.",
         "pages":"166-177",
         "jrnl":"Biochim Biophys Acta Proteins Proteom",
         "journal":"Biochimica et biophysica acta. Proteins and proteomics",
@@ -2209,7 +2276,7 @@
         "volume":"4",
         "number":"8",
         "year":"2019",
-        "title":"Comparison of α-Helix and β-Sheet Structure Adaptation to a Quantum Dot Geometry:",
+        "title":"Comparison of α-Helix and β-Sheet Structure Adaptation to a Quantum Dot Geometry: Toward the Identification of an Optimal Motif for a Protein Nanoparticle Cover.",
         "pages":"13086-13099",
         "jrnl":"ACS Omega",
         "journal":"ACS omega",
@@ -2267,7 +2334,7 @@
         "volume":"21",
         "number":"13",
         "year":"2020",
-        "title":"More P450s Are Involved in Secondary Metabolite Biosynthesis in Streptomyces",
+        "title":"More P450s Are Involved in Secondary Metabolite Biosynthesis in Streptomyces Compared to Bacillus, Cyanobacteria, and Mycobacterium.",
         "jrnl":"Int J Mol Sci",
         "journal":"International journal of molecular sciences",
         "authors":[
@@ -2399,11 +2466,39 @@
         "status":"published"
     },
     {
+        "title":"Optimization of protein models",
+        "year":"2012",
+        "authors":[
+            {
+                "firstname":"Dominik",
+                "surname":"Gront"
+            },
+            {
+                "firstname":"Sebastian",
+                "surname":"Kmiecik"
+            },
+            {
+                "firstname":"Maciej",
+                "surname":"Blaszczyk"
+            },
+            {
+                "firstname":"Dariusz",
+                "surname":"Ekonomiuk"
+            },
+            {
+                "firstname":"Andrzej",
+                "surname":"Koliński"
+            }
+        ],
+        "pages":"479-493",
+        "status":"published"
+    },
+    {
         "pmid":"16365636",
         "volume":"53",
         "number":"1",
         "year":"2006",
-        "title":"Denatured proteins and early folding intermediates simulated in a reduced",
+        "title":"Denatured proteins and early folding intermediates simulated in a reduced conformational space.",
         "pages":"131-44",
         "jrnl":"Acta Biochim Pol",
         "journal":"Acta biochimica Polonica",
