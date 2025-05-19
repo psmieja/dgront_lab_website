@@ -92,10 +92,10 @@ def format_names(name_list):
     return formatted_names
     
     
-def print_as_text(articles):
+def print_as_text(articles, max_authors: int):
     format_str = "{}\n{}\n{} {}, {}({}), {}\n{}"
     for a in articles:
-        if len(a["authors"]) > 5:
+        if len(a["authors"]) > max_authors:
             authors = ", ".join(format_names(a["authors"][:4])) + " et al."
         else:
             authors = ", ".join(format_names(a["authors"]))
@@ -132,6 +132,7 @@ def main():
     parser.add_argument("-p", "--print" , help="Print all citations as text", action='store_true')
     parser.add_argument("-o", "--output", help="Path to the output JSON file. If not specified, prints to screen.")
     parser.add_argument("-f", "--folder", help="Path to a folder containing RIS files to process recursively.")
+    parser.add_argument("--full", help="Print the full entry, include all authors", action='store_true')
     
     args = parser.parse_args()
     
@@ -148,7 +149,8 @@ def main():
             json.dump(citation_data, json_file, indent=4, ensure_ascii=False)
         print(f"Converted {args.input} to {args.output}")
     elif args.print:
-        print_as_text(citation_data)
+        max_authors = 100 if args.full else 5
+        print_as_text(citation_data, max_authors)
     else:
         print(json.dumps(citation_data, indent=4, separators=(",", ":"), ensure_ascii=False))
 
